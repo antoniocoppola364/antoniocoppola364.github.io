@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hof",
+    "lat": 50.31667083709028,
+    "lon": 11.914112409035695,
+    "zoom": 13,
+    "instance": "hof/hof_network_B1.json",
+    "solutions": [
+      {
+        "name": "hof/20231205_ILSTest.json"
+      }
+    ]
+  },
+  {
+    "name": "Bad Staffelstein",
+    "lat": 50.1015093,
+    "lon": 10.9930915,
+    "zoom": 14,
+    "instance": "badstaffelstein/badstaffelstein_network_B1.json",
+    "solutions": []
+  },
+  {
+    "name": "Munich",
+    "lat": 48.13993254443849,
+    "lon": 11.566260927237575,
+    "zoom": 12,
+    "instance": "munich/munich_network_B1.json",
+    "solutions": []
+  }
+]

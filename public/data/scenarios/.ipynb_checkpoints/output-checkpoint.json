@@ -1,0 +1,664 @@
+{
+    "stops": [
+        {
+            "node_id": 11658141,
+            "order": 0,
+            "latitude": 48.1067327,
+            "longitude": 11.6278767,
+            "is_compulsory_stop": true,
+            "name": "Emdenstra\u00dfe",
+            "earliest_time": "06:14:30",
+            "latest_time": "06:14:30"
+        },
+        {
+            "node_id": 27186467,
+            "order": 1,
+            "latitude": 48.1075277,
+            "longitude": 11.6275524,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 31797680,
+            "order": 2,
+            "latitude": 48.1075856,
+            "longitude": 11.6275259,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11598339,
+            "order": 3,
+            "latitude": 48.1081444,
+            "longitude": 11.6273002,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27186465,
+            "order": 4,
+            "latitude": 48.1087444,
+            "longitude": 11.6272463,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27186469,
+            "order": 5,
+            "latitude": 48.1098426,
+            "longitude": 11.6273891,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11598335,
+            "order": 6,
+            "latitude": 48.110267,
+            "longitude": 11.6274297,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11874176,
+            "order": 7,
+            "latitude": 48.1106046,
+            "longitude": 11.627395,
+            "is_compulsory_stop": true,
+            "name": "Hofangerstra\u00dfe",
+            "earliest_time": "06:16:24",
+            "latest_time": "06:19:03"
+        },
+        {
+            "node_id": 11874176,
+            "order": 8,
+            "latitude": 48.1106046,
+            "longitude": 11.627395,
+            "is_compulsory_stop": true,
+            "name": "Hofangerstra\u00dfe",
+            "earliest_time": "06:16:24",
+            "latest_time": "06:19:03"
+        },
+        {
+            "node_id": 27223760,
+            "order": 9,
+            "latitude": 48.1112858,
+            "longitude": 11.6271997,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11658130,
+            "order": 10,
+            "latitude": 48.112146,
+            "longitude": 11.6267207,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11658131,
+            "order": 11,
+            "latitude": 48.1129105,
+            "longitude": 11.6263024,
+            "is_compulsory_stop": true,
+            "name": "Berger-Kreuz-Stra\u00dfe",
+            "earliest_time": "06:18:54",
+            "latest_time": "06:20:33"
+        },
+        {
+            "node_id": 11658131,
+            "order": 12,
+            "latitude": 48.1129105,
+            "longitude": 11.6263024,
+            "is_compulsory_stop": true,
+            "name": "Berger-Kreuz-Stra\u00dfe",
+            "earliest_time": "06:18:54",
+            "latest_time": "06:20:33"
+        },
+        {
+            "node_id": 11658133,
+            "order": 13,
+            "latitude": 48.1144296,
+            "longitude": 11.6258367,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27223778,
+            "order": 14,
+            "latitude": 48.1154965,
+            "longitude": 11.6256135,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27223779,
+            "order": 15,
+            "latitude": 48.1156531,
+            "longitude": 11.6255682,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11658135,
+            "order": 16,
+            "latitude": 48.1159839,
+            "longitude": 11.6254621,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1286487682,
+            "order": 17,
+            "latitude": 48.1170013,
+            "longitude": 11.6249726,
+            "is_compulsory_stop": true,
+            "name": "Krumbadstra\u00dfe",
+            "earliest_time": "06:21:44",
+            "latest_time": "06:24:35"
+        },
+        {
+            "node_id": 1286487682,
+            "order": 18,
+            "latitude": 48.1170013,
+            "longitude": 11.6249726,
+            "is_compulsory_stop": true,
+            "name": "Krumbadstra\u00dfe",
+            "earliest_time": "06:21:44",
+            "latest_time": "06:24:35"
+        },
+        {
+            "node_id": 14785110,
+            "order": 19,
+            "latitude": 48.11626,
+            "longitude": 11.6234059,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2915044785,
+            "order": 20,
+            "latitude": 48.1158146,
+            "longitude": 11.6217311,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27239395,
+            "order": 21,
+            "latitude": 48.1157741,
+            "longitude": 11.6215738,
+            "is_compulsory_stop": true,
+            "name": "Hechtseestra\u00dfe",
+            "earliest_time": "06:24:25",
+            "latest_time": "06:26:11"
+        },
+        {
+            "node_id": 27239395,
+            "order": 22,
+            "latitude": 48.1157741,
+            "longitude": 11.6215738,
+            "is_compulsory_stop": true,
+            "name": "Hechtseestra\u00dfe",
+            "earliest_time": "06:24:25",
+            "latest_time": "06:26:11"
+        },
+        {
+            "node_id": 27239402,
+            "order": 23,
+            "latitude": 48.1153892,
+            "longitude": 11.6201259,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14785112,
+            "order": 24,
+            "latitude": 48.1151521,
+            "longitude": 11.6192215,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14785111,
+            "order": 25,
+            "latitude": 48.1151218,
+            "longitude": 11.6189399,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14785098,
+            "order": 26,
+            "latitude": 48.1153392,
+            "longitude": 11.6178161,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14785097,
+            "order": 27,
+            "latitude": 48.1153757,
+            "longitude": 11.6176562,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8852784,
+            "order": 28,
+            "latitude": 48.1142,
+            "longitude": 11.6170068,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8852782,
+            "order": 29,
+            "latitude": 48.1131979,
+            "longitude": 11.6161886,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 31802348,
+            "order": 30,
+            "latitude": 48.1125952,
+            "longitude": 11.6156239,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 31802427,
+            "order": 31,
+            "latitude": 48.1128754,
+            "longitude": 11.614684,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 633552776,
+            "order": 32,
+            "latitude": 48.1154773,
+            "longitude": 11.613496,
+            "is_compulsory_stop": true,
+            "name": "Ramersdorf",
+            "earliest_time": "06:29:51",
+            "latest_time": "06:36:14"
+        },
+        {
+            "node_id": 633552776,
+            "order": 33,
+            "latitude": 48.1154773,
+            "longitude": 11.613496,
+            "is_compulsory_stop": true,
+            "name": "Ramersdorf",
+            "earliest_time": "06:29:51",
+            "latest_time": "06:36:14"
+        },
+        {
+            "node_id": 674310122,
+            "order": 34,
+            "latitude": 48.1157372,
+            "longitude": 11.6132477,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345574473,
+            "order": 35,
+            "latitude": 48.1167822,
+            "longitude": 11.6120474,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345575260,
+            "order": 36,
+            "latitude": 48.1175003,
+            "longitude": 11.6110842,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345575262,
+            "order": 37,
+            "latitude": 48.1184441,
+            "longitude": 11.6097595,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345575263,
+            "order": 38,
+            "latitude": 48.1185114,
+            "longitude": 11.6096599,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21151073,
+            "order": 39,
+            "latitude": 48.1184259,
+            "longitude": 11.6094774,
+            "is_compulsory_stop": true,
+            "name": "Karl-Preis-Platz",
+            "earliest_time": "06:35:02",
+            "latest_time": "06:37:50"
+        },
+        {
+            "node_id": 21151073,
+            "order": 40,
+            "latitude": 48.1184259,
+            "longitude": 11.6094774,
+            "is_compulsory_stop": true,
+            "name": "Karl-Preis-Platz",
+            "earliest_time": "06:35:02",
+            "latest_time": "06:37:50"
+        },
+        {
+            "node_id": 1955160,
+            "order": 41,
+            "latitude": 48.1183575,
+            "longitude": 11.609581,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345575262,
+            "order": 42,
+            "latitude": 48.1184441,
+            "longitude": 11.6097595,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345575263,
+            "order": 43,
+            "latitude": 48.1185114,
+            "longitude": 11.6096599,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345576157,
+            "order": 44,
+            "latitude": 48.1194102,
+            "longitude": 11.6082941,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21101984,
+            "order": 45,
+            "latitude": 48.12074,
+            "longitude": 11.6063561,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 363125,
+            "order": 46,
+            "latitude": 48.1208735,
+            "longitude": 11.6061841,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2087642090,
+            "order": 47,
+            "latitude": 48.1229654,
+            "longitude": 11.6036396,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7694466511,
+            "order": 48,
+            "latitude": 48.1230947,
+            "longitude": 11.6034278,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 13876331,
+            "order": 49,
+            "latitude": 48.1238541,
+            "longitude": 11.6020785,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 345579255,
+            "order": 50,
+            "latitude": 48.1222234,
+            "longitude": 11.6042799,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1288083014,
+            "order": 51,
+            "latitude": 48.1214294,
+            "longitude": 11.6050985,
+            "is_compulsory_stop": true,
+            "name": "Anzinger Stra\u00dfe",
+            "earliest_time": "06:41:42",
+            "latest_time": "06:49:04"
+        },
+        {
+            "node_id": 1288083014,
+            "order": 52,
+            "latitude": 48.1214294,
+            "longitude": 11.6050985,
+            "is_compulsory_stop": true,
+            "name": "Anzinger Stra\u00dfe",
+            "earliest_time": "06:41:42",
+            "latest_time": "06:49:04"
+        },
+        {
+            "node_id": 21151061,
+            "order": 53,
+            "latitude": 48.1208132,
+            "longitude": 11.6058431,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21151064,
+            "order": 54,
+            "latitude": 48.1206717,
+            "longitude": 11.6059954,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21101984,
+            "order": 55,
+            "latitude": 48.12074,
+            "longitude": 11.6063561,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 363125,
+            "order": 56,
+            "latitude": 48.1208735,
+            "longitude": 11.6061841,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2087642090,
+            "order": 57,
+            "latitude": 48.1229654,
+            "longitude": 11.6036396,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2087642090,
+            "order": 58,
+            "latitude": 48.1229654,
+            "longitude": 11.6036396,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7694466511,
+            "order": 59,
+            "latitude": 48.1230947,
+            "longitude": 11.6034278,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 13876331,
+            "order": 60,
+            "latitude": 48.1238541,
+            "longitude": 11.6020785,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 259832527,
+            "order": 61,
+            "latitude": 48.1247189,
+            "longitude": 11.6004596,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 428767,
+            "order": 62,
+            "latitude": 48.1252798,
+            "longitude": 11.5994407,
+            "is_compulsory_stop": true,
+            "name": "Orleansstra\u00dfe",
+            "earliest_time": "06:49:08",
+            "latest_time": "06:54:23"
+        },
+        {
+            "node_id": 428767,
+            "order": 63,
+            "latitude": 48.1252798,
+            "longitude": 11.5994407,
+            "is_compulsory_stop": true,
+            "name": "Orleansstra\u00dfe",
+            "earliest_time": "06:49:08",
+            "latest_time": "06:54:23"
+        },
+        {
+            "node_id": 2584552578,
+            "order": 64,
+            "latitude": 48.1276506,
+            "longitude": 11.6030569,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1170803296,
+            "order": 65,
+            "latitude": 48.1285751,
+            "longitude": 11.6044329,
+            "is_compulsory_stop": true,
+            "name": "Ostbahnhof (Post)",
+            "earliest_time": "06:54:01",
+            "latest_time": "06:57:11"
+        }
+    ]
+}

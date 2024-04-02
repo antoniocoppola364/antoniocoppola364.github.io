@@ -1,0 +1,2966 @@
+{
+    "stops": [
+        {
+            "node_id": 1232834655,
+            "order": 0,
+            "latitude": 48.1014135,
+            "longitude": 11.6463103,
+            "is_compulsory_stop": true,
+            "name": "Neuperlach Zentrum",
+            "earliest_time": "19:44:00",
+            "latest_time": "19:44:00",
+            "arrival_time": "19:44:00"
+        },
+        {
+            "node_id": 894671560,
+            "order": 1,
+            "latitude": 48.1016039,
+            "longitude": 11.6463738,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231583552,
+            "order": 2,
+            "latitude": 48.1017424,
+            "longitude": 11.646408,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041350,
+            "order": 3,
+            "latitude": 48.1018984,
+            "longitude": 11.6464323,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4191395234,
+            "order": 4,
+            "latitude": 48.1022296,
+            "longitude": 11.6464365,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152016,
+            "order": 5,
+            "latitude": 48.1028224,
+            "longitude": 11.6464436,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152021,
+            "order": 6,
+            "latitude": 48.1030693,
+            "longitude": 11.6464498,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152032,
+            "order": 7,
+            "latitude": 48.1034026,
+            "longitude": 11.6464536,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903162,
+            "order": 8,
+            "latitude": 48.1034617,
+            "longitude": 11.6464542,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152063,
+            "order": 9,
+            "latitude": 48.1035937,
+            "longitude": 11.6464545,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413079131,
+            "order": 10,
+            "latitude": 48.1035956,
+            "longitude": 11.6466807,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152059,
+            "order": 11,
+            "latitude": 48.103596,
+            "longitude": 11.6473624,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1770397910,
+            "order": 12,
+            "latitude": 48.1035628,
+            "longitude": 11.6478724,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 412997828,
+            "order": 13,
+            "latitude": 48.1035492,
+            "longitude": 11.6480279,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200311,
+            "order": 14,
+            "latitude": 48.1034721,
+            "longitude": 11.6487045,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3173404240,
+            "order": 15,
+            "latitude": 48.1034453,
+            "longitude": 11.6490994,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11250491655,
+            "order": 16,
+            "latitude": 48.1034398,
+            "longitude": 11.6491628,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152036,
+            "order": 17,
+            "latitude": 48.1034349,
+            "longitude": 11.6492246,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11250491656,
+            "order": 18,
+            "latitude": 48.103431,
+            "longitude": 11.6492789,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152034,
+            "order": 19,
+            "latitude": 48.103429,
+            "longitude": 11.6493331,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11250491653,
+            "order": 20,
+            "latitude": 48.1034278,
+            "longitude": 11.6494108,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413009996,
+            "order": 21,
+            "latitude": 48.1034287,
+            "longitude": 11.6494848,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299799,
+            "order": 22,
+            "latitude": 48.1034292,
+            "longitude": 11.6495482,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413027326,
+            "order": 23,
+            "latitude": 48.1034301,
+            "longitude": 11.6496526,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152035,
+            "order": 24,
+            "latitude": 48.1034346,
+            "longitude": 11.6497862,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9711714213,
+            "order": 25,
+            "latitude": 48.103436,
+            "longitude": 11.6498216,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3173404239,
+            "order": 26,
+            "latitude": 48.1034371,
+            "longitude": 11.649839,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689499,
+            "order": 27,
+            "latitude": 48.1034409,
+            "longitude": 11.6498785,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689501,
+            "order": 28,
+            "latitude": 48.1034459,
+            "longitude": 11.6499176,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689503,
+            "order": 29,
+            "latitude": 48.1034693,
+            "longitude": 11.6499051,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3173404241,
+            "order": 30,
+            "latitude": 48.1035094,
+            "longitude": 11.6498795,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487574,
+            "order": 31,
+            "latitude": 48.1035647,
+            "longitude": 11.6498432,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152035,
+            "order": 32,
+            "latitude": 48.1034346,
+            "longitude": 11.6497862,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11250491647,
+            "order": 33,
+            "latitude": 48.1033917,
+            "longitude": 11.6497707,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413024088,
+            "order": 34,
+            "latitude": 48.1033609,
+            "longitude": 11.6497636,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152028,
+            "order": 35,
+            "latitude": 48.1033078,
+            "longitude": 11.6497553,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152020,
+            "order": 36,
+            "latitude": 48.1030261,
+            "longitude": 11.6497389,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152015,
+            "order": 37,
+            "latitude": 48.1028011,
+            "longitude": 11.649722,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152010,
+            "order": 38,
+            "latitude": 48.1024026,
+            "longitude": 11.649659,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152006,
+            "order": 39,
+            "latitude": 48.1020853,
+            "longitude": 11.6495861,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152001,
+            "order": 40,
+            "latitude": 48.1019588,
+            "longitude": 11.6495527,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6386828096,
+            "order": 41,
+            "latitude": 48.1017674,
+            "longitude": 11.6494922,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6386861952,
+            "order": 42,
+            "latitude": 48.1016893,
+            "longitude": 11.6494669,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 312307302,
+            "order": 43,
+            "latitude": 48.1016141,
+            "longitude": 11.6494422,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192151991,
+            "order": 44,
+            "latitude": 48.1014201,
+            "longitude": 11.6493747,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192145288,
+            "order": 45,
+            "latitude": 48.1011858,
+            "longitude": 11.6492786,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192145287,
+            "order": 46,
+            "latitude": 48.101046,
+            "longitude": 11.6492163,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192145283,
+            "order": 47,
+            "latitude": 48.100669,
+            "longitude": 11.6490411,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15488641,
+            "order": 48,
+            "latitude": 48.1005713,
+            "longitude": 11.6489943,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 298495909,
+            "order": 49,
+            "latitude": 48.1003526,
+            "longitude": 11.6488738,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9346583728,
+            "order": 50,
+            "latitude": 48.0998888,
+            "longitude": 11.6485808,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192145275,
+            "order": 51,
+            "latitude": 48.0994361,
+            "longitude": 11.6482949,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7647571234,
+            "order": 52,
+            "latitude": 48.0990058,
+            "longitude": 11.6480029,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299776,
+            "order": 53,
+            "latitude": 48.0987644,
+            "longitude": 11.6478389,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999139,
+            "order": 54,
+            "latitude": 48.0987088,
+            "longitude": 11.6477974,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21551403,
+            "order": 55,
+            "latitude": 48.0986108,
+            "longitude": 11.6477242,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21551404,
+            "order": 56,
+            "latitude": 48.0985176,
+            "longitude": 11.6476547,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689338,
+            "order": 57,
+            "latitude": 48.0984931,
+            "longitude": 11.6479029,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689339,
+            "order": 58,
+            "latitude": 48.0985862,
+            "longitude": 11.6479847,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21551403,
+            "order": 59,
+            "latitude": 48.0986108,
+            "longitude": 11.6477242,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21551404,
+            "order": 60,
+            "latitude": 48.0985176,
+            "longitude": 11.6476547,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999036,
+            "order": 61,
+            "latitude": 48.098447,
+            "longitude": 11.6476041,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 298498355,
+            "order": 62,
+            "latitude": 48.0981717,
+            "longitude": 11.6474129,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206336,
+            "order": 63,
+            "latitude": 48.0977669,
+            "longitude": 11.6471512,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3070745899,
+            "order": 64,
+            "latitude": 48.0975181,
+            "longitude": 11.6469887,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206334,
+            "order": 65,
+            "latitude": 48.0973776,
+            "longitude": 11.6468979,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299760,
+            "order": 66,
+            "latitude": 48.0966284,
+            "longitude": 11.6464254,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789371974,
+            "order": 67,
+            "latitude": 48.0965725,
+            "longitude": 11.6463871,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210871573,
+            "order": 68,
+            "latitude": 48.0964635,
+            "longitude": 11.6463102,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 83699071,
+            "order": 69,
+            "latitude": 48.096424,
+            "longitude": 11.6464514,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658540,
+            "order": 70,
+            "latitude": 48.0963865,
+            "longitude": 11.6465857,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789418768,
+            "order": 71,
+            "latitude": 48.0963463,
+            "longitude": 11.6467294,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299756,
+            "order": 72,
+            "latitude": 48.0963251,
+            "longitude": 11.64681,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9472711343,
+            "order": 73,
+            "latitude": 48.0962961,
+            "longitude": 11.6469081,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508281,
+            "order": 74,
+            "latitude": 48.0962616,
+            "longitude": 11.6470246,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206322,
+            "order": 75,
+            "latitude": 48.0960583,
+            "longitude": 11.6477309,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689311,
+            "order": 76,
+            "latitude": 48.095632,
+            "longitude": 11.6491858,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 289111921,
+            "order": 77,
+            "latitude": 48.0954491,
+            "longitude": 11.6498071,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689308,
+            "order": 78,
+            "latitude": 48.0951542,
+            "longitude": 11.6507221,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 289402123,
+            "order": 79,
+            "latitude": 48.0948529,
+            "longitude": 11.6516371,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688116,
+            "order": 80,
+            "latitude": 48.0943566,
+            "longitude": 11.653149,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299751,
+            "order": 81,
+            "latitude": 48.0942434,
+            "longitude": 11.6534964,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 292744428,
+            "order": 82,
+            "latitude": 48.0942179,
+            "longitude": 11.6535749,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689300,
+            "order": 83,
+            "latitude": 48.0941666,
+            "longitude": 11.6537321,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 83700205,
+            "order": 84,
+            "latitude": 48.0941484,
+            "longitude": 11.6537949,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15355014,
+            "order": 85,
+            "latitude": 48.0941248,
+            "longitude": 11.6538606,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789372049,
+            "order": 86,
+            "latitude": 48.0940753,
+            "longitude": 11.6540101,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299750,
+            "order": 87,
+            "latitude": 48.0940483,
+            "longitude": 11.6540915,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 821911738,
+            "order": 88,
+            "latitude": 48.0940307,
+            "longitude": 11.6541448,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9866377245,
+            "order": 89,
+            "latitude": 48.0940128,
+            "longitude": 11.6541975,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2525383693,
+            "order": 90,
+            "latitude": 48.0939186,
+            "longitude": 11.6544752,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2577430696,
+            "order": 91,
+            "latitude": 48.0938142,
+            "longitude": 11.654792,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206224,
+            "order": 92,
+            "latitude": 48.0936657,
+            "longitude": 11.655189,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15486472,
+            "order": 93,
+            "latitude": 48.0935662,
+            "longitude": 11.655438,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1223097587,
+            "order": 94,
+            "latitude": 48.093409,
+            "longitude": 11.6557664,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15612650,
+            "order": 95,
+            "latitude": 48.093297,
+            "longitude": 11.6560063,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299748,
+            "order": 96,
+            "latitude": 48.0931521,
+            "longitude": 11.6562715,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132823,
+            "order": 97,
+            "latitude": 48.0928462,
+            "longitude": 11.6567935,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15486473,
+            "order": 98,
+            "latitude": 48.0924961,
+            "longitude": 11.6574034,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 833004766,
+            "order": 99,
+            "latitude": 48.0922611,
+            "longitude": 11.6578233,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299747,
+            "order": 100,
+            "latitude": 48.0920736,
+            "longitude": 11.6581973,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15486474,
+            "order": 101,
+            "latitude": 48.0919326,
+            "longitude": 11.6584939,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299746,
+            "order": 102,
+            "latitude": 48.0917557,
+            "longitude": 11.658899,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15486475,
+            "order": 103,
+            "latitude": 48.0913874,
+            "longitude": 11.6597679,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8500693183,
+            "order": 104,
+            "latitude": 48.0911806,
+            "longitude": 11.6602761,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 269181575,
+            "order": 105,
+            "latitude": 48.0909712,
+            "longitude": 11.6608095,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4670670011,
+            "order": 106,
+            "latitude": 48.0907825,
+            "longitude": 11.6613191,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 419241634,
+            "order": 107,
+            "latitude": 48.090745,
+            "longitude": 11.6614202,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299745,
+            "order": 108,
+            "latitude": 48.090711,
+            "longitude": 11.6615122,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206107,
+            "order": 109,
+            "latitude": 48.0906869,
+            "longitude": 11.6615772,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 29674129,
+            "order": 110,
+            "latitude": 48.0906438,
+            "longitude": 11.6616988,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 269181527,
+            "order": 111,
+            "latitude": 48.0906137,
+            "longitude": 11.661788,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 791273932,
+            "order": 112,
+            "latitude": 48.0905279,
+            "longitude": 11.661726,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299743,
+            "order": 113,
+            "latitude": 48.0904483,
+            "longitude": 11.6617229,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6791173726,
+            "order": 114,
+            "latitude": 48.0903643,
+            "longitude": 11.661714,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 821911740,
+            "order": 115,
+            "latitude": 48.0902398,
+            "longitude": 11.6616991,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 668977237,
+            "order": 116,
+            "latitude": 48.090154,
+            "longitude": 11.6616882,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 52676916,
+            "order": 117,
+            "latitude": 48.0899874,
+            "longitude": 11.6616755,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918733,
+            "order": 118,
+            "latitude": 48.0890029,
+            "longitude": 11.661642,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 52676928,
+            "order": 119,
+            "latitude": 48.0889369,
+            "longitude": 11.6616407,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918729,
+            "order": 120,
+            "latitude": 48.0888549,
+            "longitude": 11.6616405,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918726,
+            "order": 121,
+            "latitude": 48.0884489,
+            "longitude": 11.6616395,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918723,
+            "order": 122,
+            "latitude": 48.0883296,
+            "longitude": 11.6616406,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1693451946,
+            "order": 123,
+            "latitude": 48.0881924,
+            "longitude": 11.6616469,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918720,
+            "order": 124,
+            "latitude": 48.0880914,
+            "longitude": 11.6616621,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918719,
+            "order": 125,
+            "latitude": 48.0879676,
+            "longitude": 11.6616902,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1693451928,
+            "order": 126,
+            "latitude": 48.0877548,
+            "longitude": 11.6617352,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918708,
+            "order": 127,
+            "latitude": 48.0875899,
+            "longitude": 11.6617558,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 177564053,
+            "order": 128,
+            "latitude": 48.0873959,
+            "longitude": 11.66178,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918689,
+            "order": 129,
+            "latitude": 48.0870392,
+            "longitude": 11.6618159,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000909,
+            "order": 130,
+            "latitude": 48.0866271,
+            "longitude": 11.6618543,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918683,
+            "order": 131,
+            "latitude": 48.086641,
+            "longitude": 11.6617559,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918684,
+            "order": 132,
+            "latitude": 48.0866999,
+            "longitude": 11.6611505,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2696918685,
+            "order": 133,
+            "latitude": 48.0867197,
+            "longitude": 11.6609354,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000900,
+            "order": 134,
+            "latitude": 48.086727,
+            "longitude": 11.6607522,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 694529310,
+            "order": 135,
+            "latitude": 48.0867481,
+            "longitude": 11.6600399,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1693451920,
+            "order": 136,
+            "latitude": 48.086748,
+            "longitude": 11.6598835,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000899,
+            "order": 137,
+            "latitude": 48.0867221,
+            "longitude": 11.6597826,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000898,
+            "order": 138,
+            "latitude": 48.0866816,
+            "longitude": 11.6597339,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 695822177,
+            "order": 139,
+            "latitude": 48.0863643,
+            "longitude": 11.6597386,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000886,
+            "order": 140,
+            "latitude": 48.0859534,
+            "longitude": 11.659738,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 300598035,
+            "order": 141,
+            "latitude": 48.0858437,
+            "longitude": 11.6597365,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2873175123,
+            "order": 142,
+            "latitude": 48.0855353,
+            "longitude": 11.6597158,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000879,
+            "order": 143,
+            "latitude": 48.085436,
+            "longitude": 11.6596879,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6484281057,
+            "order": 144,
+            "latitude": 48.0850561,
+            "longitude": 11.6595004,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000878,
+            "order": 145,
+            "latitude": 48.0849977,
+            "longitude": 11.6594716,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132587,
+            "order": 146,
+            "latitude": 48.0845202,
+            "longitude": 11.6592204,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132585,
+            "order": 147,
+            "latitude": 48.0844663,
+            "longitude": 11.6592061,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000867,
+            "order": 148,
+            "latitude": 48.0844358,
+            "longitude": 11.6592133,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2873175108,
+            "order": 149,
+            "latitude": 48.0844012,
+            "longitude": 11.6592452,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 252133520,
+            "order": 150,
+            "latitude": 48.0843793,
+            "longitude": 11.6592903,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 690830545,
+            "order": 151,
+            "latitude": 48.0843222,
+            "longitude": 11.6594987,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000866,
+            "order": 152,
+            "latitude": 48.0841525,
+            "longitude": 11.660082,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6484265378,
+            "order": 153,
+            "latitude": 48.0838981,
+            "longitude": 11.6610411,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 26000854,
+            "order": 154,
+            "latitude": 48.0838711,
+            "longitude": 11.6611428,
+            "is_compulsory_stop": true,
+            "name": "Klara-Ziegler-Bogen",
+            "earliest_time": "19:58:08",
+            "latest_time": "19:58:22",
+            "arrival_time": "19:58:22"
+        }
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.0993341033103,
+                "lon": 11.647183597989184,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.082853312294695,
+                "lon": 11.660818236761632,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09843079609593,
+                "lon": 11.644457428570774,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09905486435982,
+                "lon": 11.649038778342122,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10135146820812,
+                "lon": 11.650410060012831,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08386937384926,
+                "lon": 11.661859938419774,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099624084814174,
+                "lon": 11.648090230444948,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09628028414048,
+                "lon": 11.650394297643674,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09661780246608,
+                "lon": 11.651676565065674,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09356627289529,
+                "lon": 11.654367371282962,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10107489999999,
+                "lon": 11.646810649999999,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09713086067744,
+                "lon": 11.655404325275141,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09804090203842,
+                "lon": 11.65579402600785,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09483671161393,
+                "lon": 11.656231106381064,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.102519814053025,
+                "lon": 11.647404798852937,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.086188524985225,
+                "lon": 11.660932913122208,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.102853859896726,
+                "lon": 11.64916833101048,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08556628152945,
+                "lon": 11.660633212724342,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10107489999999,
+                "lon": 11.646810649999999,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09682478108164,
+                "lon": 11.651645756639725,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09963038056171,
+                "lon": 11.649980142151739,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.097202348266165,
+                "lon": 11.654210412937417,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 11,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.1015270002774,
+                "lon": 11.643837795698344,
+                "building_num": 22
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 11,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.0954152856444,
+                "lon": 11.650955098096393,
+                "building_num": 23
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 12,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09972374518963,
+                "lon": 11.649251119955856,
+                "building_num": 24
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 12,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.096533712100076,
+                "lon": 11.65303342909189,
+                "building_num": 25
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 13,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09922195860301,
+                "lon": 11.649040522747903,
+                "building_num": 26
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 13,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09682478108164,
+                "lon": 11.651645756639725,
+                "building_num": 27
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 14,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10142576831468,
+                "lon": 11.647907148166716,
+                "building_num": 28
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 14,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09520730932063,
+                "lon": 11.65323996711485,
+                "building_num": 29
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 15,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10007079300995,
+                "lon": 11.643681737856769,
+                "building_num": 30
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 15,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09335515513672,
+                "lon": 11.65080328109909,
+                "building_num": 31
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 16,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09905486435982,
+                "lon": 11.649038778342122,
+                "building_num": 32
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 16,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09640042881682,
+                "lon": 11.648536565354155,
+                "building_num": 33
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 17,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10001212403772,
+                "lon": 11.64836890984411,
+                "building_num": 34
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 17,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.086526699899004,
+                "lon": 11.661258695657587,
+                "building_num": 35
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 18,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10092381156407,
+                "lon": 11.644562354002641,
+                "building_num": 36
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 18,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08723829817121,
+                "lon": 11.661477636116832,
+                "building_num": 37
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 19,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09898041738468,
+                "lon": 11.649978340519217,
+                "building_num": 38
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 19,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09404282077555,
+                "lon": 11.653202642049665,
+                "building_num": 39
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 20,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101723406163224,
+                "lon": 11.64927397530927,
+                "building_num": 40
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 20,
+                "assigned_stop": "Im Gefilde",
+                "lat": 48.090138350000004,
+                "lon": 11.66283,
+                "building_num": 41
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 21,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09972374518963,
+                "lon": 11.649251119955856,
+                "building_num": 42
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 21,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09596061802577,
+                "lon": 11.647041360339163,
+                "building_num": 43
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 22,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.102853859896726,
+                "lon": 11.64916833101048,
+                "building_num": 44
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 22,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08700224258347,
+                "lon": 11.664966569266978,
+                "building_num": 45
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 23,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09966409515661,
+                "lon": 11.652040760127566,
+                "building_num": 46
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 23,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09769662936979,
+                "lon": 11.649636759686963,
+                "building_num": 47
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 24,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10311329970773,
+                "lon": 11.64403883837516,
+                "building_num": 48
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 24,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.0967819140525,
+                "lon": 11.654856336141867,
+                "building_num": 49
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 25,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099036538990354,
+                "lon": 11.64662028884478,
+                "building_num": 50
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 25,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08769318617825,
+                "lon": 11.664693984794217,
+                "building_num": 51
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 26,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09905486435982,
+                "lon": 11.649038778342122,
+                "building_num": 52
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 26,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09552654680538,
+                "lon": 11.656822988012337,
+                "building_num": 53
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 27,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101725865207804,
+                "lon": 11.647980665385866,
+                "building_num": 54
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 27,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.084425949528566,
+                "lon": 11.662116595539523,
+                "building_num": 55
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 28,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09984217743258,
+                "lon": 11.649262995808678,
+                "building_num": 56
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 28,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09706916074206,
+                "lon": 11.658981914371958,
+                "building_num": 57
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 29,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09890322132691,
+                "lon": 11.649214049653404,
+                "building_num": 58
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 29,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09786919858391,
+                "lon": 11.64871604083146,
+                "building_num": 59
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 30,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10129805866731,
+                "lon": 11.64584605543322,
+                "building_num": 60
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 30,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.085164017321034,
+                "lon": 11.661996313542584,
+                "building_num": 61
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 31,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10000717464852,
+                "lon": 11.65089529604913,
+                "building_num": 62
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 31,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.09905486435982,
+                "lon": 11.649038778342122,
+                "building_num": 63
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 32,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099053744150936,
+                "lon": 11.647690557132185,
+                "building_num": 64
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 32,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08512616065638,
+                "lon": 11.66417886072788,
+                "building_num": 65
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 33,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101725865207804,
+                "lon": 11.647980665385866,
+                "building_num": 66
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 33,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.096289550235554,
+                "lon": 11.649021639997953,
+                "building_num": 67
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 34,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098163541010216,
+                "lon": 11.64622408244259,
+                "building_num": 68
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 34,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08655665480081,
+                "lon": 11.660271085126265,
+                "building_num": 69
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 35,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098944930225116,
+                "lon": 11.643284486475592,
+                "building_num": 70
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 35,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.096533712100076,
+                "lon": 11.65303342909189,
+                "building_num": 71
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 36,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099036538990354,
+                "lon": 11.64662028884478,
+                "building_num": 72
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 36,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08412889783893,
+                "lon": 11.661520446658573,
+                "building_num": 73
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 37,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.095518514264654,
+                "lon": 11.653211090084671,
+                "building_num": 74
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 37,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09365710315006,
+                "lon": 11.650489044759595,
+                "building_num": 75
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 38,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09839051370148,
+                "lon": 11.643478087246438,
+                "building_num": 76
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 38,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09547405,
+                "lon": 11.654531549999998,
+                "building_num": 77
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 39,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098163541010216,
+                "lon": 11.64622408244259,
+                "building_num": 78
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 39,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08512616065638,
+                "lon": 11.66417886072788,
+                "building_num": 79
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 40,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09982824967984,
+                "lon": 11.648197921538818,
+                "building_num": 80
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 40,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08637342081548,
+                "lon": 11.662225151150807,
+                "building_num": 81
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 41,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099697180999385,
+                "lon": 11.647421509904126,
+                "building_num": 82
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 41,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.0854353449341,
+                "lon": 11.658940387502232,
+                "building_num": 83
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 42,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098772951322054,
+                "lon": 11.644380801056123,
+                "building_num": 84
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 42,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09661780246608,
+                "lon": 11.651676565065674,
+                "building_num": 85
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 43,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.099620719825374,
+                "lon": 11.647740376740394,
+                "building_num": 86
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 43,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.083971166748555,
+                "lon": 11.661439600033724,
+                "building_num": 87
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 44,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09984217743258,
+                "lon": 11.649262995808678,
+                "building_num": 88
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 44,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09626278524899,
+                "lon": 11.652323819504907,
+                "building_num": 89
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 45,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098553686928085,
+                "lon": 11.643210971311222,
+                "building_num": 90
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 45,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08420378968071,
+                "lon": 11.66159748341992,
+                "building_num": 91
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 46,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10142576831468,
+                "lon": 11.647907148166716,
+                "building_num": 92
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 46,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08606156934174,
+                "lon": 11.662091519587475,
+                "building_num": 93
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 47,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099764829496266,
+                "lon": 11.644212806095489,
+                "building_num": 94
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 47,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09377679629441,
+                "lon": 11.65157981438551,
+                "building_num": 95
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 48,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10001212403772,
+                "lon": 11.64836890984411,
+                "building_num": 96
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 48,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08134835314816,
+                "lon": 11.659964989318707,
+                "building_num": 97
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 49,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10092381156407,
+                "lon": 11.644562354002641,
+                "building_num": 98
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 49,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09610682871933,
+                "lon": 11.65407669107797,
+                "building_num": 99
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 50,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10170601021007,
+                "lon": 11.648811064866997,
+                "building_num": 100
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 50,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.0848120561733,
+                "lon": 11.663144680550571,
+                "building_num": 101
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 51,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101213599999994,
+                "lon": 11.645373349999998,
+                "building_num": 102
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 51,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.0881057811646,
+                "lon": 11.66394489526174,
+                "building_num": 103
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 52,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.1012492930086,
+                "lon": 11.651239317762384,
+                "building_num": 104
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 52,
+                "assigned_stop": "Klara-Ziegler-Bogen",
+                "lat": 48.08440166768867,
+                "lon": 11.659826860015588,
+                "building_num": 105
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 53,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10001212403772,
+                "lon": 11.64836890984411,
+                "building_num": 106
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 53,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.0868508743877,
+                "lon": 11.661502542348776,
+                "building_num": 107
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 54,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09922195860301,
+                "lon": 11.649040522747903,
+                "building_num": 108
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 54,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08581757051388,
+                "lon": 11.66386755415885,
+                "building_num": 109
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 55,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10030711042117,
+                "lon": 11.64821145562836,
+                "building_num": 110
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 55,
+                "assigned_stop": "Im Gefilde",
+                "lat": 48.089362349999995,
+                "lon": 11.664249450000002,
+                "building_num": 111
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 56,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.1001317,
+                "lon": 11.6535565,
+                "building_num": 112
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 56,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.096698417250074,
+                "lon": 11.652799213633784,
+                "building_num": 113
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 57,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101723406163224,
+                "lon": 11.64927397530927,
+                "building_num": 114
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 57,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08585560085481,
+                "lon": 11.662452400841827,
+                "building_num": 115
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 58,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09984980068085,
+                "lon": 11.649982228602928,
+                "building_num": 116
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 58,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.093183359496344,
+                "lon": 11.65797716931993,
+                "building_num": 117
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 59,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10153970751716,
+                "lon": 11.650376852730036,
+                "building_num": 118
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 59,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.086924730604395,
+                "lon": 11.659626324697934,
+                "building_num": 119
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 60,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10030711042117,
+                "lon": 11.64821145562836,
+                "building_num": 120
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 60,
+                "assigned_stop": "Kafkastra\u00dfe",
+                "lat": 48.099747856355705,
+                "lon": 11.651154631066076,
+                "building_num": 121
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 61,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10142576831468,
+                "lon": 11.647907148166716,
+                "building_num": 122
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 61,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09843084999999,
+                "lon": 11.653178,
+                "building_num": 123
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 62,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.100232388501276,
+                "lon": 11.645259261359925,
+                "building_num": 124
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 62,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08620162503604,
+                "lon": 11.661583489221075,
+                "building_num": 125
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 63,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10007079300995,
+                "lon": 11.643681737856769,
+                "building_num": 126
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 63,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09755084756091,
+                "lon": 11.658414889431782,
+                "building_num": 127
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 64,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.098181885139255,
+                "lon": 11.64346204642775,
+                "building_num": 128
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 64,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.087706125394064,
+                "lon": 11.66423876310498,
+                "building_num": 129
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 65,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.101213599999994,
+                "lon": 11.645373349999998,
+                "building_num": 130
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 65,
+                "assigned_stop": "Tribulaunstra\u00dfe",
+                "lat": 48.09372597973185,
+                "lon": 11.653912587832062,
+                "building_num": 131
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 66,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10000717464852,
+                "lon": 11.65089529604913,
+                "building_num": 132
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 66,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.09788233750138,
+                "lon": 11.648998291834472,
+                "building_num": 133
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 67,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10142576831468,
+                "lon": 11.647907148166716,
+                "building_num": 134
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 67,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09504450446986,
+                "lon": 11.653225459891546,
+                "building_num": 135
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 68,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.1015106246662,
+                "lon": 11.650626605992583,
+                "building_num": 136
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 68,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08589243878049,
+                "lon": 11.66212936930127,
+                "building_num": 137
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 69,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10129805866731,
+                "lon": 11.64584605543322,
+                "building_num": 138
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 69,
+                "assigned_stop": "Isengaustra\u00dfe",
+                "lat": 48.08585036816413,
+                "lon": 11.662214653217443,
+                "building_num": 139
+            },
+            "utility": 1000,
+            "is_served": false
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 3.76,
+        "kWh_consumption_1.5_kWh_x_km": 5.65,
+        "minutes_travel_time": 14.03,
+        "num_total_request": 70,
+        "num_served_requests": 6,
+        "meters_total_walking_distance": 20469.66
+    }
+}

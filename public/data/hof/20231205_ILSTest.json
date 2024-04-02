@@ -1,0 +1,350 @@
+{
+  "itineraries": [
+    {
+      "vehicle": "BTS110",
+      "route": [
+        {
+          "id": "Depot",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 01:00:00"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 01:00:00"
+          },
+          "is_depot": true,
+          "is_stop": false,
+          "is_charger": false
+        },
+        {
+          "id": "Wilhelmstra�e_static_charger",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 01:02:02"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 01:02:12"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": true
+        },
+        {
+          "id": "13901",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 01:04:51"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:32:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "13801",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:32:19"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:33:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "11101",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:33:32"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:34:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "94801",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:34:34"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:36:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "94901",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:36:11"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:37:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "95001",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:37:15"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:38:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "99201",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:38:16"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:39:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "18401",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:39:55"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "Bismarckstra�e_segment_node0",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:16"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:16"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": true
+        },
+        {
+          "id": "Bismarckstra�e_segment_node1",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:18"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:18"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": true
+        },
+        {
+          "id": "Bismarckstra�e_segment_node2",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:20"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:20"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": false
+        },
+        {
+          "id": "11202",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:41:42"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "Hans-B�ckler-Stra�e_segment_node0",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:16"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:16"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": false
+        },
+        {
+          "id": "Hans-B�ckler-Stra�e_segment_node1",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:18"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:18"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": false
+        },
+        {
+          "id": "Hans-B�ckler-Stra�e_segment_node2",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:20"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:20"
+          },
+          "is_depot": false,
+          "is_stop": false,
+          "is_charger": false
+        },
+        {
+          "id": "13702",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:46:38"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:47:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "18002",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:47:49"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:48:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "13602",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:48:31"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:50:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "98604",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:50:25"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:51:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "13502",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:51:42"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:52:00"
+          },
+          "is_depot": false,
+          "is_stop": true,
+          "is_charger": false
+        },
+        {
+          "id": "Depot",
+          "arrival_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:54:21"
+          },
+          "departure_time": {
+            "_type": "datetime.timestamp",
+            "_value": "01/01/1970, 06:54:21"
+          },
+          "is_depot": true,
+          "is_stop": false,
+          "is_charger": false
+        }
+      ]
+    }
+  ],
+  "dynamic_invest": {
+    "Bismarckstra�e_segment_node0-Bismarckstra�e_segment_node1": {
+      "id": "Bismarckstra�e",
+      "charger_cost": 11.0,
+      "transformer_cost_share": 3.0,
+      "is_inductive": true,
+      "key_0": "Bismarckstra�e_segment_node0",
+      "key_1": "Bismarckstra�e_segment_node1"
+    }
+  },
+  "static_invest": {
+    "Wilhelmstra�e_static_charger": {
+      "id": "Wilhelmstra�e_static_charger",
+      "charger_cost": 0.0,
+      "transformer_cost_share": 150.0,
+      "is_inductive": true
+    }
+  },
+  "routing_cost": 194.42210611345598
+}
