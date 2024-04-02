@@ -14,7 +14,6 @@ import {
 } from "react-router-dom";
 import ProjectPage from "./pages/Project";
 import AffiliatesPage from "./pages/Affiliates";
-import ExplorerPage from "./pages/Explorer";
 import PublicationsPage from "./pages/Publications";
 import ImpressumPage from "./pages/Impressum";
 import RoutesPage from "./pages/RoutesPage"; // Import your new component
@@ -27,7 +26,6 @@ const router = createBrowserRouter(
                     <Route path="project" element={<ProjectPage/>}/>
                     <Route path="affiliates" element={<AffiliatesPage/>}/>
                     <Route path="publications" element={<PublicationsPage/>}/>
-                    <Route path="explorer/*" element={<ExplorerPage/>}/>
                     <Route path="impressum" element={<ImpressumPage/>}/>
                     <Route path="routes" element={<RoutesPage/>}/>
                     <Route path="about" element={<Navigate to="/project" replace/>}/>

@@ -99,7 +99,7 @@ export default function HeaderBar() {
                                     ))}
                                 </Menu>
                             </Box>
-                            MILAS
+                            STEAM
                         </Typography>
                         <Box sx={{flexGrow: 1, display: {xs: 'none', md: 'flex'}}}>
                             {pages.map((page) => (
