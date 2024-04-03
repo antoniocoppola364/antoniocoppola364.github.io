@@ -142,17 +142,23 @@ const RequestPointsComponent: React.FC<RequestPointsComponentProps> = ({
 };
 
 const CompulsoryStopsComponent: React.FC<{ stops: Stop[] }> = ({ stops }) => {
+
   return (
     <>
       {stops.map((stop, index) => {
-        if (stop.is_compulsory_stop) {
+        // Determine icon URL based on is_compulsory_stop
+        const iconUrl = stop.is_compulsory_stop === false
+          ? '/data/bus_op45.svg' // Placeholder for less visible icon
+          : '/data/bus.svg'; // Default icon
+
+        // Check if stop is either true or false for is_compulsory_stop
+        if (stop.is_compulsory_stop !== null) {
           return (
             <Marker
               key={index}
               position={[stop.latitude, stop.longitude]}
-              // Optional: Benutzerdefiniertes Icon
               icon={new L.Icon({
-                iconUrl: 'https://www.svgrepo.com/show/527634/bus.svg',
+                iconUrl: iconUrl,
                 iconSize: [25, 25],
               })}
             >
@@ -161,7 +167,7 @@ const CompulsoryStopsComponent: React.FC<{ stops: Stop[] }> = ({ stops }) => {
                   {stop.name}
                   <br />
                   {'Arrival Time: ' + stop.arrival_time}
-                  </div>
+                </div>
               </Popup>
             </Marker>
           );
@@ -171,6 +177,8 @@ const CompulsoryStopsComponent: React.FC<{ stops: Stop[] }> = ({ stops }) => {
     </>
   );
 };
+
+
 
 const DynamicCenter: React.FC<{ stops: Stop[] }> = ({ stops }) => {
   const map = useMap();
@@ -250,11 +258,15 @@ const Legend = () => {
       </Box>
 
       <Box sx={{ textAlign: 'left', marginX: 2 }}>
-        <Typography variant="subtitle2">Compulsory Stop</Typography>
+        <Typography variant="subtitle2">Stops</Typography>
         <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
+        <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
+            <img src="/data/bus.svg" alt="Compulsory Stop" style={{ width: '20px', height: '20px', marginRight: '4px' }} />
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Compulsory Bus Stop</Typography>
+          </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
-            <img src="https://www.svgrepo.com/show/527634/bus.svg" alt="Compulsory Stop" style={{ width: '20px', height: '20px', marginRight: '4px' }} />
-            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Bus Stop</Typography>
+            <img src="/data/bus_op45.svg" alt="Optional Stop" style={{ width: '20px', height: '20px', marginRight: '4px' }} />
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Optional Bus Stop</Typography>
           </Box>
         </Box>
       </Box>
@@ -312,7 +324,7 @@ const MapView: React.FC<MapViewProps> = ({ scenario, time, compulsoryStopsValue,
         <DynamicCenter stops={stops} />
         {showComponents && <AntPathComponent stops={stops} />}
         {showComponents && <RequestPointsComponent requests={requests} showServedRequests={showServedRequests} showUnservedRequests={showUnservedRequests} />}
-        {showComponents && <CompulsoryStopsComponent stops={stops.filter(stop => stop.is_compulsory_stop)} />}
+        {showComponents && <CompulsoryStopsComponent stops={stops.filter(stop => stop.is_compulsory_stop !== null)} />}
       </MapContainer>
       <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
         <Legend />
