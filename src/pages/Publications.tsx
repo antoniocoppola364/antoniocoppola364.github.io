@@ -4,21 +4,43 @@ import Typography from '@mui/material/Typography';
 export default function PublicationsPage() {
     return (
         <>
-            <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h3">
-                {'PublicationsPage'}
+            <Typography sx={{mt: 6, mb: 3}} color="text.primary" variant="h3">
+                Publications
             </Typography>
-            <Typography sx={{mt: 6, mb: 3}} color="text.secondary">
-                {'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   \n' +
-                    '\n' +
-                    'Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   \n' +
-                    '\n' +
-                    'Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   \n' +
-                    '\n' +
-                    'Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   \n' +
-                    '\n' +
-                    'Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   \n' +
-                    '\n' +
-                    'At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur '}
+            
+            <Typography sx={{mt: 4, mb: 2}} color="text.primary" variant="h4">
+                Bachelor Thesis
+            </Typography>
+            <Typography sx={{mb: 4}} color="text.secondary">
+                Bachelor Thesis explored...
+            </Typography>
+            
+            <Typography sx={{mt: 4, mb: 2}} color="text.primary" variant="h4">
+                Master Thesis
+            </Typography>
+            <Typography sx={{mb: 4}} color="text.secondary">
+                Master Thesis delved into the complexities of...
+            </Typography>
+            
+            <Typography sx={{mt: 4, mb: 2}} color="text.primary" variant="h4">
+                IDP (Interdisciplinary Project)
+            </Typography>
+            <Typography sx={{mb: 4}} color="text.secondary">
+                In this interdisciplinary project, a student developed a comprehensive model to generate passenger demand for public transportation, leveraging data provided by Stadtwerke München (SWM). Utilizing General Transit Feed Specification (GTFS) data, he extracted and analyzed stop information for specific bus routes. The methodology involved creating stochastic Origin-Destination (OD) matrices based on average passenger movements, with enhancements through iterative proportional fitting and mapping to nearby buildings within a specified radius, thereby simulating realistic passenger trips.
+            </Typography>
+            
+            <Typography sx={{mt: 4, mb: 2}} color="text.primary" variant="h4">
+                Conference Talks
+            </Typography>
+            <Typography sx={{mb: 4}} color="text.secondary">
+                Highlights and insights from various conference talks...
+            </Typography>
+            
+            <Typography sx={{mt: 4, mb: 2}} color="text.primary" variant="h4">
+                Papers
+            </Typography>
+            <Typography sx={{mb: 4}} color="text.secondary">
+                A collection of academic and research papers...
             </Typography>
         </>
     );
