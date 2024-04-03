@@ -205,47 +205,63 @@ interface MapViewProps {
 const Legend = () => {
   return (
     <Paper elevation={3} sx={{ display: 'flex', justifyContent: 'left', flexWrap: 'wrap', padding: 2 }}>
-      {/* Origin and Destination for Served Requests */}
       <Box sx={{ textAlign: 'left', marginX: 2 }}>
-      <Typography variant="subtitle2">Served Requests</Typography>
-      <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
-        <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
-          <svg width="16" height="16" style={{ marginRight: '4px' }}><rect width="16" height="16" style={{ fill: '#007bff' }} /></svg>
-          <Typography variant="caption" sx={{ lineHeight: '16px' }}>Origin</Typography>
-        </Box>
-        <Box sx={{ display: 'flex', alignItems: 'center' }}>
-          <svg width="16" height="16" viewBox="0 0 16 16" style={{ marginRight: '4px' }}><circle cx="8" cy="8" r="8" style={{ fill: '#dc3545' }} /></svg>
-          <Typography variant="caption" sx={{ lineHeight: '16px' }}>Destination</Typography>
+        <Typography variant="subtitle2">Served Requests</Typography>
+        <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
+          <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
+            <div style={{ marginRight: '4px' }}>
+              <svg width="14" height="14" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                <rect width="10" height="10" fill="#007bff33" stroke="#007bff" stroke-width="2.5" />
+              </svg>
+            </div>
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Origin</Typography>
+          </Box>
+          <Box sx={{ display: 'flex', alignItems: 'center' }}>
+            <div style={{ marginRight: '4px' }}>
+              <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="8" cy="8" r="6" fill="#dc354533" stroke="#dc3545" stroke-width="2.5" />
+              </svg>
+            </div>
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Destination</Typography>
+          </Box>
         </Box>
       </Box>
-    </Box>
 
-    <Box sx={{ textAlign: 'left', marginX: 2 }}>
-      <Typography variant="subtitle2">Unserved Requests</Typography>
-      <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
-        <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
-          <svg width="16" height="16" style={{ marginRight: '4px' }}><rect width="16" height="16" style={{ fill: '#add8e6' }} /></svg>
-          <Typography variant="caption" sx={{ lineHeight: '16px' }}>Origin</Typography>
-        </Box>
-        <Box sx={{ display: 'flex', alignItems: 'center' }}>
-          <svg width="16" height="16" viewBox="0 0 16 16" style={{ marginRight: '4px' }}><circle cx="8" cy="8" r="8" style={{ fill: '#f08080' }} /></svg>
-          <Typography variant="caption" sx={{ lineHeight: '16px' }}>Destination</Typography>
+      <Box sx={{ textAlign: 'left', marginX: 2 }}>
+        <Typography variant="subtitle2">Unserved Requests</Typography>
+        <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
+          <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
+            <div style={{ marginRight: '4px' }}>
+              <svg width="14" height="14" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                <rect width="10" height="10" fill="#add8e633" stroke="#add8e6" stroke-width="2.5" />
+              </svg>
+            </div>
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Origin</Typography>
+          </Box>
+          <Box sx={{ display: 'flex', alignItems: 'center' }}>
+            <div style={{ marginRight: '4px' }}>
+              <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="8" cy="8" r="6" fill="#f0808033" stroke="#f08080" stroke-width="2.5" />
+              </svg>
+            </div>
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Destination</Typography>
+          </Box>
         </Box>
       </Box>
-    </Box>
 
-    <Box sx={{ textAlign: 'left', marginX: 2 }}>
-      <Typography variant="subtitle2">Compulsory Stop</Typography>
-      <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
-        <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
-          <img src="https://www.svgrepo.com/show/527634/bus.svg" alt="Compulsory Stop" style={{ width: '20px', height: '20px', marginRight: '4px' }} />
-          <Typography variant="caption" sx={{ lineHeight: '16px' }}>Bus Stop</Typography>
+      <Box sx={{ textAlign: 'left', marginX: 2 }}>
+        <Typography variant="subtitle2">Compulsory Stop</Typography>
+        <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'left', justifyContent: 'left' }}>
+          <Box sx={{ display: 'flex', alignItems: 'center', marginBottom: '4px' }}>
+            <img src="https://www.svgrepo.com/show/527634/bus.svg" alt="Compulsory Stop" style={{ width: '20px', height: '20px', marginRight: '4px' }} />
+            <Typography variant="caption" sx={{ lineHeight: '16px' }}>Bus Stop</Typography>
+          </Box>
         </Box>
       </Box>
-    </Box>
     </Paper>
   );
 };
+
 
 
 const MapView: React.FC<MapViewProps> = ({ scenario, time, compulsoryStopsValue, demandFactorValue, latestTimeFactorValue, walkingDistanceValue, showServedRequests, showUnservedRequests, mode, setKPI }) => {
