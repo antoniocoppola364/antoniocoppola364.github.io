@@ -4,7 +4,6 @@ export default function ProjectPage() {
     return (
             <>
                 <h1>Modular intelligent inductive charging systems for automomous shuttles</h1>
-                <img src={'./milas_logo.jpg'} alt='Milas Logo' width='100%'></img>
 
                 <p>
                     <b>Project duration:</b> 36 months (01.08.2021 – 31.07.2024)<br/>
