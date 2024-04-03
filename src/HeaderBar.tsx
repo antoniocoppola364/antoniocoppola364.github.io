@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import {Link as RouterLink} from 'react-router-dom';
 
-const pages = ['Project', 'Explorer', 'Publications', 'Routes', 'Affiliates'];
+const pages = ['Project', 'Publications', 'Routes', 'Affiliates'];
 
 export default function HeaderBar() {
     const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
