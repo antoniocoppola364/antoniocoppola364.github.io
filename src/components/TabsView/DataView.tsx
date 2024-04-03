@@ -1,5 +1,5 @@
 import React from 'react';
-import { ResponsiveContainer, BarChart, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Bar, PieChart, Pie, Cell, TooltipProps } from 'recharts';
+import { ResponsiveContainer, BarChart, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Bar, PieChart, Pie, Cell, TooltipProps, LegendType } from 'recharts';
 
 interface KPI {
   km_travel_distance: number;
@@ -15,14 +15,18 @@ interface DataViewProps {
 }
 
 const CustomTooltip: React.FC<TooltipProps<number, string>> = ({ active, payload }) => {
-  if (active && payload && payload.length) {
+  if (active && payload && payload.length > 0) {
+    // Ensure payload[0] exists before accessing its properties
+    const name = payload[0].name;
+    const value = payload[0].value;
+
+    // Now safely use name and value in your template, with fallbacks in case they're undefined
     return (
       <div className="custom-tooltip" style={{ backgroundColor: '#fff', padding: '10px', border: '1px solid #ccc' }}>
-        <p>{`${payload[0].name}: ${payload[0].value.toFixed(2)}`}</p>
+        <p>{`${name}: ${value !== undefined ? value.toFixed(2) : ''}`}</p>
       </div>
     );
   }
-
   return null;
 };
 
@@ -57,7 +61,7 @@ const DataView: React.FC<DataViewProps> = ({ kpi }) => {
     // Custom legend items based on the data array
     const legendPayload = data.map((item) => ({
       value: item.name2, // Using the name2 field for the legend label
-      type: 'rect', // Shape of the legend marker
+      type: 'rect' as LegendType,
       color: item.fill, // Color of the legend marker
       id: item.name2,
     }));
