@@ -1,0 +1,1322 @@
+{
+    "parameters": {
+        "line": 155,
+        "direction": "R",
+        "service_time": "18:14:30",
+        "comp_percentage": 1.0,
+        "node_dist": 200,
+        "compulsory_stop_dist": 200,
+        "demand_factor": 1,
+        "latest_time_factor": 1.5,
+        "proposed_time_factor": 0.5,
+        "seed": 0,
+        "walking_distance": 250,
+        "util_value": 1000,
+        "fixed_route": false
+    },
+    "stops": [
+        {
+            "latitude": 48.1067327,
+            "longitude": 11.6278767,
+            "is_compulsory": true,
+            "order": 0,
+            "segment": [
+                1
+            ],
+            "id": 11658141,
+            "name": "Emdenstraße",
+            "earliest_time": "18:14:30",
+            "latest_time": "18:14:30"
+        },
+        {
+            "latitude": 48.1106046,
+            "longitude": 11.627395,
+            "is_compulsory": true,
+            "order": 10,
+            "segment": [
+                1,
+                2
+            ],
+            "id": 11874176,
+            "name": "Hofangerstraße",
+            "earliest_time": "18:16:08",
+            "latest_time": "18:16:57"
+        },
+        {
+            "latitude": 48.1037416,
+            "longitude": 11.6285875,
+            "is_compulsory": false,
+            "order": 1,
+            "segment": [
+                1
+            ],
+            "id": 676038986,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1040693,
+            "longitude": 11.6243062,
+            "is_compulsory": false,
+            "order": 2,
+            "segment": [
+                1
+            ],
+            "id": 1686979167,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1035576,
+            "longitude": 11.6200313,
+            "is_compulsory": false,
+            "order": 3,
+            "segment": [
+                1
+            ],
+            "id": 31728104,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1032237,
+            "longitude": 11.6330966,
+            "is_compulsory": false,
+            "order": 4,
+            "segment": [
+                1
+            ],
+            "id": 1574851071,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.109753,
+            "longitude": 11.620697,
+            "is_compulsory": false,
+            "order": 5,
+            "segment": [
+                1
+            ],
+            "id": 31798194,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1081709,
+            "longitude": 11.6225615,
+            "is_compulsory": false,
+            "order": 6,
+            "segment": [
+                1
+            ],
+            "id": 1502699528,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1065516,
+            "longitude": 11.6243366,
+            "is_compulsory": false,
+            "order": 7,
+            "segment": [
+                1
+            ],
+            "id": 31797462,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1081639,
+            "longitude": 11.6255386,
+            "is_compulsory": false,
+            "order": 8,
+            "segment": [
+                1
+            ],
+            "id": 31797327,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1086749,
+            "longitude": 11.6296341,
+            "is_compulsory": false,
+            "order": 9,
+            "segment": [
+                1
+            ],
+            "id": 27186445,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1129105,
+            "longitude": 11.6263024,
+            "is_compulsory": true,
+            "order": 15,
+            "segment": [
+                2,
+                3
+            ],
+            "id": 11658131,
+            "name": "Berger-Kreuz-Straße",
+            "earliest_time": "18:17:33",
+            "latest_time": "18:18:03"
+        },
+        {
+            "latitude": 48.11129,
+            "longitude": 11.6240914,
+            "is_compulsory": false,
+            "order": 11,
+            "segment": [
+                2
+            ],
+            "id": 27223719,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1122229,
+            "longitude": 11.6290439,
+            "is_compulsory": false,
+            "order": 12,
+            "segment": [
+                2
+            ],
+            "id": 1733175688,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1090514,
+            "longitude": 11.6348584,
+            "is_compulsory": false,
+            "order": 13,
+            "segment": [
+                2
+            ],
+            "id": 27186296,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1068342,
+            "longitude": 11.6318896,
+            "is_compulsory": false,
+            "order": 14,
+            "segment": [
+                2
+            ],
+            "id": 27198099,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1170013,
+            "longitude": 11.6249726,
+            "is_compulsory": true,
+            "order": 21,
+            "segment": [
+                3,
+                4
+            ],
+            "id": 1286487682,
+            "name": "Krumbadstraße",
+            "earliest_time": "18:19:33",
+            "latest_time": "18:20:25"
+        },
+        {
+            "latitude": 48.1133827,
+            "longitude": 11.6226608,
+            "is_compulsory": false,
+            "order": 16,
+            "segment": [
+                3
+            ],
+            "id": 27223745,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1177767,
+            "longitude": 11.6277223,
+            "is_compulsory": false,
+            "order": 17,
+            "segment": [
+                3
+            ],
+            "id": 290527779,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1183244,
+            "longitude": 11.6305295,
+            "is_compulsory": false,
+            "order": 18,
+            "segment": [
+                3
+            ],
+            "id": 1077015281,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1160653,
+            "longitude": 11.6300416,
+            "is_compulsory": false,
+            "order": 19,
+            "segment": [
+                3
+            ],
+            "id": 27223792,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1155567,
+            "longitude": 11.6271007,
+            "is_compulsory": false,
+            "order": 20,
+            "segment": [
+                3
+            ],
+            "id": 27223786,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1157741,
+            "longitude": 11.6215738,
+            "is_compulsory": true,
+            "order": 30,
+            "segment": [
+                4,
+                5
+            ],
+            "id": 27239395,
+            "name": "Hechtseestraße",
+            "earliest_time": "18:21:04",
+            "latest_time": "18:21:36"
+        },
+        {
+            "latitude": 48.1211269,
+            "longitude": 11.6316459,
+            "is_compulsory": false,
+            "order": 22,
+            "segment": [
+                4
+            ],
+            "id": 17884346,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1218884,
+            "longitude": 11.6242022,
+            "is_compulsory": false,
+            "order": 23,
+            "segment": [
+                4
+            ],
+            "id": 32265515,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1200013,
+            "longitude": 11.6242583,
+            "is_compulsory": false,
+            "order": 24,
+            "segment": [
+                4
+            ],
+            "id": 21101979,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1202935,
+            "longitude": 11.6202162,
+            "is_compulsory": false,
+            "order": 25,
+            "segment": [
+                4
+            ],
+            "id": 2387698051,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1179056,
+            "longitude": 11.6216406,
+            "is_compulsory": false,
+            "order": 26,
+            "segment": [
+                4
+            ],
+            "id": 27239381,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1170081,
+            "longitude": 11.6191498,
+            "is_compulsory": false,
+            "order": 27,
+            "segment": [
+                4
+            ],
+            "id": 27239390,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1153392,
+            "longitude": 11.6178161,
+            "is_compulsory": false,
+            "order": 28,
+            "segment": [
+                4
+            ],
+            "id": 14785098,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1136498,
+            "longitude": 11.6199443,
+            "is_compulsory": false,
+            "order": 29,
+            "segment": [
+                4
+            ],
+            "id": 27239407,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1154773,
+            "longitude": 11.613496,
+            "is_compulsory": true,
+            "order": 35,
+            "segment": [
+                5,
+                6
+            ],
+            "id": 633552776,
+            "name": "Ramersdorf",
+            "earliest_time": "18:25:15",
+            "latest_time": "18:27:12"
+        },
+        {
+            "latitude": 48.1064517,
+            "longitude": 11.621003,
+            "is_compulsory": false,
+            "order": 31,
+            "segment": [
+                5
+            ],
+            "id": 31726406,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1104421,
+            "longitude": 11.6123654,
+            "is_compulsory": false,
+            "order": 32,
+            "segment": [
+                5
+            ],
+            "id": 808179098,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1120603,
+            "longitude": 11.6106491,
+            "is_compulsory": false,
+            "order": 33,
+            "segment": [
+                5
+            ],
+            "id": 32678001,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1139114,
+            "longitude": 11.6120214,
+            "is_compulsory": false,
+            "order": 34,
+            "segment": [
+                5
+            ],
+            "id": 1587733254,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1184259,
+            "longitude": 11.6094774,
+            "is_compulsory": true,
+            "order": 51,
+            "segment": [
+                6,
+                7
+            ],
+            "id": 21151073,
+            "name": "Karl-Preis-Platz",
+            "earliest_time": "18:27:56",
+            "latest_time": "18:28:47"
+        },
+        {
+            "latitude": 48.1121453,
+            "longitude": 11.6150821,
+            "is_compulsory": false,
+            "order": 36,
+            "segment": [
+                6
+            ],
+            "id": 472059,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1184251,
+            "longitude": 11.6141351,
+            "is_compulsory": false,
+            "order": 37,
+            "segment": [
+                6
+            ],
+            "id": 31804284,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1202658,
+            "longitude": 11.6128482,
+            "is_compulsory": false,
+            "order": 38,
+            "segment": [
+                6
+            ],
+            "id": 1022281018,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1233553,
+            "longitude": 11.6130947,
+            "is_compulsory": false,
+            "order": 39,
+            "segment": [
+                6
+            ],
+            "id": 32268758,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1231673,
+            "longitude": 11.6160738,
+            "is_compulsory": false,
+            "order": 40,
+            "segment": [
+                6
+            ],
+            "id": 32675860,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1206682,
+            "longitude": 11.6161233,
+            "is_compulsory": false,
+            "order": 41,
+            "segment": [
+                6
+            ],
+            "id": 3397235135,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1170737,
+            "longitude": 11.6113902,
+            "is_compulsory": false,
+            "order": 42,
+            "segment": [
+                6
+            ],
+            "id": 32268714,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1153571,
+            "longitude": 11.6102309,
+            "is_compulsory": false,
+            "order": 43,
+            "segment": [
+                6
+            ],
+            "id": 32264606,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1153214,
+            "longitude": 11.607136,
+            "is_compulsory": false,
+            "order": 44,
+            "segment": [
+                6
+            ],
+            "id": 32677677,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.112827,
+            "longitude": 11.6064929,
+            "is_compulsory": false,
+            "order": 45,
+            "segment": [
+                6
+            ],
+            "id": 1955174,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1136816,
+            "longitude": 11.6026513,
+            "is_compulsory": false,
+            "order": 46,
+            "segment": [
+                6
+            ],
+            "id": 21486968,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.11643,
+            "longitude": 11.6041583,
+            "is_compulsory": false,
+            "order": 47,
+            "segment": [
+                6
+            ],
+            "id": 1545232729,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1163526,
+            "longitude": 11.5996903,
+            "is_compulsory": false,
+            "order": 48,
+            "segment": [
+                6
+            ],
+            "id": 21151070,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1190709,
+            "longitude": 11.5980658,
+            "is_compulsory": false,
+            "order": 49,
+            "segment": [
+                6
+            ],
+            "id": 21151071,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1200344,
+            "longitude": 11.6025181,
+            "is_compulsory": false,
+            "order": 50,
+            "segment": [
+                6
+            ],
+            "id": 18576394,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1214294,
+            "longitude": 11.6050985,
+            "is_compulsory": true,
+            "order": 55,
+            "segment": [
+                7,
+                8
+            ],
+            "id": 1288083014,
+            "name": "Anzinger Straße",
+            "earliest_time": "18:32:53",
+            "latest_time": "18:35:09"
+        },
+        {
+            "latitude": 48.1210465,
+            "longitude": 11.6087549,
+            "is_compulsory": false,
+            "order": 52,
+            "segment": [
+                7
+            ],
+            "id": 363124,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1249328,
+            "longitude": 11.6094602,
+            "is_compulsory": false,
+            "order": 53,
+            "segment": [
+                7
+            ],
+            "id": 21522753,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1265235,
+            "longitude": 11.6113232,
+            "is_compulsory": false,
+            "order": 54,
+            "segment": [
+                7
+            ],
+            "id": 9669039411,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1252798,
+            "longitude": 11.5994407,
+            "is_compulsory": true,
+            "order": 60,
+            "segment": [
+                8,
+                9
+            ],
+            "id": 428767,
+            "name": "Orleansstraße",
+            "earliest_time": "18:37:14",
+            "latest_time": "18:38:50"
+        },
+        {
+            "latitude": 48.1229654,
+            "longitude": 11.6036396,
+            "is_compulsory": false,
+            "order": 56,
+            "segment": [
+                8
+            ],
+            "id": 2087642090,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1258003,
+            "longitude": 11.6049853,
+            "is_compulsory": false,
+            "order": 57,
+            "segment": [
+                8
+            ],
+            "id": 4401460725,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1273427,
+            "longitude": 11.6073058,
+            "is_compulsory": false,
+            "order": 58,
+            "segment": [
+                8
+            ],
+            "id": 7194079971,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1290793,
+            "longitude": 11.6096456,
+            "is_compulsory": false,
+            "order": 59,
+            "segment": [
+                8
+            ],
+            "id": 21511117,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1285751,
+            "longitude": 11.6044329,
+            "is_compulsory": true,
+            "order": 79,
+            "segment": [
+                9
+            ],
+            "id": 1170803296,
+            "name": "Ostbahnhof (Post)",
+            "earliest_time": "18:39:59",
+            "latest_time": "18:40:57"
+        },
+        {
+            "latitude": 48.121394,
+            "longitude": 11.5989516,
+            "is_compulsory": false,
+            "order": 61,
+            "segment": [
+                9
+            ],
+            "id": 1955147,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1238748,
+            "longitude": 11.5969548,
+            "is_compulsory": false,
+            "order": 62,
+            "segment": [
+                9
+            ],
+            "id": 1955146,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.123479,
+            "longitude": 11.5927864,
+            "is_compulsory": false,
+            "order": 63,
+            "segment": [
+                9
+            ],
+            "id": 29265595,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1254383,
+            "longitude": 11.5927877,
+            "is_compulsory": false,
+            "order": 64,
+            "segment": [
+                9
+            ],
+            "id": 29533633,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1295401,
+            "longitude": 11.5923808,
+            "is_compulsory": false,
+            "order": 65,
+            "segment": [
+                9
+            ],
+            "id": 19093371,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1265068,
+            "longitude": 11.597349,
+            "is_compulsory": false,
+            "order": 66,
+            "segment": [
+                9
+            ],
+            "id": 21740037,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1278625,
+            "longitude": 11.5950781,
+            "is_compulsory": false,
+            "order": 67,
+            "segment": [
+                9
+            ],
+            "id": 428771,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1293523,
+            "longitude": 11.5973058,
+            "is_compulsory": false,
+            "order": 68,
+            "segment": [
+                9
+            ],
+            "id": 19223853,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1282459,
+            "longitude": 11.5999306,
+            "is_compulsory": false,
+            "order": 69,
+            "segment": [
+                9
+            ],
+            "id": 19223865,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1269366,
+            "longitude": 11.601835,
+            "is_compulsory": false,
+            "order": 70,
+            "segment": [
+                9
+            ],
+            "id": 27594918,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1295186,
+            "longitude": 11.6018431,
+            "is_compulsory": false,
+            "order": 71,
+            "segment": [
+                9
+            ],
+            "id": 1954868,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1309679,
+            "longitude": 11.5997336,
+            "is_compulsory": false,
+            "order": 72,
+            "segment": [
+                9
+            ],
+            "id": 1954864,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1335497,
+            "longitude": 11.5989939,
+            "is_compulsory": false,
+            "order": 73,
+            "segment": [
+                9
+            ],
+            "id": 1954844,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.133726,
+            "longitude": 11.6018882,
+            "is_compulsory": false,
+            "order": 74,
+            "segment": [
+                9
+            ],
+            "id": 1954833,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.133134,
+            "longitude": 11.6050497,
+            "is_compulsory": false,
+            "order": 75,
+            "segment": [
+                9
+            ],
+            "id": 1954830,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1323657,
+            "longitude": 11.6101691,
+            "is_compulsory": false,
+            "order": 76,
+            "segment": [
+                9
+            ],
+            "id": 428756,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1293559,
+            "longitude": 11.6126394,
+            "is_compulsory": false,
+            "order": 77,
+            "segment": [
+                9
+            ],
+            "id": 13876334,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1304226,
+            "longitude": 11.6050699,
+            "is_compulsory": false,
+            "order": 78,
+            "segment": [
+                9
+            ],
+            "id": 19224028,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        }
+    ],
+    "route": [
+        11658141,
+        11874176,
+        11658131,
+        1286487682,
+        27239395,
+        633552776,
+        21151073,
+        1288083014,
+        2087642090,
+        428767,
+        1170803296
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Karl-Preis-Platz",
+                "lat": 48.120052703375606,
+                "lon": 11.609858363080965,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Orleansstraße",
+                "lat": 48.12320690977639,
+                "lon": 11.596708577302202,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Orleansstraße",
+                "lat": 48.12559452878979,
+                "lon": 11.599240143913857,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.127908011076265,
+                "lon": 11.608616915588355,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Hofangerstraße",
+                "lat": 48.10961882688836,
+                "lon": 11.628907644932935,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Anzinger Straße",
+                "lat": 48.12343040121009,
+                "lon": 11.60566640913113,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Hechtseestraße",
+                "lat": 48.11793946004539,
+                "lon": 11.618446281910886,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.12769026666461,
+                "lon": 11.606028999869267,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Hechtseestraße",
+                "lat": 48.1159554660859,
+                "lon": 11.621402419970336,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.127303558464085,
+                "lon": 11.608123296935505,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Hechtseestraße",
+                "lat": 48.118005799853805,
+                "lon": 11.622707989645086,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.1291956,
+                "lon": 11.602561750000001,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Emdenstraße",
+                "lat": 48.109650367873996,
+                "lon": 11.629408837019323,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.128628508022686,
+                "lon": 11.605065552382532,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Anzinger Straße",
+                "lat": 48.12160717757608,
+                "lon": 11.604497005881612,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.12757140000001,
+                "lon": 11.605449649999999,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "Krumbadstraße",
+                "lat": 48.116832603214924,
+                "lon": 11.62386589521217,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Karl-Preis-Platz",
+                "lat": 48.11648515000001,
+                "lon": 11.60778525,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Karl-Preis-Platz",
+                "lat": 48.117736664545795,
+                "lon": 11.609457529247726,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Ostbahnhof (Post)",
+                "lat": 48.13007588148694,
+                "lon": 11.604815674185275,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Karl-Preis-Platz",
+                "lat": 48.120052703375606,
+                "lon": 11.609858363080965,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "Anzinger Straße",
+                "lat": 48.12026879767525,
+                "lon": 11.607534413430518,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": true
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 5.57,
+        "kWh_consumption_1.5_kWh_x_km": 8.35,
+        "minutes_travel_time": 20.76,
+        "num_total_request": 11,
+        "num_served_requests": 7,
+        "meters_total_walking_distance": 3028.79,
+        "arrival_times_at_compulsory_stops": [
+            "18:14:30",
+            "18:16:08",
+            "18:17:33",
+            "18:19:33",
+            "18:21:04",
+            "18:25:15",
+            "18:27:56",
+            "18:32:53",
+            "18:37:14",
+            "18:39:59"
+        ]
+    }
+}

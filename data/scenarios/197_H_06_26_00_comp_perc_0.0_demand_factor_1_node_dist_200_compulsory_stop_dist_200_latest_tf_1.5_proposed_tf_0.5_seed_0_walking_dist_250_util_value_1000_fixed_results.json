@@ -1,0 +1,1573 @@
+{
+    "parameters": {
+        "line": 197,
+        "direction": "H",
+        "service_time": "06:26:00",
+        "comp_percentage": 0.0,
+        "node_dist": 200,
+        "compulsory_stop_dist": 200,
+        "demand_factor": 1,
+        "latest_time_factor": 1.5,
+        "proposed_time_factor": 0.5,
+        "seed": 0,
+        "walking_distance": 250,
+        "util_value": 1000,
+        "fixed_route": true
+    },
+    "stops": [
+        {
+            "latitude": 48.0994897,
+            "longitude": 11.6408367,
+            "is_compulsory": true,
+            "order": 0,
+            "segment": [
+                1
+            ],
+            "id": 32947969,
+            "name": "Schumacherring",
+            "earliest_time": "06:26:00",
+            "latest_time": "06:26:00"
+        },
+        {
+            "latitude": 48.1031053,
+            "longitude": 11.636644,
+            "is_compulsory": true,
+            "order": 8,
+            "segment": [
+                1,
+                2
+            ],
+            "id": 32947212,
+            "name": "Holzwiesenstraße",
+            "earliest_time": "06:28:19",
+            "latest_time": "06:29:28"
+        },
+        {
+            "latitude": 48.099715,
+            "longitude": 11.6366576,
+            "is_compulsory": false,
+            "order": 1,
+            "segment": [
+                1
+            ],
+            "id": 1566687300,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.097184,
+            "longitude": 11.6363523,
+            "is_compulsory": false,
+            "order": 2,
+            "segment": [
+                1
+            ],
+            "id": 1551606451,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0966806,
+            "longitude": 11.6389691,
+            "is_compulsory": false,
+            "order": 3,
+            "segment": [
+                1
+            ],
+            "id": 1551606445,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0947624,
+            "longitude": 11.6358567,
+            "is_compulsory": false,
+            "order": 4,
+            "segment": [
+                1
+            ],
+            "id": 21675496,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0951931,
+            "longitude": 11.6328274,
+            "is_compulsory": false,
+            "order": 5,
+            "segment": [
+                1
+            ],
+            "id": 25877719,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0997872,
+            "longitude": 11.6309981,
+            "is_compulsory": false,
+            "order": 6,
+            "segment": [
+                1
+            ],
+            "id": 21508275,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0983202,
+            "longitude": 11.6342424,
+            "is_compulsory": false,
+            "order": 7,
+            "segment": [
+                1
+            ],
+            "id": 32956238,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.107085,
+            "longitude": 11.6366186,
+            "is_compulsory": true,
+            "order": 12,
+            "segment": [
+                2,
+                3
+            ],
+            "id": 1073094754,
+            "name": "Nawiaskystraße",
+            "earliest_time": "06:30:32",
+            "latest_time": "06:31:21"
+        },
+        {
+            "latitude": 48.1027944,
+            "longitude": 11.6303508,
+            "is_compulsory": false,
+            "order": 9,
+            "segment": [
+                2
+            ],
+            "id": 14785106,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1040799,
+            "longitude": 11.633613,
+            "is_compulsory": false,
+            "order": 10,
+            "segment": [
+                2
+            ],
+            "id": 504255702,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.103422,
+            "longitude": 11.6404206,
+            "is_compulsory": false,
+            "order": 11,
+            "segment": [
+                2
+            ],
+            "id": 1578469285,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1090786,
+            "longitude": 11.6393091,
+            "is_compulsory": true,
+            "order": 18,
+            "segment": [
+                3,
+                4
+            ],
+            "id": 1605621194,
+            "name": "Staudingerstraße",
+            "earliest_time": "06:32:22",
+            "latest_time": "06:33:05"
+        },
+        {
+            "latitude": 48.1055826,
+            "longitude": 11.6489519,
+            "is_compulsory": false,
+            "order": 13,
+            "segment": [
+                3
+            ],
+            "id": 15612632,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1068424,
+            "longitude": 11.6335867,
+            "is_compulsory": false,
+            "order": 14,
+            "segment": [
+                3
+            ],
+            "id": 27198101,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1102139,
+            "longitude": 11.6335903,
+            "is_compulsory": false,
+            "order": 15,
+            "segment": [
+                3
+            ],
+            "id": 27186317,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1122485,
+            "longitude": 11.6300242,
+            "is_compulsory": false,
+            "order": 16,
+            "segment": [
+                3
+            ],
+            "id": 27186412,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1097392,
+            "longitude": 11.6296156,
+            "is_compulsory": false,
+            "order": 17,
+            "segment": [
+                3
+            ],
+            "id": 27186430,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.109075,
+            "longitude": 11.6431654,
+            "is_compulsory": true,
+            "order": 19,
+            "segment": [
+                4,
+                5
+            ],
+            "id": 27186269,
+            "name": "Plettstraße",
+            "earliest_time": "06:33:48",
+            "latest_time": "06:34:20"
+        },
+        {
+            "latitude": 48.1090735,
+            "longitude": 11.6465208,
+            "is_compulsory": true,
+            "order": 20,
+            "segment": [
+                5,
+                6
+            ],
+            "id": 24555227,
+            "name": "Quiddestraße",
+            "earliest_time": "06:35:00",
+            "latest_time": "06:35:28"
+        },
+        {
+            "latitude": 48.1090766,
+            "longitude": 11.6500097,
+            "is_compulsory": true,
+            "order": 34,
+            "segment": [
+                6,
+                7
+            ],
+            "id": 21508224,
+            "name": "Karl-Marx-Ring",
+            "earliest_time": "06:36:12",
+            "latest_time": "06:36:41"
+        },
+        {
+            "latitude": 48.1068697,
+            "longitude": 11.6463068,
+            "is_compulsory": false,
+            "order": 21,
+            "segment": [
+                6
+            ],
+            "id": 534447757,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1058723,
+            "longitude": 11.6390438,
+            "is_compulsory": false,
+            "order": 22,
+            "segment": [
+                6
+            ],
+            "id": 15687733,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1058675,
+            "longitude": 11.6417573,
+            "is_compulsory": false,
+            "order": 23,
+            "segment": [
+                6
+            ],
+            "id": 15687753,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1117613,
+            "longitude": 11.6487105,
+            "is_compulsory": false,
+            "order": 24,
+            "segment": [
+                6
+            ],
+            "id": 15487575,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1135384,
+            "longitude": 11.6493039,
+            "is_compulsory": false,
+            "order": 25,
+            "segment": [
+                6
+            ],
+            "id": 14658515,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1144577,
+            "longitude": 11.6464488,
+            "is_compulsory": false,
+            "order": 26,
+            "segment": [
+                6
+            ],
+            "id": 14658524,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1106668,
+            "longitude": 11.6577536,
+            "is_compulsory": false,
+            "order": 27,
+            "segment": [
+                6
+            ],
+            "id": 16059461,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1122584,
+            "longitude": 11.6603387,
+            "is_compulsory": false,
+            "order": 28,
+            "segment": [
+                6
+            ],
+            "id": 16059492,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.114393,
+            "longitude": 11.65963,
+            "is_compulsory": false,
+            "order": 29,
+            "segment": [
+                6
+            ],
+            "id": 21093106,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1131068,
+            "longitude": 11.6560258,
+            "is_compulsory": false,
+            "order": 30,
+            "segment": [
+                6
+            ],
+            "id": 16059511,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1142357,
+            "longitude": 11.6534809,
+            "is_compulsory": false,
+            "order": 31,
+            "segment": [
+                6
+            ],
+            "id": 13344082,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1126416,
+            "longitude": 11.6517273,
+            "is_compulsory": false,
+            "order": 32,
+            "segment": [
+                6
+            ],
+            "id": 14658510,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1111574,
+            "longitude": 11.6543346,
+            "is_compulsory": false,
+            "order": 33,
+            "segment": [
+                6
+            ],
+            "id": 15355006,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1090694,
+            "longitude": 11.6529126,
+            "is_compulsory": true,
+            "order": 37,
+            "segment": [
+                7,
+                8
+            ],
+            "id": 21643991,
+            "name": "Peschelanger",
+            "earliest_time": "06:37:15",
+            "latest_time": "06:37:39"
+        },
+        {
+            "latitude": 48.1045211,
+            "longitude": 11.6514886,
+            "is_compulsory": false,
+            "order": 35,
+            "segment": [
+                7
+            ],
+            "id": 209032724,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.107069,
+            "longitude": 11.6529049,
+            "is_compulsory": false,
+            "order": 36,
+            "segment": [
+                7
+            ],
+            "id": 21644000,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1058849,
+            "longitude": 11.6589431,
+            "is_compulsory": true,
+            "order": 39,
+            "segment": [
+                8,
+                9
+            ],
+            "id": 21643994,
+            "name": "Friedrich-Engels-Bogen",
+            "earliest_time": "06:39:54",
+            "latest_time": "06:41:07"
+        },
+        {
+            "latitude": 48.1084076,
+            "longitude": 11.6567802,
+            "is_compulsory": false,
+            "order": 38,
+            "segment": [
+                8
+            ],
+            "id": 21643993,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1035109,
+            "longitude": 11.6589338,
+            "is_compulsory": true,
+            "order": 48,
+            "segment": [
+                9,
+                10
+            ],
+            "id": 15848407,
+            "name": "Hugo-Lang-Bogen",
+            "earliest_time": "06:41:30",
+            "latest_time": "06:42:00"
+        },
+        {
+            "latitude": 48.1035121,
+            "longitude": 11.6562092,
+            "is_compulsory": false,
+            "order": 40,
+            "segment": [
+                9
+            ],
+            "id": 21643995,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.105299,
+            "longitude": 11.6618773,
+            "is_compulsory": false,
+            "order": 41,
+            "segment": [
+                9
+            ],
+            "id": 271011518,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1077055,
+            "longitude": 11.6632989,
+            "is_compulsory": false,
+            "order": 42,
+            "segment": [
+                9
+            ],
+            "id": 266641590,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1109147,
+            "longitude": 11.6669455,
+            "is_compulsory": false,
+            "order": 43,
+            "segment": [
+                9
+            ],
+            "id": 34072012,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.110354,
+            "longitude": 11.6636563,
+            "is_compulsory": false,
+            "order": 44,
+            "segment": [
+                9
+            ],
+            "id": 16059500,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1097161,
+            "longitude": 11.6603645,
+            "is_compulsory": false,
+            "order": 45,
+            "segment": [
+                9
+            ],
+            "id": 16059463,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1066412,
+            "longitude": 11.666158,
+            "is_compulsory": false,
+            "order": 46,
+            "segment": [
+                9
+            ],
+            "id": 2041430,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1032721,
+            "longitude": 11.6660013,
+            "is_compulsory": false,
+            "order": 47,
+            "segment": [
+                9
+            ],
+            "id": 15848254,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.098607,
+            "longitude": 11.656966,
+            "is_compulsory": true,
+            "order": 51,
+            "segment": [
+                10,
+                11
+            ],
+            "id": 4129689340,
+            "name": "Oskar-Maria-Graf-Ring",
+            "earliest_time": "06:43:54",
+            "latest_time": "06:44:58"
+        },
+        {
+            "latitude": 48.1018993,
+            "longitude": 11.6635221,
+            "is_compulsory": false,
+            "order": 49,
+            "segment": [
+                10
+            ],
+            "id": 6329869038,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1010443,
+            "longitude": 11.6585973,
+            "is_compulsory": false,
+            "order": 50,
+            "segment": [
+                10
+            ],
+            "id": 4129689361,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0963279,
+            "longitude": 11.6552973,
+            "is_compulsory": true,
+            "order": 54,
+            "segment": [
+                11,
+                12
+            ],
+            "id": 4129689323,
+            "name": "Klinikum Neuperlach",
+            "earliest_time": "06:45:30",
+            "latest_time": "06:46:02"
+        },
+        {
+            "latitude": 48.1010902,
+            "longitude": 11.65566,
+            "is_compulsory": false,
+            "order": 52,
+            "segment": [
+                11
+            ],
+            "id": 243500119,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0984194,
+            "longitude": 11.6600163,
+            "is_compulsory": false,
+            "order": 53,
+            "segment": [
+                11
+            ],
+            "id": 15687475,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0977614,
+            "longitude": 11.6525199,
+            "is_compulsory": true,
+            "order": 60,
+            "segment": [
+                12,
+                13
+            ],
+            "id": 15687463,
+            "name": "Sudermannallee",
+            "earliest_time": "06:46:47",
+            "latest_time": "06:47:17"
+        },
+        {
+            "latitude": 48.0941248,
+            "longitude": 11.6538606,
+            "is_compulsory": false,
+            "order": 55,
+            "segment": [
+                12
+            ],
+            "id": 15355014,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0921631,
+            "longitude": 11.6549099,
+            "is_compulsory": false,
+            "order": 56,
+            "segment": [
+                12
+            ],
+            "id": 237909555,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0919575,
+            "longitude": 11.6522184,
+            "is_compulsory": false,
+            "order": 57,
+            "segment": [
+                12
+            ],
+            "id": 15848414,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0935165,
+            "longitude": 11.6506728,
+            "is_compulsory": false,
+            "order": 58,
+            "segment": [
+                12
+            ],
+            "id": 15688105,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.096028,
+            "longitude": 11.6594964,
+            "is_compulsory": false,
+            "order": 59,
+            "segment": [
+                12
+            ],
+            "id": 340302012,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0985862,
+            "longitude": 11.6479847,
+            "is_compulsory": true,
+            "order": 67,
+            "segment": [
+                13,
+                14
+            ],
+            "id": 4129689339,
+            "name": "Kafkastraße",
+            "earliest_time": "06:48:23",
+            "latest_time": "06:49:03"
+        },
+        {
+            "latitude": 48.1007023,
+            "longitude": 11.6517977,
+            "is_compulsory": false,
+            "order": 61,
+            "segment": [
+                13
+            ],
+            "id": 206331542,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1003526,
+            "longitude": 11.6488738,
+            "is_compulsory": false,
+            "order": 62,
+            "segment": [
+                13
+            ],
+            "id": 298495909,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0963881,
+            "longitude": 11.6465798,
+            "is_compulsory": false,
+            "order": 63,
+            "segment": [
+                13
+            ],
+            "id": 14658540,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0943613,
+            "longitude": 11.6476328,
+            "is_compulsory": false,
+            "order": 64,
+            "segment": [
+                13
+            ],
+            "id": 15688103,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0954491,
+            "longitude": 11.6498071,
+            "is_compulsory": false,
+            "order": 65,
+            "segment": [
+                13
+            ],
+            "id": 289111921,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0923023,
+            "longitude": 11.6452546,
+            "is_compulsory": false,
+            "order": 66,
+            "segment": [
+                13
+            ],
+            "id": 2041311,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1014135,
+            "longitude": 11.6463103,
+            "is_compulsory": true,
+            "order": 74,
+            "segment": [
+                14
+            ],
+            "id": 1232834655,
+            "name": "Neuperlach Zentrum",
+            "earliest_time": "06:50:31",
+            "latest_time": "06:51:25"
+        },
+        {
+            "latitude": 48.0989385,
+            "longitude": 11.6451291,
+            "is_compulsory": false,
+            "order": 68,
+            "segment": [
+                14
+            ],
+            "id": 21551401,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0947616,
+            "longitude": 11.6411765,
+            "is_compulsory": false,
+            "order": 69,
+            "segment": [
+                14
+            ],
+            "id": 1548827679,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0961003,
+            "longitude": 11.64371,
+            "is_compulsory": false,
+            "order": 70,
+            "segment": [
+                14
+            ],
+            "id": 103593950,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1034349,
+            "longitude": 11.6492246,
+            "is_compulsory": false,
+            "order": 71,
+            "segment": [
+                14
+            ],
+            "id": 4192152036,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1036977,
+            "longitude": 11.6462777,
+            "is_compulsory": false,
+            "order": 72,
+            "segment": [
+                14
+            ],
+            "id": 21643990,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1035901,
+            "longitude": 11.6435842,
+            "is_compulsory": false,
+            "order": 73,
+            "segment": [
+                14
+            ],
+            "id": 413013986,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        }
+    ],
+    "route": [
+        32947969,
+        32947212,
+        1073094754,
+        1605621194,
+        27186269,
+        24555227,
+        21508224,
+        21643991,
+        21643993,
+        21643994,
+        15848407,
+        4129689340,
+        4129689323,
+        15687463,
+        4129689339,
+        21551401,
+        1232834655
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.110055323050425,
+                "lon": 11.634353316916677,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.1098742437964,
+                "lon": 11.650806359963708,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.10098124062218,
+                "lon": 11.653167450036758,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10030711042117,
+                "lon": 11.64821145562836,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Karl-Marx-Ring",
+                "lat": 48.11019704609057,
+                "lon": 11.652032569097196,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10437085474363,
+                "lon": 11.656841527986138,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10760893644912,
+                "lon": 11.635127530312078,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.108504860798696,
+                "lon": 11.64804916611121,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10887033739096,
+                "lon": 11.640076367914792,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10957216101816,
+                "lon": 11.647790685957421,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Staudingerstraße",
+                "lat": 48.10854860943268,
+                "lon": 11.640747359529511,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10773615516128,
+                "lon": 11.644813583128052,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Holzwiesenstraße",
+                "lat": 48.10355101817656,
+                "lon": 11.63404866520821,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10725996428433,
+                "lon": 11.64583471405623,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.108111490760336,
+                "lon": 11.63766922466102,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.110415602764846,
+                "lon": 11.647583104294457,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10646594641717,
+                "lon": 11.640453240734953,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.108452712401856,
+                "lon": 11.646656150050552,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.108378679584256,
+                "lon": 11.634273100162838,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.11011994455714,
+                "lon": 11.646222424721055,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10762069256485,
+                "lon": 11.64021465027942,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10782632518291,
+                "lon": 11.646900082024827,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 11,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10762187101003,
+                "lon": 11.640776029041163,
+                "building_num": 22
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 11,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10754734486233,
+                "lon": 11.6507792275958,
+                "building_num": 23
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 12,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.108712730799326,
+                "lon": 11.644981667148135,
+                "building_num": 24
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 12,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.1068949191201,
+                "lon": 11.651082172947808,
+                "building_num": 25
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 13,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10395953105245,
+                "lon": 11.657318697029979,
+                "building_num": 26
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 13,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.099438084084234,
+                "lon": 11.647940170337343,
+                "building_num": 27
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 14,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10837453834585,
+                "lon": 11.635114078524369,
+                "building_num": 28
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 14,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10710261988361,
+                "lon": 11.648899569172125,
+                "building_num": 29
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 15,
+                "assigned_stop": "Staudingerstraße",
+                "lat": 48.10947254711526,
+                "lon": 11.641822017512027,
+                "building_num": 30
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 15,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.11011994455714,
+                "lon": 11.646222424721055,
+                "building_num": 31
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 16,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.109643751248456,
+                "lon": 11.636224304242482,
+                "building_num": 32
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 16,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.107985270738595,
+                "lon": 11.647719834052147,
+                "building_num": 33
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 17,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.109841548170124,
+                "lon": 11.644230065617755,
+                "building_num": 34
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 17,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09923830819945,
+                "lon": 11.647842419702252,
+                "building_num": 35
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 18,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10810895052165,
+                "lon": 11.637095630075152,
+                "building_num": 36
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 18,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10705928886548,
+                "lon": 11.650467574440778,
+                "building_num": 37
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 19,
+                "assigned_stop": "Plettstraße",
+                "lat": 48.10848793607742,
+                "lon": 11.643771054479732,
+                "building_num": 38
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 19,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10888164968712,
+                "lon": 11.645539119002647,
+                "building_num": 39
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 20,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10677705,
+                "lon": 11.632738999999999,
+                "building_num": 40
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 20,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.1096305449502,
+                "lon": 11.645871950346462,
+                "building_num": 41
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 21,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10759015820099,
+                "lon": 11.636067626192778,
+                "building_num": 42
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 21,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.10845932755981,
+                "lon": 11.643447551585131,
+                "building_num": 43
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 22,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10862058521517,
+                "lon": 11.63511495883501,
+                "building_num": 44
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 22,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.108452712401856,
+                "lon": 11.646656150050552,
+                "building_num": 45
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 23,
+                "assigned_stop": "Nawiaskystraße",
+                "lat": 48.10762069256485,
+                "lon": 11.64021465027942,
+                "building_num": 46
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 23,
+                "assigned_stop": "Quiddestraße",
+                "lat": 48.1098742437964,
+                "lon": 11.650806359963708,
+                "building_num": 47
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 24,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09800213080175,
+                "lon": 11.658047125692315,
+                "building_num": 48
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 24,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09982824967984,
+                "lon": 11.648197921538818,
+                "building_num": 49
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 25,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.1067545247964,
+                "lon": 11.657713629037822,
+                "building_num": 50
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 25,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10494494622112,
+                "lon": 11.662389697606038,
+                "building_num": 51
+            },
+            "utility": 1000,
+            "is_served": false
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 5.38,
+        "kWh_consumption_1.5_kWh_x_km": 8.08,
+        "minutes_travel_time": 20.07,
+        "num_total_request": 26,
+        "num_served_requests": 20,
+        "meters_total_walking_distance": 8959.01,
+        "arrival_times_at_compulsory_stops": [
+            "06:26:00",
+            "06:28:19",
+            "06:30:32",
+            "06:32:22",
+            "06:33:48",
+            "06:35:00",
+            "06:36:12",
+            "06:37:15",
+            "06:39:54",
+            "06:41:30",
+            "06:43:54",
+            "06:45:30",
+            "06:46:47",
+            "06:48:23",
+            "06:51:25"
+        ]
+    }
+}

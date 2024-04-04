@@ -1,0 +1,2268 @@
+{
+    "parameters": {
+        "line": 195,
+        "direction": "R",
+        "service_time": "17:09:00",
+        "comp_percentage": 0.0,
+        "node_dist": 200,
+        "compulsory_stop_dist": 200,
+        "demand_factor": 1,
+        "latest_time_factor": 1.5,
+        "proposed_time_factor": 0.5,
+        "seed": 0,
+        "walking_distance": 250,
+        "util_value": 1000,
+        "fixed_route": false
+    },
+    "stops": [
+        {
+            "latitude": 48.091358,
+            "longitude": 11.6433852,
+            "is_compulsory": true,
+            "order": 0,
+            "segment": [
+                1
+            ],
+            "id": 2700425162,
+            "name": "Neuperlach Süd",
+            "earliest_time": "17:09:00",
+            "latest_time": "17:09:00"
+        },
+        {
+            "latitude": 48.1187045,
+            "longitude": 11.6305618,
+            "is_compulsory": true,
+            "order": 132,
+            "segment": [
+                1
+            ],
+            "id": 17713265,
+            "name": "Michaelibad",
+            "earliest_time": "17:51:24",
+            "latest_time": "17:52:48"
+        },
+        {
+            "latitude": 48.086252,
+            "longitude": 11.6440563,
+            "is_compulsory": false,
+            "order": 1,
+            "segment": [
+                1
+            ],
+            "id": 2041298,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0852273,
+            "longitude": 11.6394495,
+            "is_compulsory": false,
+            "order": 2,
+            "segment": [
+                1
+            ],
+            "id": 21675404,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0871766,
+            "longitude": 11.6382521,
+            "is_compulsory": false,
+            "order": 3,
+            "segment": [
+                1
+            ],
+            "id": 21675409,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.087393,
+            "longitude": 11.6414775,
+            "is_compulsory": false,
+            "order": 4,
+            "segment": [
+                1
+            ],
+            "id": 21675411,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.09049,
+            "longitude": 11.6367195,
+            "is_compulsory": false,
+            "order": 5,
+            "segment": [
+                1
+            ],
+            "id": 21675413,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0901057,
+            "longitude": 11.6405009,
+            "is_compulsory": false,
+            "order": 6,
+            "segment": [
+                1
+            ],
+            "id": 20958552,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0935165,
+            "longitude": 11.6506728,
+            "is_compulsory": false,
+            "order": 7,
+            "segment": [
+                1
+            ],
+            "id": 15688105,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0927083,
+            "longitude": 11.6452688,
+            "is_compulsory": false,
+            "order": 8,
+            "segment": [
+                1
+            ],
+            "id": 15488111,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0948493,
+            "longitude": 11.6457278,
+            "is_compulsory": false,
+            "order": 9,
+            "segment": [
+                1
+            ],
+            "id": 15488108,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0970287,
+            "longitude": 11.6442686,
+            "is_compulsory": false,
+            "order": 10,
+            "segment": [
+                1
+            ],
+            "id": 4210871579,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0959813,
+            "longitude": 11.6418813,
+            "is_compulsory": false,
+            "order": 11,
+            "segment": [
+                1
+            ],
+            "id": 4191412808,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0932608,
+            "longitude": 11.6422223,
+            "is_compulsory": false,
+            "order": 12,
+            "segment": [
+                1
+            ],
+            "id": 1548827658,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.095738,
+            "longitude": 11.6484796,
+            "is_compulsory": false,
+            "order": 13,
+            "segment": [
+                1
+            ],
+            "id": 15688109,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0956827,
+            "longitude": 11.6517705,
+            "is_compulsory": false,
+            "order": 14,
+            "segment": [
+                1
+            ],
+            "id": 289402318,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0941248,
+            "longitude": 11.6538606,
+            "is_compulsory": false,
+            "order": 15,
+            "segment": [
+                1
+            ],
+            "id": 15355014,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0906137,
+            "longitude": 11.661788,
+            "is_compulsory": false,
+            "order": 16,
+            "segment": [
+                1
+            ],
+            "id": 269181527,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0921631,
+            "longitude": 11.6549099,
+            "is_compulsory": false,
+            "order": 17,
+            "segment": [
+                1
+            ],
+            "id": 237909555,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0905265,
+            "longitude": 11.6569263,
+            "is_compulsory": false,
+            "order": 18,
+            "segment": [
+                1
+            ],
+            "id": 765129328,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0919575,
+            "longitude": 11.6522184,
+            "is_compulsory": false,
+            "order": 19,
+            "segment": [
+                1
+            ],
+            "id": 15848414,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1002395,
+            "longitude": 11.6490238,
+            "is_compulsory": false,
+            "order": 20,
+            "segment": [
+                1
+            ],
+            "id": 4129689349,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0984931,
+            "longitude": 11.6479029,
+            "is_compulsory": false,
+            "order": 21,
+            "segment": [
+                1
+            ],
+            "id": 4129689338,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0977614,
+            "longitude": 11.6525199,
+            "is_compulsory": false,
+            "order": 22,
+            "segment": [
+                1
+            ],
+            "id": 15687463,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0962825,
+            "longitude": 11.6554361,
+            "is_compulsory": false,
+            "order": 23,
+            "segment": [
+                1
+            ],
+            "id": 15687465,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.096028,
+            "longitude": 11.6594964,
+            "is_compulsory": false,
+            "order": 24,
+            "segment": [
+                1
+            ],
+            "id": 340302012,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0984194,
+            "longitude": 11.6600163,
+            "is_compulsory": false,
+            "order": 25,
+            "segment": [
+                1
+            ],
+            "id": 15687475,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1010902,
+            "longitude": 11.65566,
+            "is_compulsory": false,
+            "order": 26,
+            "segment": [
+                1
+            ],
+            "id": 243500119,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1007023,
+            "longitude": 11.6517977,
+            "is_compulsory": false,
+            "order": 27,
+            "segment": [
+                1
+            ],
+            "id": 206331542,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.0985625,
+            "longitude": 11.6571043,
+            "is_compulsory": false,
+            "order": 28,
+            "segment": [
+                1
+            ],
+            "id": 15687468,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.104603,
+            "longitude": 11.6517531,
+            "is_compulsory": false,
+            "order": 29,
+            "segment": [
+                1
+            ],
+            "id": 209032740,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1009809,
+            "longitude": 11.6587278,
+            "is_compulsory": false,
+            "order": 30,
+            "segment": [
+                1
+            ],
+            "id": 7801438781,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1020334,
+            "longitude": 11.6614825,
+            "is_compulsory": false,
+            "order": 31,
+            "segment": [
+                1
+            ],
+            "id": 6329869035,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1035102,
+            "longitude": 11.6590894,
+            "is_compulsory": false,
+            "order": 32,
+            "segment": [
+                1
+            ],
+            "id": 2041408,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1035121,
+            "longitude": 11.6562092,
+            "is_compulsory": false,
+            "order": 33,
+            "segment": [
+                1
+            ],
+            "id": 21643995,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.107069,
+            "longitude": 11.6529049,
+            "is_compulsory": false,
+            "order": 34,
+            "segment": [
+                1
+            ],
+            "id": 21644000,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1084076,
+            "longitude": 11.6567802,
+            "is_compulsory": false,
+            "order": 35,
+            "segment": [
+                1
+            ],
+            "id": 21643993,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1058834,
+            "longitude": 11.6590969,
+            "is_compulsory": false,
+            "order": 36,
+            "segment": [
+                1
+            ],
+            "id": 1653842157,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1022507,
+            "longitude": 11.6649488,
+            "is_compulsory": false,
+            "order": 37,
+            "segment": [
+                1
+            ],
+            "id": 18035141,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1014437,
+            "longitude": 11.6692084,
+            "is_compulsory": false,
+            "order": 38,
+            "segment": [
+                1
+            ],
+            "id": 1607743402,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1018359,
+            "longitude": 11.6729683,
+            "is_compulsory": false,
+            "order": 39,
+            "segment": [
+                1
+            ],
+            "id": 261699082,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.105299,
+            "longitude": 11.6618773,
+            "is_compulsory": false,
+            "order": 40,
+            "segment": [
+                1
+            ],
+            "id": 271011518,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.109333,
+            "longitude": 11.6615567,
+            "is_compulsory": false,
+            "order": 41,
+            "segment": [
+                1
+            ],
+            "id": 1701785073,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1102534,
+            "longitude": 11.6588954,
+            "is_compulsory": false,
+            "order": 42,
+            "segment": [
+                1
+            ],
+            "id": 16059462,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1077055,
+            "longitude": 11.6632989,
+            "is_compulsory": false,
+            "order": 43,
+            "segment": [
+                1
+            ],
+            "id": 266641590,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1066412,
+            "longitude": 11.666158,
+            "is_compulsory": false,
+            "order": 44,
+            "segment": [
+                1
+            ],
+            "id": 2041430,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1054563,
+            "longitude": 11.6685505,
+            "is_compulsory": false,
+            "order": 45,
+            "segment": [
+                1
+            ],
+            "id": 63374461,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1050729,
+            "longitude": 11.6737163,
+            "is_compulsory": false,
+            "order": 46,
+            "segment": [
+                1
+            ],
+            "id": 261706861,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1066733,
+            "longitude": 11.6716548,
+            "is_compulsory": false,
+            "order": 47,
+            "segment": [
+                1
+            ],
+            "id": 63374474,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1077336,
+            "longitude": 11.6683633,
+            "is_compulsory": false,
+            "order": 48,
+            "segment": [
+                1
+            ],
+            "id": 34072032,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1095236,
+            "longitude": 11.6712496,
+            "is_compulsory": false,
+            "order": 49,
+            "segment": [
+                1
+            ],
+            "id": 18123815,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1074627,
+            "longitude": 11.6765061,
+            "is_compulsory": false,
+            "order": 50,
+            "segment": [
+                1
+            ],
+            "id": 15369682,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1090107,
+            "longitude": 11.6747355,
+            "is_compulsory": false,
+            "order": 51,
+            "segment": [
+                1
+            ],
+            "id": 63374491,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1112076,
+            "longitude": 11.6737167,
+            "is_compulsory": false,
+            "order": 52,
+            "segment": [
+                1
+            ],
+            "id": 18123807,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1107678,
+            "longitude": 11.6766834,
+            "is_compulsory": false,
+            "order": 53,
+            "segment": [
+                1
+            ],
+            "id": 268963168,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.110383,
+            "longitude": 11.6797389,
+            "is_compulsory": false,
+            "order": 54,
+            "segment": [
+                1
+            ],
+            "id": 267618226,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1131721,
+            "longitude": 11.68119,
+            "is_compulsory": false,
+            "order": 55,
+            "segment": [
+                1
+            ],
+            "id": 17581444,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1147675,
+            "longitude": 11.6790693,
+            "is_compulsory": false,
+            "order": 56,
+            "segment": [
+                1
+            ],
+            "id": 17581443,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1163081,
+            "longitude": 11.681137,
+            "is_compulsory": false,
+            "order": 57,
+            "segment": [
+                1
+            ],
+            "id": 1271288426,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1134808,
+            "longitude": 11.6764151,
+            "is_compulsory": false,
+            "order": 58,
+            "segment": [
+                1
+            ],
+            "id": 20938006,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1138234,
+            "longitude": 11.671788,
+            "is_compulsory": false,
+            "order": 59,
+            "segment": [
+                1
+            ],
+            "id": 34071992,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1153414,
+            "longitude": 11.670111,
+            "is_compulsory": false,
+            "order": 60,
+            "segment": [
+                1
+            ],
+            "id": 34034028,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1166733,
+            "longitude": 11.6730848,
+            "is_compulsory": false,
+            "order": 61,
+            "segment": [
+                1
+            ],
+            "id": 34071976,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1162732,
+            "longitude": 11.6757925,
+            "is_compulsory": false,
+            "order": 62,
+            "segment": [
+                1
+            ],
+            "id": 18123831,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1176364,
+            "longitude": 11.6777278,
+            "is_compulsory": false,
+            "order": 63,
+            "segment": [
+                1
+            ],
+            "id": 18123827,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1189102,
+            "longitude": 11.6746862,
+            "is_compulsory": false,
+            "order": 64,
+            "segment": [
+                1
+            ],
+            "id": 20937975,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1210434,
+            "longitude": 11.6745915,
+            "is_compulsory": false,
+            "order": 65,
+            "segment": [
+                1
+            ],
+            "id": 2012206913,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1227365,
+            "longitude": 11.6762219,
+            "is_compulsory": false,
+            "order": 66,
+            "segment": [
+                1
+            ],
+            "id": 20626574,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.122769,
+            "longitude": 11.6685418,
+            "is_compulsory": false,
+            "order": 67,
+            "segment": [
+                1
+            ],
+            "id": 13570834,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1214853,
+            "longitude": 11.6710567,
+            "is_compulsory": false,
+            "order": 68,
+            "segment": [
+                1
+            ],
+            "id": 1954788,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1180917,
+            "longitude": 11.6701224,
+            "is_compulsory": false,
+            "order": 69,
+            "segment": [
+                1
+            ],
+            "id": 34034011,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1137813,
+            "longitude": 11.6668221,
+            "is_compulsory": false,
+            "order": 70,
+            "segment": [
+                1
+            ],
+            "id": 15355003,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1128731,
+            "longitude": 11.6693687,
+            "is_compulsory": false,
+            "order": 71,
+            "segment": [
+                1
+            ],
+            "id": 34072009,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1107542,
+            "longitude": 11.6677638,
+            "is_compulsory": false,
+            "order": 72,
+            "segment": [
+                1
+            ],
+            "id": 34072013,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.109955,
+            "longitude": 11.664886,
+            "is_compulsory": false,
+            "order": 73,
+            "segment": [
+                1
+            ],
+            "id": 16059510,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1130494,
+            "longitude": 11.6664849,
+            "is_compulsory": false,
+            "order": 74,
+            "segment": [
+                1
+            ],
+            "id": 2425491761,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1144891,
+            "longitude": 11.6630175,
+            "is_compulsory": false,
+            "order": 75,
+            "segment": [
+                1
+            ],
+            "id": 16059505,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1122584,
+            "longitude": 11.6603387,
+            "is_compulsory": false,
+            "order": 76,
+            "segment": [
+                1
+            ],
+            "id": 16059492,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1182627,
+            "longitude": 11.6639645,
+            "is_compulsory": false,
+            "order": 77,
+            "segment": [
+                1
+            ],
+            "id": 2671818274,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1174463,
+            "longitude": 11.6611232,
+            "is_compulsory": false,
+            "order": 78,
+            "segment": [
+                1
+            ],
+            "id": 20463374,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.115881,
+            "longitude": 11.6596479,
+            "is_compulsory": false,
+            "order": 79,
+            "segment": [
+                1
+            ],
+            "id": 20463379,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1131068,
+            "longitude": 11.6560258,
+            "is_compulsory": false,
+            "order": 80,
+            "segment": [
+                1
+            ],
+            "id": 16059511,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1121972,
+            "longitude": 11.6531096,
+            "is_compulsory": false,
+            "order": 81,
+            "segment": [
+                1
+            ],
+            "id": 15487605,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.121345,
+            "longitude": 11.6646618,
+            "is_compulsory": false,
+            "order": 82,
+            "segment": [
+                1
+            ],
+            "id": 2041451,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1205437,
+            "longitude": 11.667424,
+            "is_compulsory": false,
+            "order": 83,
+            "segment": [
+                1
+            ],
+            "id": 16559449,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.119393,
+            "longitude": 11.6608572,
+            "is_compulsory": false,
+            "order": 84,
+            "segment": [
+                1
+            ],
+            "id": 15247065,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1171056,
+            "longitude": 11.6566562,
+            "is_compulsory": false,
+            "order": 85,
+            "segment": [
+                1
+            ],
+            "id": 3655958401,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1124739,
+            "longitude": 11.6496012,
+            "is_compulsory": false,
+            "order": 86,
+            "segment": [
+                1
+            ],
+            "id": 15355012,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1140054,
+            "longitude": 11.6514625,
+            "is_compulsory": false,
+            "order": 87,
+            "segment": [
+                1
+            ],
+            "id": 14658513,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1159115,
+            "longitude": 11.6538499,
+            "is_compulsory": false,
+            "order": 88,
+            "segment": [
+                1
+            ],
+            "id": 2041419,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1217797,
+            "longitude": 11.6616135,
+            "is_compulsory": false,
+            "order": 89,
+            "segment": [
+                1
+            ],
+            "id": 32236364,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1212277,
+            "longitude": 11.6574268,
+            "is_compulsory": false,
+            "order": 90,
+            "segment": [
+                1
+            ],
+            "id": 13344097,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1180372,
+            "longitude": 11.6539183,
+            "is_compulsory": false,
+            "order": 91,
+            "segment": [
+                1
+            ],
+            "id": 3655958403,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1168533,
+            "longitude": 11.6509872,
+            "is_compulsory": false,
+            "order": 92,
+            "segment": [
+                1
+            ],
+            "id": 16477010,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1139674,
+            "longitude": 11.6478943,
+            "is_compulsory": false,
+            "order": 93,
+            "segment": [
+                1
+            ],
+            "id": 14658516,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1176627,
+            "longitude": 11.648442,
+            "is_compulsory": false,
+            "order": 94,
+            "segment": [
+                1
+            ],
+            "id": 14574943,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1216812,
+            "longitude": 11.6521998,
+            "is_compulsory": false,
+            "order": 95,
+            "segment": [
+                1
+            ],
+            "id": 14658535,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.12479,
+            "longitude": 11.6540772,
+            "is_compulsory": false,
+            "order": 96,
+            "segment": [
+                1
+            ],
+            "id": 13346739,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1240804,
+            "longitude": 11.6568029,
+            "is_compulsory": false,
+            "order": 97,
+            "segment": [
+                1
+            ],
+            "id": 13277668,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1200951,
+            "longitude": 11.6540969,
+            "is_compulsory": false,
+            "order": 98,
+            "segment": [
+                1
+            ],
+            "id": 13344086,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.119877,
+            "longitude": 11.6500067,
+            "is_compulsory": false,
+            "order": 99,
+            "segment": [
+                1
+            ],
+            "id": 363098,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1191193,
+            "longitude": 11.6459548,
+            "is_compulsory": false,
+            "order": 100,
+            "segment": [
+                1
+            ],
+            "id": 15487599,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1209735,
+            "longitude": 11.6457595,
+            "is_compulsory": false,
+            "order": 101,
+            "segment": [
+                1
+            ],
+            "id": 363095,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1218774,
+            "longitude": 11.6495255,
+            "is_compulsory": false,
+            "order": 102,
+            "segment": [
+                1
+            ],
+            "id": 14658539,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1237923,
+            "longitude": 11.650748,
+            "is_compulsory": false,
+            "order": 103,
+            "segment": [
+                1
+            ],
+            "id": 15431563,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1254814,
+            "longitude": 11.6488499,
+            "is_compulsory": false,
+            "order": 104,
+            "segment": [
+                1
+            ],
+            "id": 15431549,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1232602,
+            "longitude": 11.6478033,
+            "is_compulsory": false,
+            "order": 105,
+            "segment": [
+                1
+            ],
+            "id": 15431555,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1238786,
+            "longitude": 11.6440926,
+            "is_compulsory": false,
+            "order": 106,
+            "segment": [
+                1
+            ],
+            "id": 15687478,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.121675,
+            "longitude": 11.6422984,
+            "is_compulsory": false,
+            "order": 107,
+            "segment": [
+                1
+            ],
+            "id": 363063,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1233508,
+            "longitude": 11.6380149,
+            "is_compulsory": false,
+            "order": 108,
+            "segment": [
+                1
+            ],
+            "id": 21590782,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1252244,
+            "longitude": 11.6378946,
+            "is_compulsory": false,
+            "order": 109,
+            "segment": [
+                1
+            ],
+            "id": 21593600,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1247702,
+            "longitude": 11.6348727,
+            "is_compulsory": false,
+            "order": 110,
+            "segment": [
+                1
+            ],
+            "id": 21593615,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1265757,
+            "longitude": 11.6404953,
+            "is_compulsory": false,
+            "order": 111,
+            "segment": [
+                1
+            ],
+            "id": 21593599,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1261525,
+            "longitude": 11.6435297,
+            "is_compulsory": false,
+            "order": 112,
+            "segment": [
+                1
+            ],
+            "id": 21593595,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1198992,
+            "longitude": 11.6393961,
+            "is_compulsory": false,
+            "order": 113,
+            "segment": [
+                1
+            ],
+            "id": 18289164,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1197803,
+            "longitude": 11.6429751,
+            "is_compulsory": false,
+            "order": 114,
+            "segment": [
+                1
+            ],
+            "id": 363087,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1171456,
+            "longitude": 11.6431676,
+            "is_compulsory": false,
+            "order": 115,
+            "segment": [
+                1
+            ],
+            "id": 15431224,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1150902,
+            "longitude": 11.6447599,
+            "is_compulsory": false,
+            "order": 116,
+            "segment": [
+                1
+            ],
+            "id": 14658525,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1170082,
+            "longitude": 11.6399686,
+            "is_compulsory": false,
+            "order": 117,
+            "segment": [
+                1
+            ],
+            "id": 363058,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1197685,
+            "longitude": 11.6360348,
+            "is_compulsory": false,
+            "order": 118,
+            "segment": [
+                1
+            ],
+            "id": 18289679,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1179983,
+            "longitude": 11.6352644,
+            "is_compulsory": false,
+            "order": 119,
+            "segment": [
+                1
+            ],
+            "id": 18289678,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1208165,
+            "longitude": 11.6333805,
+            "is_compulsory": false,
+            "order": 120,
+            "segment": [
+                1
+            ],
+            "id": 27224231,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1205017,
+            "longitude": 11.6300486,
+            "is_compulsory": false,
+            "order": 121,
+            "segment": [
+                1
+            ],
+            "id": 32701561,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1238222,
+            "longitude": 11.6323853,
+            "is_compulsory": false,
+            "order": 122,
+            "segment": [
+                1
+            ],
+            "id": 17713266,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1270083,
+            "longitude": 11.6366908,
+            "is_compulsory": false,
+            "order": 123,
+            "segment": [
+                1
+            ],
+            "id": 428736,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1229772,
+            "longitude": 11.625118,
+            "is_compulsory": false,
+            "order": 124,
+            "segment": [
+                1
+            ],
+            "id": 32265516,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1223013,
+            "longitude": 11.628361,
+            "is_compulsory": false,
+            "order": 125,
+            "segment": [
+                1
+            ],
+            "id": 32700512,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1200952,
+            "longitude": 11.6242693,
+            "is_compulsory": false,
+            "order": 126,
+            "segment": [
+                1
+            ],
+            "id": 363113,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1170013,
+            "longitude": 11.6249726,
+            "is_compulsory": false,
+            "order": 127,
+            "segment": [
+                1
+            ],
+            "id": 1286487682,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1133827,
+            "longitude": 11.6226608,
+            "is_compulsory": false,
+            "order": 128,
+            "segment": [
+                1
+            ],
+            "id": 27223745,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1144296,
+            "longitude": 11.6258367,
+            "is_compulsory": false,
+            "order": 129,
+            "segment": [
+                1
+            ],
+            "id": 11658133,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1160653,
+            "longitude": 11.6300416,
+            "is_compulsory": false,
+            "order": 130,
+            "segment": [
+                1
+            ],
+            "id": 27223792,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1177767,
+            "longitude": 11.6277223,
+            "is_compulsory": false,
+            "order": 131,
+            "segment": [
+                1
+            ],
+            "id": 290527779,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        }
+    ],
+    "route": [
+        2700425162,
+        15488111,
+        15355014,
+        15687468,
+        7801438781,
+        6329869035,
+        18035141,
+        34072032,
+        18123815,
+        63374491,
+        34071992,
+        34034011,
+        15355003,
+        2425491761,
+        16059505,
+        20463374,
+        3655958401,
+        3655958403,
+        363095,
+        363058,
+        18289679,
+        27224231,
+        32701561,
+        17713265
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Tribulaunstraße",
+                "lat": 48.09418870242222,
+                "lon": 11.651888701706529,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09826947497043,
+                "lon": 11.659262364497755,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Spertentalstraße",
+                "lat": 48.11676621671825,
+                "lon": 11.67207039437436,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Heinrich-Wieland-Straße",
+                "lat": 48.11725003982823,
+                "lon": 11.641852083479542,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.08875949374481,
+                "lon": 11.645299600360344,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Spertentalstraße",
+                "lat": 48.11717052677569,
+                "lon": 11.670160950678435,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.08746418544537,
+                "lon": 11.642893220679117,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "Feldbergstraße",
+                "lat": 48.10888425,
+                "lon": 11.664638550000001,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.08890709374481,
+                "lon": 11.645135500360343,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.0998479868645,
+                "lon": 11.656765018372498,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Markgrafenstraße",
+                "lat": 48.108734184646785,
+                "lon": 11.674752296201813,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.12130122902566,
+                "lon": 11.630240748775543,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Himalajastraße",
+                "lat": 48.11385573298021,
+                "lon": 11.66392119922193,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.12020048042811,
+                "lon": 11.629378346167474,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Batschkastraße",
+                "lat": 48.11271164979408,
+                "lon": 11.669282463679766,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Heinrich-Wieland-Straße",
+                "lat": 48.11872568411703,
+                "lon": 11.64151477051937,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "St.-Veit-Straße",
+                "lat": 48.1245424401354,
+                "lon": 11.638057447775854,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.1194668,
+                "lon": 11.63331475,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.08849943188865,
+                "lon": 11.642752423920058,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Otto-Hahn-Ring",
+                "lat": 48.09341812907158,
+                "lon": 11.65161356388563,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Spertentalstraße",
+                "lat": 48.11768784997397,
+                "lon": 11.670606731220937,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.120551000000006,
+                "lon": 11.634051050000002,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 11,
+                "assigned_stop": "Zauberwaldstraße",
+                "lat": 48.115023389523444,
+                "lon": 11.66898079238104,
+                "building_num": 22
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 11,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.119103100000004,
+                "lon": 11.628134450000001,
+                "building_num": 23
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 12,
+                "assigned_stop": "Zauberwaldstraße",
+                "lat": 48.11592532800965,
+                "lon": 11.669932635159922,
+                "building_num": 24
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 12,
+                "assigned_stop": "St.-Augustinus-Straße",
+                "lat": 48.11697209821137,
+                "lon": 11.655118105010773,
+                "building_num": 25
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 13,
+                "assigned_stop": "Heinrich-Wieland-Straße",
+                "lat": 48.11698013162643,
+                "lon": 11.64277399198187,
+                "building_num": 26
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 13,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.117575045078524,
+                "lon": 11.629788823468171,
+                "building_num": 27
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 14,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.08906980788197,
+                "lon": 11.644897931170332,
+                "building_num": 28
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 14,
+                "assigned_stop": "Tribulaunstraße",
+                "lat": 48.093292722802765,
+                "lon": 11.655330436799492,
+                "building_num": 29
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 15,
+                "assigned_stop": "Himalajastraße",
+                "lat": 48.11376855142989,
+                "lon": 11.666081696562427,
+                "building_num": 30
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 15,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.120227674011154,
+                "lon": 11.627235600927081,
+                "building_num": 31
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 16,
+                "assigned_stop": "St.-Augustinus-Straße",
+                "lat": 48.1151488431595,
+                "lon": 11.656522534218459,
+                "building_num": 32
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 16,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.12083765899314,
+                "lon": 11.631181715723478,
+                "building_num": 33
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 17,
+                "assigned_stop": "Vogesenstraße",
+                "lat": 48.1105883,
+                "lon": 11.66993595,
+                "building_num": 34
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 17,
+                "assigned_stop": "Batschkastraße",
+                "lat": 48.116867269486086,
+                "lon": 11.663276137597128,
+                "building_num": 35
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 18,
+                "assigned_stop": "Otto-Hahn-Ring",
+                "lat": 48.09242992449304,
+                "lon": 11.64843873442447,
+                "building_num": 36
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 18,
+                "assigned_stop": "Am Hochacker",
+                "lat": 48.1039541029576,
+                "lon": 11.66550764027817,
+                "building_num": 37
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 19,
+                "assigned_stop": "St.-Augustinus-Straße",
+                "lat": 48.11864170135433,
+                "lon": 11.653949432035098,
+                "building_num": 38
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 19,
+                "assigned_stop": "St.-Veit-Straße",
+                "lat": 48.12240699580692,
+                "lon": 11.644033047176002,
+                "building_num": 39
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 20,
+                "assigned_stop": "Neuperlach Süd",
+                "lat": 48.09126018596245,
+                "lon": 11.644241721683503,
+                "building_num": 40
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 20,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09928394244636,
+                "lon": 11.65649172179212,
+                "building_num": 41
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 21,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.103990399999994,
+                "lon": 11.660618150000001,
+                "building_num": 42
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 21,
+                "assigned_stop": "Feldbergstraße",
+                "lat": 48.10802159810865,
+                "lon": 11.66573293757276,
+                "building_num": 43
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 22,
+                "assigned_stop": "Markgrafenstraße",
+                "lat": 48.10971065,
+                "lon": 11.671192699999999,
+                "building_num": 44
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 22,
+                "assigned_stop": "Spertentalstraße",
+                "lat": 48.115959249765496,
+                "lon": 11.67178866722672,
+                "building_num": 45
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 23,
+                "assigned_stop": "Himalajastraße",
+                "lat": 48.113325453906846,
+                "lon": 11.6653268775863,
+                "building_num": 46
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 23,
+                "assigned_stop": "Michaelibad",
+                "lat": 48.118698200000004,
+                "lon": 11.630005600000002,
+                "building_num": 47
+            },
+            "utility": 1000,
+            "is_served": true
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 10.1,
+        "kWh_consumption_1.5_kWh_x_km": 15.15,
+        "minutes_travel_time": 37.66,
+        "num_total_request": 24,
+        "num_served_requests": 18,
+        "meters_total_walking_distance": 9488.34,
+        "arrival_times_at_compulsory_stops": [
+            "17:09:00",
+            "17:52:48"
+        ]
+    }
+}

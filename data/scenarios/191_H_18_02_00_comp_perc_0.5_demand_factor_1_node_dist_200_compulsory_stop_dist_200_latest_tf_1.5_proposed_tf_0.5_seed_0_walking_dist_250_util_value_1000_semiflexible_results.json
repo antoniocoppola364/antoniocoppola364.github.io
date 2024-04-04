@@ -1,0 +1,1745 @@
+{
+    "parameters": {
+        "line": 191,
+        "direction": "H",
+        "service_time": "18:02:00",
+        "comp_percentage": 0.5,
+        "node_dist": 200,
+        "compulsory_stop_dist": 200,
+        "demand_factor": 1,
+        "latest_time_factor": 1.5,
+        "proposed_time_factor": 0.5,
+        "seed": 0,
+        "walking_distance": 250,
+        "util_value": 1000,
+        "fixed_route": false
+    },
+    "stops": [
+        {
+            "latitude": 48.1262392,
+            "longitude": 11.605645,
+            "is_compulsory": true,
+            "order": 0,
+            "segment": [
+                1
+            ],
+            "id": 13876332,
+            "name": "Ostbahnhof Friedenstraße",
+            "earliest_time": "18:02:00",
+            "latest_time": "18:02:00"
+        },
+        {
+            "latitude": 48.1256438,
+            "longitude": 11.6100018,
+            "is_compulsory": true,
+            "order": 14,
+            "segment": [
+                1,
+                2
+            ],
+            "id": 7867416976,
+            "name": "August-Everding-Straße",
+            "earliest_time": "18:03:43",
+            "latest_time": "18:04:34"
+        },
+        {
+            "latitude": 48.1238541,
+            "longitude": 11.6020785,
+            "is_compulsory": false,
+            "order": 1,
+            "segment": [
+                1
+            ],
+            "id": 13876331,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1222234,
+            "longitude": 11.6042799,
+            "is_compulsory": false,
+            "order": 2,
+            "segment": [
+                1
+            ],
+            "id": 345579255,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1206717,
+            "longitude": 11.6059954,
+            "is_compulsory": false,
+            "order": 3,
+            "segment": [
+                1
+            ],
+            "id": 21151064,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1252798,
+            "longitude": 11.5994407,
+            "is_compulsory": false,
+            "order": 4,
+            "segment": [
+                1
+            ],
+            "id": 428767,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1282459,
+            "longitude": 11.5999306,
+            "is_compulsory": false,
+            "order": 5,
+            "segment": [
+                1
+            ],
+            "id": 19223865,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1309679,
+            "longitude": 11.5997336,
+            "is_compulsory": false,
+            "order": 6,
+            "segment": [
+                1
+            ],
+            "id": 1954864,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1295186,
+            "longitude": 11.6018431,
+            "is_compulsory": false,
+            "order": 7,
+            "segment": [
+                1
+            ],
+            "id": 1954868,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1276506,
+            "longitude": 11.6030569,
+            "is_compulsory": false,
+            "order": 8,
+            "segment": [
+                1
+            ],
+            "id": 2584552578,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1294043,
+            "longitude": 11.6055083,
+            "is_compulsory": false,
+            "order": 9,
+            "segment": [
+                1
+            ],
+            "id": 343505757,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1306908,
+            "longitude": 11.607439,
+            "is_compulsory": false,
+            "order": 10,
+            "segment": [
+                1
+            ],
+            "id": 343505750,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1320419,
+            "longitude": 11.605069,
+            "is_compulsory": false,
+            "order": 11,
+            "segment": [
+                1
+            ],
+            "id": 1954831,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1293559,
+            "longitude": 11.6126394,
+            "is_compulsory": false,
+            "order": 12,
+            "segment": [
+                1
+            ],
+            "id": 13876334,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1290793,
+            "longitude": 11.6096456,
+            "is_compulsory": false,
+            "order": 13,
+            "segment": [
+                1
+            ],
+            "id": 21511117,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.124732,
+            "longitude": 11.6117567,
+            "is_compulsory": true,
+            "order": 19,
+            "segment": [
+                2,
+                3
+            ],
+            "id": 6802581357,
+            "name": "St. Pius",
+            "earliest_time": "18:04:49",
+            "latest_time": "18:05:09"
+        },
+        {
+            "latitude": 48.1225791,
+            "longitude": 11.6130256,
+            "is_compulsory": false,
+            "order": 15,
+            "segment": [
+                2
+            ],
+            "id": 32268759,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1210465,
+            "longitude": 11.6087549,
+            "is_compulsory": false,
+            "order": 16,
+            "segment": [
+                2
+            ],
+            "id": 363124,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1195597,
+            "longitude": 11.6117973,
+            "is_compulsory": false,
+            "order": 17,
+            "segment": [
+                2
+            ],
+            "id": 32676881,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1270942,
+            "longitude": 11.6136071,
+            "is_compulsory": false,
+            "order": 18,
+            "segment": [
+                2
+            ],
+            "id": 21522287,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1298224,
+            "longitude": 11.6228728,
+            "is_compulsory": true,
+            "order": 36,
+            "segment": [
+                3,
+                4
+            ],
+            "id": 428745,
+            "name": "Schlüsselbergstraße",
+            "earliest_time": "18:10:38",
+            "latest_time": "18:11:21"
+        },
+        {
+            "latitude": 48.1246787,
+            "longitude": 11.6147484,
+            "is_compulsory": false,
+            "order": 20,
+            "segment": [
+                3
+            ],
+            "id": 21522314,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1218407,
+            "longitude": 11.6194552,
+            "is_compulsory": false,
+            "order": 21,
+            "segment": [
+                3
+            ],
+            "id": 32265692,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1205759,
+            "longitude": 11.6160761,
+            "is_compulsory": false,
+            "order": 22,
+            "segment": [
+                3
+            ],
+            "id": 300071158,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.12314,
+            "longitude": 11.6165667,
+            "is_compulsory": false,
+            "order": 23,
+            "segment": [
+                3
+            ],
+            "id": 1255700833,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1246226,
+            "longitude": 11.6193256,
+            "is_compulsory": false,
+            "order": 24,
+            "segment": [
+                3
+            ],
+            "id": 21522322,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1202313,
+            "longitude": 11.6213479,
+            "is_compulsory": false,
+            "order": 25,
+            "segment": [
+                3
+            ],
+            "id": 1191052783,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1227542,
+            "longitude": 11.6259815,
+            "is_compulsory": false,
+            "order": 26,
+            "segment": [
+                3
+            ],
+            "id": 32700514,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1200952,
+            "longitude": 11.6242693,
+            "is_compulsory": false,
+            "order": 27,
+            "segment": [
+                3
+            ],
+            "id": 363113,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1238109,
+            "longitude": 11.622897,
+            "is_compulsory": false,
+            "order": 28,
+            "segment": [
+                3
+            ],
+            "id": 15612614,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1264836,
+            "longitude": 11.6217728,
+            "is_compulsory": false,
+            "order": 29,
+            "segment": [
+                3
+            ],
+            "id": 11598323,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1282342,
+            "longitude": 11.6198196,
+            "is_compulsory": false,
+            "order": 30,
+            "segment": [
+                3
+            ],
+            "id": 21511112,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1286523,
+            "longitude": 11.6164667,
+            "is_compulsory": false,
+            "order": 31,
+            "segment": [
+                3
+            ],
+            "id": 21511106,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1269572,
+            "longitude": 11.6173879,
+            "is_compulsory": false,
+            "order": 32,
+            "segment": [
+                3
+            ],
+            "id": 684810,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1350636,
+            "longitude": 11.6155478,
+            "is_compulsory": false,
+            "order": 33,
+            "segment": [
+                3
+            ],
+            "id": 684607,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.133271,
+            "longitude": 11.6165158,
+            "is_compulsory": false,
+            "order": 34,
+            "segment": [
+                3
+            ],
+            "id": 21096511,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.13131,
+            "longitude": 11.6139813,
+            "is_compulsory": false,
+            "order": 35,
+            "segment": [
+                3
+            ],
+            "id": 18327578,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1306038,
+            "longitude": 11.6317652,
+            "is_compulsory": true,
+            "order": 41,
+            "segment": [
+                4,
+                5
+            ],
+            "id": 1954698,
+            "name": "Baumkirchner Platz",
+            "earliest_time": "18:14:42",
+            "latest_time": "18:15:12"
+        },
+        {
+            "latitude": 48.1308124,
+            "longitude": 11.6170422,
+            "is_compulsory": false,
+            "order": 37,
+            "segment": [
+                4
+            ],
+            "id": 428749,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.13126,
+            "longitude": 11.6208917,
+            "is_compulsory": false,
+            "order": 38,
+            "segment": [
+                4
+            ],
+            "id": 32704369,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1320237,
+            "longitude": 11.6241938,
+            "is_compulsory": false,
+            "order": 39,
+            "segment": [
+                4
+            ],
+            "id": 13888795,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1312154,
+            "longitude": 11.6282997,
+            "is_compulsory": false,
+            "order": 40,
+            "segment": [
+                4
+            ],
+            "id": 539527464,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1328863,
+            "longitude": 11.6324787,
+            "is_compulsory": true,
+            "order": 55,
+            "segment": [
+                5,
+                6
+            ],
+            "id": 533601254,
+            "name": "Berg am Laim Bf. (Süd)",
+            "earliest_time": "18:15:56",
+            "latest_time": "18:16:25"
+        },
+        {
+            "latitude": 48.1313739,
+            "longitude": 11.6344073,
+            "is_compulsory": false,
+            "order": 42,
+            "segment": [
+                5
+            ],
+            "id": 1192632484,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1291909,
+            "longitude": 11.6339191,
+            "is_compulsory": false,
+            "order": 43,
+            "segment": [
+                5
+            ],
+            "id": 32706738,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1291167,
+            "longitude": 11.6266413,
+            "is_compulsory": false,
+            "order": 44,
+            "segment": [
+                5
+            ],
+            "id": 15612603,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1255985,
+            "longitude": 11.6304935,
+            "is_compulsory": false,
+            "order": 45,
+            "segment": [
+                5
+            ],
+            "id": 21523249,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1273542,
+            "longitude": 11.627774,
+            "is_compulsory": false,
+            "order": 46,
+            "segment": [
+                5
+            ],
+            "id": 15612597,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1282418,
+            "longitude": 11.6303852,
+            "is_compulsory": false,
+            "order": 47,
+            "segment": [
+                5
+            ],
+            "id": 15612605,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1272623,
+            "longitude": 11.634584,
+            "is_compulsory": false,
+            "order": 48,
+            "segment": [
+                5
+            ],
+            "id": 17707826,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1265971,
+            "longitude": 11.6382659,
+            "is_compulsory": false,
+            "order": 49,
+            "segment": [
+                5
+            ],
+            "id": 21593601,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1301348,
+            "longitude": 11.6370905,
+            "is_compulsory": false,
+            "order": 50,
+            "segment": [
+                5
+            ],
+            "id": 18292753,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1296071,
+            "longitude": 11.6397013,
+            "is_compulsory": false,
+            "order": 51,
+            "segment": [
+                5
+            ],
+            "id": 1954762,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1320232,
+            "longitude": 11.6410124,
+            "is_compulsory": false,
+            "order": 52,
+            "segment": [
+                5
+            ],
+            "id": 370057774,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1330581,
+            "longitude": 11.6383086,
+            "is_compulsory": false,
+            "order": 53,
+            "segment": [
+                5
+            ],
+            "id": 1303463448,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1333986,
+            "longitude": 11.6352238,
+            "is_compulsory": false,
+            "order": 54,
+            "segment": [
+                5
+            ],
+            "id": 370057805,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1361602,
+            "longitude": 11.6337414,
+            "is_compulsory": true,
+            "order": 56,
+            "segment": [
+                6,
+                7
+            ],
+            "id": 445332215,
+            "name": "Berg am Laim Bf.",
+            "earliest_time": "18:17:35",
+            "latest_time": "18:18:17"
+        },
+        {
+            "latitude": 48.1379428,
+            "longitude": 11.6348566,
+            "is_compulsory": true,
+            "order": 63,
+            "segment": [
+                7,
+                8
+            ],
+            "id": 1954708,
+            "name": "Zamdorfer Straße",
+            "earliest_time": "18:18:45",
+            "latest_time": "18:19:09"
+        },
+        {
+            "latitude": 48.1365634,
+            "longitude": 11.639639,
+            "is_compulsory": false,
+            "order": 57,
+            "segment": [
+                7
+            ],
+            "id": 101559745,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1363287,
+            "longitude": 11.642556,
+            "is_compulsory": false,
+            "order": 58,
+            "segment": [
+                7
+            ],
+            "id": 102818901,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1386922,
+            "longitude": 11.6394689,
+            "is_compulsory": false,
+            "order": 59,
+            "segment": [
+                7
+            ],
+            "id": 60057956,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1381764,
+            "longitude": 11.6261677,
+            "is_compulsory": false,
+            "order": 60,
+            "segment": [
+                7
+            ],
+            "id": 1954718,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1368013,
+            "longitude": 11.6279765,
+            "is_compulsory": false,
+            "order": 61,
+            "segment": [
+                7
+            ],
+            "id": 1201603198,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1366684,
+            "longitude": 11.6244272,
+            "is_compulsory": false,
+            "order": 62,
+            "segment": [
+                7
+            ],
+            "id": 1954741,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.14237526764801,
+            "longitude": 11.649776916305264,
+            "is_compulsory": true,
+            "order": 76,
+            "segment": [
+                8
+            ],
+            "id": 123456789,
+            "name": "Zamilapark",
+            "earliest_time": "18:25:37",
+            "latest_time": "18:26:14"
+        },
+        {
+            "latitude": 48.1426707,
+            "longitude": 11.6356995,
+            "is_compulsory": false,
+            "order": 64,
+            "segment": [
+                8
+            ],
+            "id": 30976830,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1430477,
+            "longitude": 11.6389659,
+            "is_compulsory": false,
+            "order": 65,
+            "segment": [
+                8
+            ],
+            "id": 17419568,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1401853,
+            "longitude": 11.626919,
+            "is_compulsory": false,
+            "order": 66,
+            "segment": [
+                8
+            ],
+            "id": 30976253,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1420986,
+            "longitude": 11.6274255,
+            "is_compulsory": false,
+            "order": 67,
+            "segment": [
+                8
+            ],
+            "id": 30976336,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1425466,
+            "longitude": 11.6319887,
+            "is_compulsory": false,
+            "order": 68,
+            "segment": [
+                8
+            ],
+            "id": 30977524,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1408042,
+            "longitude": 11.6300311,
+            "is_compulsory": false,
+            "order": 69,
+            "segment": [
+                8
+            ],
+            "id": 30968301,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1394824,
+            "longitude": 11.6322811,
+            "is_compulsory": false,
+            "order": 70,
+            "segment": [
+                8
+            ],
+            "id": 34090861,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1403645,
+            "longitude": 11.6372206,
+            "is_compulsory": false,
+            "order": 71,
+            "segment": [
+                8
+            ],
+            "id": 551838724,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1419848,
+            "longitude": 11.6416994,
+            "is_compulsory": false,
+            "order": 72,
+            "segment": [
+                8
+            ],
+            "id": 50747543,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1399832,
+            "longitude": 11.6433384,
+            "is_compulsory": false,
+            "order": 73,
+            "segment": [
+                8
+            ],
+            "id": 50748099,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1414353,
+            "longitude": 11.6450968,
+            "is_compulsory": false,
+            "order": 74,
+            "segment": [
+                8
+            ],
+            "id": 643762656,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "latitude": 48.1398466,
+            "longitude": 11.6481141,
+            "is_compulsory": false,
+            "order": 75,
+            "segment": [
+                8
+            ],
+            "id": 1056431606,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        }
+    ],
+    "route": [
+        13876332,
+        7867416976,
+        6802581357,
+        21522314,
+        21522322,
+        11598323,
+        428745,
+        1954698,
+        533601254,
+        445332215,
+        1954708,
+        551838724,
+        50748099,
+        643762656,
+        123456789
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.133134562549934,
+                "lon": 11.630426904656211,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Zamilapark",
+                "lat": 48.142921164210584,
+                "lon": 11.648172992512018,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.124702466755416,
+                "lon": 11.605999390799619,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Neumarkter Straße",
+                "lat": 48.131027775431775,
+                "lon": 11.627341048388674,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12922788832387,
+                "lon": 11.610207757831544,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.12950886491132,
+                "lon": 11.622365781827511,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12719037270736,
+                "lon": 11.603227718941026,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "St. Pius",
+                "lat": 48.12365798024479,
+                "lon": 11.609103680393522,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12577138192908,
+                "lon": 11.608400703319756,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "August-Everding-Straße",
+                "lat": 48.1243262260671,
+                "lon": 11.611609003543517,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13297381659062,
+                "lon": 11.635118649423328,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Süskindstraße",
+                "lat": 48.14090397906999,
+                "lon": 11.646445285800564,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.13108918917732,
+                "lon": 11.618817462340745,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Süskindstraße",
+                "lat": 48.13671786507917,
+                "lon": 11.644230339545002,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13321080854674,
+                "lon": 11.635562510695841,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Friedrich-Eckart-Straße",
+                "lat": 48.14053455029845,
+                "lon": 11.635530205614295,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12666850904632,
+                "lon": 11.606075407495318,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.131273336080184,
+                "lon": 11.624378083482073,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Grafinger Straße",
+                "lat": 48.1248946,
+                "lon": 11.621927150000003,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Berg am Laim Bf. (Süd)",
+                "lat": 48.13044575255426,
+                "lon": 11.63400922713982,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12541638242306,
+                "lon": 11.604080112438174,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "St. Pius",
+                "lat": 48.12420116217166,
+                "lon": 11.613665087429723,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 11,
+                "assigned_stop": "August-Everding-Straße",
+                "lat": 48.12406523320797,
+                "lon": 11.605825271960889,
+                "building_num": 22
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 11,
+                "assigned_stop": "Neumarkter Straße",
+                "lat": 48.13072022924006,
+                "lon": 11.628477144236063,
+                "building_num": 23
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 12,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13687753638122,
+                "lon": 11.636447262810002,
+                "building_num": 24
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 12,
+                "assigned_stop": "Zamilapark",
+                "lat": 48.140745203707745,
+                "lon": 11.650802925574114,
+                "building_num": 25
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 13,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13355422763284,
+                "lon": 11.63057399366019,
+                "building_num": 26
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 13,
+                "assigned_stop": "Süskindstraße",
+                "lat": 48.14141384948765,
+                "lon": 11.644177104853506,
+                "building_num": 27
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 14,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12892238746492,
+                "lon": 11.602053278207913,
+                "building_num": 28
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 14,
+                "assigned_stop": "Berg am Laim Bf. (Süd)",
+                "lat": 48.13156658442579,
+                "lon": 11.63254721709339,
+                "building_num": 29
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 15,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13794859550681,
+                "lon": 11.629955457091514,
+                "building_num": 30
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 15,
+                "assigned_stop": "Zamilapark",
+                "lat": 48.14290675,
+                "lon": 11.646801350000004,
+                "building_num": 31
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 16,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12647574751024,
+                "lon": 11.608390134188106,
+                "building_num": 32
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 16,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.130163441390074,
+                "lon": 11.622712869349698,
+                "building_num": 33
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 17,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13585444390909,
+                "lon": 11.633802390272985,
+                "building_num": 34
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 17,
+                "assigned_stop": "Rappelhofstraße",
+                "lat": 48.14178582313645,
+                "lon": 11.643955458212094,
+                "building_num": 35
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 18,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13323507398515,
+                "lon": 11.63379171104354,
+                "building_num": 36
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 18,
+                "assigned_stop": "Rappelhofstraße",
+                "lat": 48.142640206884145,
+                "lon": 11.645934119684675,
+                "building_num": 37
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 19,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.133298044912976,
+                "lon": 11.634365592132932,
+                "building_num": 38
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 19,
+                "assigned_stop": "Zamdorf Siedlung",
+                "lat": 48.14119684258892,
+                "lon": 11.641509821101717,
+                "building_num": 39
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 20,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.12810202939078,
+                "lon": 11.622667659342573,
+                "building_num": 40
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 20,
+                "assigned_stop": "Neumarkter Straße",
+                "lat": 48.13365636528316,
+                "lon": 11.628314870742075,
+                "building_num": 41
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 21,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.137163850168506,
+                "lon": 11.632635653886583,
+                "building_num": 42
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 21,
+                "assigned_stop": "Süskindstraße",
+                "lat": 48.14234893307495,
+                "lon": 11.647865279873702,
+                "building_num": 43
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 22,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12668876124107,
+                "lon": 11.608902637361174,
+                "building_num": 44
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 22,
+                "assigned_stop": "Neumarkter Straße",
+                "lat": 48.1311707058098,
+                "lon": 11.630336575009036,
+                "building_num": 45
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 23,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13399594341826,
+                "lon": 11.633327931526939,
+                "building_num": 46
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 23,
+                "assigned_stop": "Süskindstraße",
+                "lat": 48.142450953524396,
+                "lon": 11.646648162527114,
+                "building_num": 47
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 24,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.12894708046929,
+                "lon": 11.622813307325227,
+                "building_num": 48
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 24,
+                "assigned_stop": "Neumarkter Straße",
+                "lat": 48.12983062198654,
+                "lon": 11.630915084551134,
+                "building_num": 49
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 25,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12715304999999,
+                "lon": 11.606021149999998,
+                "building_num": 50
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 25,
+                "assigned_stop": "August-Everding-Straße",
+                "lat": 48.12566716217083,
+                "lon": 11.605686887456294,
+                "building_num": 51
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 26,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12666850904632,
+                "lon": 11.606075407495318,
+                "building_num": 52
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 26,
+                "assigned_stop": "Berg am Laim Bf. (Süd)",
+                "lat": 48.13202533443613,
+                "lon": 11.629873886117934,
+                "building_num": 53
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 27,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12533035206088,
+                "lon": 11.604937154573557,
+                "building_num": 54
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 27,
+                "assigned_stop": "Grafinger Straße",
+                "lat": 48.12491548784429,
+                "lon": 11.618872053416997,
+                "building_num": 55
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 28,
+                "assigned_stop": "Zamdorfer Straße",
+                "lat": 48.14053455029845,
+                "lon": 11.635530205614295,
+                "building_num": 56
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 28,
+                "assigned_stop": "Zamilapark",
+                "lat": 48.14375354705485,
+                "lon": 11.653256374379318,
+                "building_num": 57
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 29,
+                "assigned_stop": "August-Everding-Straße",
+                "lat": 48.12650120116418,
+                "lon": 11.609407001445588,
+                "building_num": 58
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 29,
+                "assigned_stop": "Altöttinger Straße",
+                "lat": 48.127419056919784,
+                "lon": 11.623307944362283,
+                "building_num": 59
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 30,
+                "assigned_stop": "St. Pius",
+                "lat": 48.12604449999999,
+                "lon": 11.61491635,
+                "building_num": 60
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 30,
+                "assigned_stop": "Grafinger Straße",
+                "lat": 48.124882,
+                "lon": 11.619204700000001,
+                "building_num": 61
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 31,
+                "assigned_stop": "Schlüsselbergstraße",
+                "lat": 48.12846205006645,
+                "lon": 11.622764316480291,
+                "building_num": 62
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 31,
+                "assigned_stop": "Berg am Laim Bf. (Süd)",
+                "lat": 48.131066100000005,
+                "lon": 11.634517749999999,
+                "building_num": 63
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 32,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12757140000001,
+                "lon": 11.605449649999999,
+                "building_num": 64
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 32,
+                "assigned_stop": "Berg am Laim Bf.",
+                "lat": 48.13321080854674,
+                "lon": 11.635562510695841,
+                "building_num": 65
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 33,
+                "assigned_stop": "Ostbahnhof Friedenstraße",
+                "lat": 48.12722644033926,
+                "lon": 11.60684067069235,
+                "building_num": 66
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 33,
+                "assigned_stop": "Grafinger Straße",
+                "lat": 48.123477447085534,
+                "lon": 11.617011687442652,
+                "building_num": 67
+            },
+            "utility": 1000,
+            "is_served": false
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 5.36,
+        "kWh_consumption_1.5_kWh_x_km": 8.04,
+        "minutes_travel_time": 19.98,
+        "num_total_request": 34,
+        "num_served_requests": 18,
+        "meters_total_walking_distance": 11517.44,
+        "arrival_times_at_compulsory_stops": [
+            "18:02:00",
+            "18:03:43",
+            "18:04:49",
+            "18:10:38",
+            "18:14:42",
+            "18:15:56",
+            "18:17:35",
+            "18:19:09",
+            "18:25:37"
+        ]
+    }
+}
