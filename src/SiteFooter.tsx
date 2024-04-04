@@ -9,7 +9,7 @@ import {NavLink} from "react-router-dom";
 const pages = ['About', 'Explorer', 'Publications', 'Affiliates', 'Impressum']
 const external = [['TUM', 'https://www.tum.de']]
 const affiliates = [['BMWK', 'https://www.bmwk.de/SiteGlobals/BMWI/StyleBundles/Bilder/bmwi_logo_de.svg?__blob=normal&v=1', 'https://www.bmwk.de'], ['TUM', '/tum_logo.png', 'https://www.tum.de']]
-const disclaimer = "This project was funded under grant 01MV21020B from the German Ministry of Economics and Environmental Protection (BMWK)"
+const disclaimer = "[update] This project was funded under grant 01MV21020B from the German Ministry of Economics and Environmental Protection (BMWK)"
 
 
 function FooterPages() {
