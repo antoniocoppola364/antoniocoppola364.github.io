@@ -2,9 +2,17 @@
   "scenarios": [
     {
       "value": "198_H",
-      "label": "198",
+      "label": "198 H",
       "times": [
-        { "value": "19_44_00", "label": "19:44" }
+        { "value": "19_44_00", "label": "19:44" },
+        { "value": "20_04_00", "label": "20:04" }
+      ]
+    },
+    {
+      "value": "198_R",
+      "label": "198 R",
+      "times": [
+        { "value": "22_16_00", "label": "22:16" }
       ]
     },
     {
