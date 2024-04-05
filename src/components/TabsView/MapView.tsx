@@ -153,24 +153,38 @@ const CompulsoryStopsComponent: React.FC<{ stops: Stop[] }> = ({ stops }) => {
 
         // Check if stop is either true or false for is_compulsory_stop
         if (stop.is_compulsory_stop !== null) {
-          return (
-            <Marker
-              key={index}
-              position={[stop.latitude, stop.longitude]}
-              icon={new L.Icon({
-                iconUrl: iconUrl,
-                iconSize: [25, 25],
-              })}
-            >
-              <Popup>
-                <div>
-                  {stop.name}
-                  <br />
-                  {'Arrival Time: ' + stop.arrival_time}
-                </div>
-              </Popup>
-            </Marker>
-          );
+          if (stop.is_compulsory_stop == true) {
+            return (
+              <Marker
+                key={index}
+                position={[stop.latitude, stop.longitude]}
+                icon={new L.Icon({
+                  iconUrl: iconUrl,
+                  iconSize: [25, 25],
+                })}
+              >
+                <Popup>
+                  <div>
+                    {stop.name}
+                    <br />
+                    {'Arrival Time: ' + stop.arrival_time}
+                  </div>
+                </Popup>
+              </Marker>
+            );
+          } else {
+            return (
+              <Marker
+                key={index}
+                position={[stop.latitude, stop.longitude]}
+                icon={new L.Icon({
+                  iconUrl: iconUrl,
+                  iconSize: [25, 25],
+                })}
+              >
+              </Marker>
+            );
+          }
         }
         return null;
       })}
