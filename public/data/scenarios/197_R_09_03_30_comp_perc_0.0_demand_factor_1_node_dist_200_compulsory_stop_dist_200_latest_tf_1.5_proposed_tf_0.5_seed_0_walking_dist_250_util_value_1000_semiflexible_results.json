@@ -1,0 +1,6426 @@
+{
+    "stops": [
+        {
+            "node_id": 1749785197,
+            "order": 0,
+            "latitude": 48.0987052,
+            "longitude": 11.6485143,
+            "is_compulsory_stop": true,
+            "name": "Kafkastra\u00c3\u0178e",
+            "earliest_time": "09:03:30",
+            "latest_time": "09:03:30",
+            "arrival_time": "09:03:30"
+        },
+        {
+            "node_id": 1749785195,
+            "order": 1,
+            "latitude": 48.09871,
+            "longitude": 11.6489212,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10834182263,
+            "order": 2,
+            "latitude": 48.0986962,
+            "longitude": 11.649021,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785190,
+            "order": 3,
+            "latitude": 48.0986819,
+            "longitude": 11.6490733,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10834182255,
+            "order": 4,
+            "latitude": 48.0986459,
+            "longitude": 11.6490999,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785183,
+            "order": 5,
+            "latitude": 48.0986012,
+            "longitude": 11.6491048,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1727622665,
+            "order": 6,
+            "latitude": 48.0985525,
+            "longitude": 11.6491037,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206338,
+            "order": 7,
+            "latitude": 48.0985487,
+            "longitude": 11.6487933,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 637704168,
+            "order": 8,
+            "latitude": 48.0985527,
+            "longitude": 11.6486331,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999081,
+            "order": 9,
+            "latitude": 48.0985573,
+            "longitude": 11.6484474,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299769,
+            "order": 10,
+            "latitude": 48.0985674,
+            "longitude": 11.6482457,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413034246,
+            "order": 11,
+            "latitude": 48.0985722,
+            "longitude": 11.6481649,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689339,
+            "order": 12,
+            "latitude": 48.0985862,
+            "longitude": 11.6479847,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21551403,
+            "order": 13,
+            "latitude": 48.0986108,
+            "longitude": 11.6477242,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413032963,
+            "order": 14,
+            "latitude": 48.0986239,
+            "longitude": 11.6476039,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 298498346,
+            "order": 15,
+            "latitude": 48.0987032,
+            "longitude": 11.6470379,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192145262,
+            "order": 16,
+            "latitude": 48.0988334,
+            "longitude": 11.6463122,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4211081408,
+            "order": 17,
+            "latitude": 48.0989474,
+            "longitude": 11.6456604,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297900099,
+            "order": 18,
+            "latitude": 48.0989616,
+            "longitude": 11.6455789,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192039677,
+            "order": 19,
+            "latitude": 48.0990045,
+            "longitude": 11.6453369,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789418597,
+            "order": 20,
+            "latitude": 48.0991251,
+            "longitude": 11.6453902,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10914244084,
+            "order": 21,
+            "latitude": 48.0991729,
+            "longitude": 11.6454113,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192040396,
+            "order": 22,
+            "latitude": 48.0999327,
+            "longitude": 11.6457117,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4211081416,
+            "order": 23,
+            "latitude": 48.1009032,
+            "longitude": 11.6461056,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297900106,
+            "order": 24,
+            "latitude": 48.1009658,
+            "longitude": 11.6461315,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1232834648,
+            "order": 25,
+            "latitude": 48.1010511,
+            "longitude": 11.6461624,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 120026310,
+            "order": 26,
+            "latitude": 48.1011651,
+            "longitude": 11.6462115,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1232834638,
+            "order": 27,
+            "latitude": 48.1011903,
+            "longitude": 11.6462216,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041352,
+            "order": 28,
+            "latitude": 48.101312,
+            "longitude": 11.6462701,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1232834655,
+            "order": 29,
+            "latitude": 48.1014135,
+            "longitude": 11.6463103,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 894671560,
+            "order": 30,
+            "latitude": 48.1016039,
+            "longitude": 11.6463738,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231583552,
+            "order": 31,
+            "latitude": 48.1017424,
+            "longitude": 11.646408,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041350,
+            "order": 32,
+            "latitude": 48.1018984,
+            "longitude": 11.6464323,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4191395234,
+            "order": 33,
+            "latitude": 48.1022296,
+            "longitude": 11.6464365,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152016,
+            "order": 34,
+            "latitude": 48.1028224,
+            "longitude": 11.6464436,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152021,
+            "order": 35,
+            "latitude": 48.1030693,
+            "longitude": 11.6464498,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152032,
+            "order": 36,
+            "latitude": 48.1034026,
+            "longitude": 11.6464536,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903162,
+            "order": 37,
+            "latitude": 48.1034617,
+            "longitude": 11.6464542,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152063,
+            "order": 38,
+            "latitude": 48.1035937,
+            "longitude": 11.6464545,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152063,
+            "order": 39,
+            "latitude": 48.1035937,
+            "longitude": 11.6464545,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413001913,
+            "order": 40,
+            "latitude": 48.1036964,
+            "longitude": 11.6464556,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643990,
+            "order": 41,
+            "latitude": 48.1036977,
+            "longitude": 11.6462777,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 416472179,
+            "order": 42,
+            "latitude": 48.1036991,
+            "longitude": 11.6460988,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1070564260,
+            "order": 43,
+            "latitude": 48.1037023,
+            "longitude": 11.6456856,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1955568532,
+            "order": 44,
+            "latitude": 48.1036874,
+            "longitude": 11.6435282,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4331226254,
+            "order": 45,
+            "latitude": 48.1036866,
+            "longitude": 11.6434591,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8019153506,
+            "order": 46,
+            "latitude": 48.1036873,
+            "longitude": 11.6434222,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200070,
+            "order": 47,
+            "latitude": 48.1036915,
+            "longitude": 11.6431825,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152064,
+            "order": 48,
+            "latitude": 48.1037062,
+            "longitude": 11.6430903,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200016,
+            "order": 49,
+            "latitude": 48.1037192,
+            "longitude": 11.6430111,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152065,
+            "order": 50,
+            "latitude": 48.1037384,
+            "longitude": 11.6429374,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413007895,
+            "order": 51,
+            "latitude": 48.1037534,
+            "longitude": 11.6428504,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413007895,
+            "order": 52,
+            "latitude": 48.1037534,
+            "longitude": 11.6428504,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4192152067,
+            "order": 53,
+            "latitude": 48.1037836,
+            "longitude": 11.642788,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3136510854,
+            "order": 54,
+            "latitude": 48.1038097,
+            "longitude": 11.6427337,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4790110956,
+            "order": 55,
+            "latitude": 48.1041686,
+            "longitude": 11.6420727,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947902,
+            "order": 56,
+            "latitude": 48.1042233,
+            "longitude": 11.6419758,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2876915711,
+            "order": 57,
+            "latitude": 48.104267,
+            "longitude": 11.6418763,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947901,
+            "order": 58,
+            "latitude": 48.1043237,
+            "longitude": 11.6417129,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200324,
+            "order": 59,
+            "latitude": 48.1043525,
+            "longitude": 11.6414947,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 96794926,
+            "order": 60,
+            "latitude": 48.1043539,
+            "longitude": 11.6411715,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3136510853,
+            "order": 61,
+            "latitude": 48.1043537,
+            "longitude": 11.6409249,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 457091439,
+            "order": 62,
+            "latitude": 48.1043535,
+            "longitude": 11.6408749,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947900,
+            "order": 63,
+            "latitude": 48.1043536,
+            "longitude": 11.6404261,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3799099889,
+            "order": 64,
+            "latitude": 48.1043525,
+            "longitude": 11.6402644,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 457091438,
+            "order": 65,
+            "latitude": 48.1043529,
+            "longitude": 11.6398615,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200054,
+            "order": 66,
+            "latitude": 48.1043542,
+            "longitude": 11.6392546,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947899,
+            "order": 67,
+            "latitude": 48.1043355,
+            "longitude": 11.6390417,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749743219,
+            "order": 68,
+            "latitude": 48.1042939,
+            "longitude": 11.6389097,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2876915706,
+            "order": 69,
+            "latitude": 48.1042706,
+            "longitude": 11.63886,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947898,
+            "order": 70,
+            "latitude": 48.1042444,
+            "longitude": 11.6388042,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749743208,
+            "order": 71,
+            "latitude": 48.1041657,
+            "longitude": 11.6386834,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947897,
+            "order": 72,
+            "latitude": 48.1035838,
+            "longitude": 11.6378185,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4158124026,
+            "order": 73,
+            "latitude": 48.1034463,
+            "longitude": 11.6376174,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4158123730,
+            "order": 74,
+            "latitude": 48.1033504,
+            "longitude": 11.6374515,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4158124023,
+            "order": 75,
+            "latitude": 48.1032913,
+            "longitude": 11.6373438,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 457091436,
+            "order": 76,
+            "latitude": 48.103256,
+            "longitude": 11.6372632,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2642471104,
+            "order": 77,
+            "latitude": 48.1032351,
+            "longitude": 11.6371621,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1022684232,
+            "order": 78,
+            "latitude": 48.1031872,
+            "longitude": 11.6370161,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9327822443,
+            "order": 79,
+            "latitude": 48.103151,
+            "longitude": 11.6368799,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903145,
+            "order": 80,
+            "latitude": 48.1031247,
+            "longitude": 11.6367806,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 32947212,
+            "order": 81,
+            "latitude": 48.1031053,
+            "longitude": 11.636644,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903147,
+            "order": 82,
+            "latitude": 48.1032377,
+            "longitude": 11.6366372,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2876915715,
+            "order": 83,
+            "latitude": 48.1034369,
+            "longitude": 11.6366265,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2876915715,
+            "order": 84,
+            "latitude": 48.1034369,
+            "longitude": 11.6366265,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643011,
+            "order": 85,
+            "latitude": 48.1036452,
+            "longitude": 11.6366214,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7942911064,
+            "order": 86,
+            "latitude": 48.103861,
+            "longitude": 11.6366165,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073094737,
+            "order": 87,
+            "latitude": 48.1044119,
+            "longitude": 11.6366041,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 24554606,
+            "order": 88,
+            "latitude": 48.1047619,
+            "longitude": 11.6366073,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 24554615,
+            "order": 89,
+            "latitude": 48.104822,
+            "longitude": 11.6366078,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1022674784,
+            "order": 90,
+            "latitude": 48.1051544,
+            "longitude": 11.6366109,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 660785038,
+            "order": 91,
+            "latitude": 48.1058681,
+            "longitude": 11.6366131,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2642471112,
+            "order": 92,
+            "latitude": 48.1060412,
+            "longitude": 11.6366114,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073094725,
+            "order": 93,
+            "latitude": 48.1065049,
+            "longitude": 11.6366096,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4633100593,
+            "order": 94,
+            "latitude": 48.1066563,
+            "longitude": 11.6366111,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4633100088,
+            "order": 95,
+            "latitude": 48.1066914,
+            "longitude": 11.6366114,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 24554614,
+            "order": 96,
+            "latitude": 48.1067764,
+            "longitude": 11.6366123,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508437,
+            "order": 97,
+            "latitude": 48.1068419,
+            "longitude": 11.6366162,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4633100084,
+            "order": 98,
+            "latitude": 48.1069409,
+            "longitude": 11.6366172,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073094754,
+            "order": 99,
+            "latitude": 48.107085,
+            "longitude": 11.6366186,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073094754,
+            "order": 100,
+            "latitude": 48.107085,
+            "longitude": 11.6366186,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2297225958,
+            "order": 101,
+            "latitude": 48.107417,
+            "longitude": 11.6366162,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643020,
+            "order": 102,
+            "latitude": 48.1076364,
+            "longitude": 11.6366139,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621182,
+            "order": 103,
+            "latitude": 48.1078726,
+            "longitude": 11.6366145,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621183,
+            "order": 104,
+            "latitude": 48.108278,
+            "longitude": 11.6366245,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621185,
+            "order": 105,
+            "latitude": 48.1084852,
+            "longitude": 11.6366751,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621187,
+            "order": 106,
+            "latitude": 48.108655,
+            "longitude": 11.6367752,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10855909712,
+            "order": 107,
+            "latitude": 48.1087265,
+            "longitude": 11.6368436,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621188,
+            "order": 108,
+            "latitude": 48.108799,
+            "longitude": 11.6369299,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10855909714,
+            "order": 109,
+            "latitude": 48.1088546,
+            "longitude": 11.6370139,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621190,
+            "order": 110,
+            "latitude": 48.1089137,
+            "longitude": 11.6371101,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10855909718,
+            "order": 111,
+            "latitude": 48.1089661,
+            "longitude": 11.6372406,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621191,
+            "order": 112,
+            "latitude": 48.1090075,
+            "longitude": 11.637372,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10855909719,
+            "order": 113,
+            "latitude": 48.109039,
+            "longitude": 11.6375215,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621192,
+            "order": 114,
+            "latitude": 48.1090508,
+            "longitude": 11.6376002,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 500383143,
+            "order": 115,
+            "latitude": 48.1090648,
+            "longitude": 11.6376998,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621193,
+            "order": 116,
+            "latitude": 48.1090772,
+            "longitude": 11.6378556,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4635241518,
+            "order": 117,
+            "latitude": 48.1090785,
+            "longitude": 11.6390846,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1223030547,
+            "order": 118,
+            "latitude": 48.1090785,
+            "longitude": 11.6391328,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1605621194,
+            "order": 119,
+            "latitude": 48.1090786,
+            "longitude": 11.6393091,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27186264,
+            "order": 120,
+            "latitude": 48.109006,
+            "longitude": 11.6393056,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4635241517,
+            "order": 121,
+            "latitude": 48.1089393,
+            "longitude": 11.6393054,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1223030510,
+            "order": 122,
+            "latitude": 48.1088647,
+            "longitude": 11.6393052,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2892597424,
+            "order": 123,
+            "latitude": 48.1087453,
+            "longitude": 11.6393045,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8833026915,
+            "order": 124,
+            "latitude": 48.10866,
+            "longitude": 11.6393057,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055564,
+            "order": 125,
+            "latitude": 48.1083393,
+            "longitude": 11.6393111,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10780265087,
+            "order": 126,
+            "latitude": 48.1082683,
+            "longitude": 11.6393123,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055550,
+            "order": 127,
+            "latitude": 48.1082535,
+            "longitude": 11.6393125,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055545,
+            "order": 128,
+            "latitude": 48.1081844,
+            "longitude": 11.6393137,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1579892096,
+            "order": 129,
+            "latitude": 48.1079621,
+            "longitude": 11.6393173,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10678389503,
+            "order": 130,
+            "latitude": 48.1079392,
+            "longitude": 11.6393201,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583747807,
+            "order": 131,
+            "latitude": 48.1078779,
+            "longitude": 11.6393277,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583747809,
+            "order": 132,
+            "latitude": 48.107799,
+            "longitude": 11.6393636,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1579896353,
+            "order": 133,
+            "latitude": 48.1077406,
+            "longitude": 11.6394292,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055497,
+            "order": 134,
+            "latitude": 48.1077104,
+            "longitude": 11.6394675,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055465,
+            "order": 135,
+            "latitude": 48.1071719,
+            "longitude": 11.6402409,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717752,
+            "order": 136,
+            "latitude": 48.107031,
+            "longitude": 11.6404461,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717755,
+            "order": 137,
+            "latitude": 48.1069198,
+            "longitude": 11.6406524,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717757,
+            "order": 138,
+            "latitude": 48.106865,
+            "longitude": 11.6408293,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 96797496,
+            "order": 139,
+            "latitude": 48.1068519,
+            "longitude": 11.6411484,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717756,
+            "order": 140,
+            "latitude": 48.1068512,
+            "longitude": 11.6413304,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055435,
+            "order": 141,
+            "latitude": 48.1068475,
+            "longitude": 11.642035,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717758,
+            "order": 142,
+            "latitude": 48.1068448,
+            "longitude": 11.6425617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717758,
+            "order": 143,
+            "latitude": 48.1068448,
+            "longitude": 11.6425617,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055436,
+            "order": 144,
+            "latitude": 48.1068477,
+            "longitude": 11.6426922,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717760,
+            "order": 145,
+            "latitude": 48.1068561,
+            "longitude": 11.6428157,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055441,
+            "order": 146,
+            "latitude": 48.1068842,
+            "longitude": 11.6429074,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717754,
+            "order": 147,
+            "latitude": 48.106923,
+            "longitude": 11.6429938,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055447,
+            "order": 148,
+            "latitude": 48.1069682,
+            "longitude": 11.6430613,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717753,
+            "order": 149,
+            "latitude": 48.1070197,
+            "longitude": 11.6431113,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055459,
+            "order": 150,
+            "latitude": 48.1071178,
+            "longitude": 11.6431422,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717762,
+            "order": 151,
+            "latitude": 48.1071879,
+            "longitude": 11.643148,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1583717761,
+            "order": 152,
+            "latitude": 48.1073906,
+            "longitude": 11.643148,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1796135944,
+            "order": 153,
+            "latitude": 48.107518,
+            "longitude": 11.6431534,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055492,
+            "order": 154,
+            "latitude": 48.1076169,
+            "longitude": 11.6431546,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055534,
+            "order": 155,
+            "latitude": 48.1081263,
+            "longitude": 11.6431605,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1839055558,
+            "order": 156,
+            "latitude": 48.1082979,
+            "longitude": 11.6431628,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2903400122,
+            "order": 157,
+            "latitude": 48.1085818,
+            "longitude": 11.6431662,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 681640658,
+            "order": 158,
+            "latitude": 48.109005,
+            "longitude": 11.6431657,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27186269,
+            "order": 159,
+            "latitude": 48.109075,
+            "longitude": 11.6431654,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27186269,
+            "order": 160,
+            "latitude": 48.109075,
+            "longitude": 11.6431654,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643014,
+            "order": 161,
+            "latitude": 48.1090721,
+            "longitude": 11.6445399,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210806918,
+            "order": 162,
+            "latitude": 48.1090786,
+            "longitude": 11.646092,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297900050,
+            "order": 163,
+            "latitude": 48.1090791,
+            "longitude": 11.6461881,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041405,
+            "order": 164,
+            "latitude": 48.1090768,
+            "longitude": 11.646332,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 24555227,
+            "order": 165,
+            "latitude": 48.1090735,
+            "longitude": 11.6465208,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688750,
+            "order": 166,
+            "latitude": 48.109168,
+            "longitude": 11.6465246,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 681640710,
+            "order": 167,
+            "latitude": 48.1092797,
+            "longitude": 11.6465298,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3750821973,
+            "order": 168,
+            "latitude": 48.1097384,
+            "longitude": 11.6465457,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8459104354,
+            "order": 169,
+            "latitude": 48.1100335,
+            "longitude": 11.6465728,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688746,
+            "order": 170,
+            "latitude": 48.1100733,
+            "longitude": 11.6465765,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3750821976,
+            "order": 171,
+            "latitude": 48.1102079,
+            "longitude": 11.646606,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077037374,
+            "order": 172,
+            "latitude": 48.1103298,
+            "longitude": 11.646654,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688747,
+            "order": 173,
+            "latitude": 48.1104599,
+            "longitude": 11.6467236,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1798427958,
+            "order": 174,
+            "latitude": 48.1106256,
+            "longitude": 11.6468588,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688748,
+            "order": 175,
+            "latitude": 48.1107376,
+            "longitude": 11.6469668,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 27212254,
+            "order": 176,
+            "latitude": 48.110919,
+            "longitude": 11.6471912,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688749,
+            "order": 177,
+            "latitude": 48.1110303,
+            "longitude": 11.6473826,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2642378425,
+            "order": 178,
+            "latitude": 48.1112997,
+            "longitude": 11.6478764,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373092,
+            "order": 179,
+            "latitude": 48.1116487,
+            "longitude": 11.6485173,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 269943002,
+            "order": 180,
+            "latitude": 48.1116794,
+            "longitude": 11.6485737,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487575,
+            "order": 181,
+            "latitude": 48.1117613,
+            "longitude": 11.6487105,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688752,
+            "order": 182,
+            "latitude": 48.1119594,
+            "longitude": 11.6489876,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688752,
+            "order": 183,
+            "latitude": 48.1119594,
+            "longitude": 11.6489876,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896785,
+            "order": 184,
+            "latitude": 48.1120605,
+            "longitude": 11.649124,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373096,
+            "order": 185,
+            "latitude": 48.1121785,
+            "longitude": 11.6492529,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3895707729,
+            "order": 186,
+            "latitude": 48.1122757,
+            "longitude": 11.6493071,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373097,
+            "order": 187,
+            "latitude": 48.1123033,
+            "longitude": 11.6493444,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861734931,
+            "order": 188,
+            "latitude": 48.1123222,
+            "longitude": 11.6493727,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373095,
+            "order": 189,
+            "latitude": 48.1123727,
+            "longitude": 11.6494488,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15355012,
+            "order": 190,
+            "latitude": 48.1124739,
+            "longitude": 11.6496012,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 568023376,
+            "order": 191,
+            "latitude": 48.1126367,
+            "longitude": 11.6498315,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 457100936,
+            "order": 192,
+            "latitude": 48.1126931,
+            "longitude": 11.6498963,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373098,
+            "order": 193,
+            "latitude": 48.1129999,
+            "longitude": 11.65025,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792338382,
+            "order": 194,
+            "latitude": 48.1130284,
+            "longitude": 11.6502838,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658512,
+            "order": 195,
+            "latitude": 48.1130952,
+            "longitude": 11.6503631,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903543,
+            "order": 196,
+            "latitude": 48.1130644,
+            "longitude": 11.6504411,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373099,
+            "order": 197,
+            "latitude": 48.113006,
+            "longitude": 11.6506202,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 568023392,
+            "order": 198,
+            "latitude": 48.1129203,
+            "longitude": 11.6508829,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950767585,
+            "order": 199,
+            "latitude": 48.1128558,
+            "longitude": 11.651078,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950818171,
+            "order": 200,
+            "latitude": 48.1127724,
+            "longitude": 11.6513306,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658510,
+            "order": 201,
+            "latitude": 48.1126416,
+            "longitude": 11.6517273,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 300949859,
+            "order": 202,
+            "latitude": 48.1125859,
+            "longitude": 11.651897,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950818181,
+            "order": 203,
+            "latitude": 48.1124492,
+            "longitude": 11.6523144,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487605,
+            "order": 204,
+            "latitude": 48.1121972,
+            "longitude": 11.6531096,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11010613736,
+            "order": 205,
+            "latitude": 48.1120357,
+            "longitude": 11.6536698,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8827540712,
+            "order": 206,
+            "latitude": 48.1118627,
+            "longitude": 11.6542177,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8827540715,
+            "order": 207,
+            "latitude": 48.111851,
+            "longitude": 11.6542617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 16059815,
+            "order": 208,
+            "latitude": 48.1117223,
+            "longitude": 11.6546454,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 16059815,
+            "order": 209,
+            "latitude": 48.1117223,
+            "longitude": 11.6546454,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8827540715,
+            "order": 210,
+            "latitude": 48.111851,
+            "longitude": 11.6542617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8827540712,
+            "order": 211,
+            "latitude": 48.1118627,
+            "longitude": 11.6542177,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 11010613736,
+            "order": 212,
+            "latitude": 48.1120357,
+            "longitude": 11.6536698,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487605,
+            "order": 213,
+            "latitude": 48.1121972,
+            "longitude": 11.6531096,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950818181,
+            "order": 214,
+            "latitude": 48.1124492,
+            "longitude": 11.6523144,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 300949859,
+            "order": 215,
+            "latitude": 48.1125859,
+            "longitude": 11.651897,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658510,
+            "order": 216,
+            "latitude": 48.1126416,
+            "longitude": 11.6517273,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658510,
+            "order": 217,
+            "latitude": 48.1126416,
+            "longitude": 11.6517273,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950818171,
+            "order": 218,
+            "latitude": 48.1127724,
+            "longitude": 11.6513306,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2950767585,
+            "order": 219,
+            "latitude": 48.1128558,
+            "longitude": 11.651078,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 568023392,
+            "order": 220,
+            "latitude": 48.1129203,
+            "longitude": 11.6508829,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373099,
+            "order": 221,
+            "latitude": 48.113006,
+            "longitude": 11.6506202,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297903543,
+            "order": 222,
+            "latitude": 48.1130644,
+            "longitude": 11.6504411,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 14658512,
+            "order": 223,
+            "latitude": 48.1130952,
+            "longitude": 11.6503631,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792338382,
+            "order": 224,
+            "latitude": 48.1130284,
+            "longitude": 11.6502838,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373098,
+            "order": 225,
+            "latitude": 48.1129999,
+            "longitude": 11.65025,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 457100936,
+            "order": 226,
+            "latitude": 48.1126931,
+            "longitude": 11.6498963,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 568023376,
+            "order": 227,
+            "latitude": 48.1126367,
+            "longitude": 11.6498315,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15355012,
+            "order": 228,
+            "latitude": 48.1124739,
+            "longitude": 11.6496012,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373095,
+            "order": 229,
+            "latitude": 48.1123727,
+            "longitude": 11.6494488,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861734931,
+            "order": 230,
+            "latitude": 48.1123222,
+            "longitude": 11.6493727,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373097,
+            "order": 231,
+            "latitude": 48.1123033,
+            "longitude": 11.6493444,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3895707729,
+            "order": 232,
+            "latitude": 48.1122757,
+            "longitude": 11.6493071,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 17713261,
+            "order": 233,
+            "latitude": 48.1122129,
+            "longitude": 11.6491727,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7792373090,
+            "order": 234,
+            "latitude": 48.1121458,
+            "longitude": 11.6490618,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 269943059,
+            "order": 235,
+            "latitude": 48.1121156,
+            "longitude": 11.649012,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041416,
+            "order": 236,
+            "latitude": 48.1120333,
+            "longitude": 11.6488706,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688753,
+            "order": 237,
+            "latitude": 48.1118652,
+            "longitude": 11.6485585,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487575,
+            "order": 238,
+            "latitude": 48.1117613,
+            "longitude": 11.6487105,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896775,
+            "order": 239,
+            "latitude": 48.111682,
+            "longitude": 11.6488264,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231604740,
+            "order": 240,
+            "latitude": 48.1116155,
+            "longitude": 11.6489171,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1221692983,
+            "order": 241,
+            "latitude": 48.1114829,
+            "longitude": 11.6490683,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487576,
+            "order": 242,
+            "latitude": 48.1112637,
+            "longitude": 11.6492865,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1221692943,
+            "order": 243,
+            "latitude": 48.1110747,
+            "longitude": 11.6494277,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487581,
+            "order": 244,
+            "latitude": 48.1108801,
+            "longitude": 11.6495437,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487578,
+            "order": 245,
+            "latitude": 48.1105529,
+            "longitude": 11.6496833,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15487579,
+            "order": 246,
+            "latitude": 48.1102016,
+            "longitude": 11.6497586,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210806934,
+            "order": 247,
+            "latitude": 48.109334,
+            "longitude": 11.6497901,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 681640724,
+            "order": 248,
+            "latitude": 48.1092764,
+            "longitude": 11.6497862,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15488644,
+            "order": 249,
+            "latitude": 48.1091754,
+            "longitude": 11.6497792,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896806,
+            "order": 250,
+            "latitude": 48.1091764,
+            "longitude": 11.6496098,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643029,
+            "order": 251,
+            "latitude": 48.1091799,
+            "longitude": 11.649361,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210808089,
+            "order": 252,
+            "latitude": 48.1091663,
+            "longitude": 11.6472241,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210808089,
+            "order": 253,
+            "latitude": 48.1091663,
+            "longitude": 11.6472241,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643043,
+            "order": 254,
+            "latitude": 48.1091636,
+            "longitude": 11.6467931,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210806928,
+            "order": 255,
+            "latitude": 48.1091633,
+            "longitude": 11.6467525,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896770,
+            "order": 256,
+            "latitude": 48.109165,
+            "longitude": 11.6466706,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15688750,
+            "order": 257,
+            "latitude": 48.109168,
+            "longitude": 11.6465246,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041371,
+            "order": 258,
+            "latitude": 48.1091719,
+            "longitude": 11.6463335,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041405,
+            "order": 259,
+            "latitude": 48.1090768,
+            "longitude": 11.646332,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 24555227,
+            "order": 260,
+            "latitude": 48.1090735,
+            "longitude": 11.6465208,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297900049,
+            "order": 261,
+            "latitude": 48.1090713,
+            "longitude": 11.6466679,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643038,
+            "order": 262,
+            "latitude": 48.1090715,
+            "longitude": 11.6469971,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1855994654,
+            "order": 263,
+            "latitude": 48.1090731,
+            "longitude": 11.6477417,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271230707,
+            "order": 264,
+            "latitude": 48.1090729,
+            "longitude": 11.648712,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077037338,
+            "order": 265,
+            "latitude": 48.1090759,
+            "longitude": 11.6490518,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4210806919,
+            "order": 266,
+            "latitude": 48.1090801,
+            "longitude": 11.6495259,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896807,
+            "order": 267,
+            "latitude": 48.1090795,
+            "longitude": 11.6496114,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508225,
+            "order": 268,
+            "latitude": 48.1090783,
+            "longitude": 11.6497727,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508224,
+            "order": 269,
+            "latitude": 48.1090766,
+            "longitude": 11.6500097,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508224,
+            "order": 270,
+            "latitude": 48.1090766,
+            "longitude": 11.6500097,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 297896814,
+            "order": 271,
+            "latitude": 48.1090755,
+            "longitude": 11.6501649,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271234914,
+            "order": 272,
+            "latitude": 48.1090745,
+            "longitude": 11.6503032,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2923709929,
+            "order": 273,
+            "latitude": 48.10907,
+            "longitude": 11.6508481,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1855994653,
+            "order": 274,
+            "latitude": 48.1090715,
+            "longitude": 11.6510557,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271230899,
+            "order": 275,
+            "latitude": 48.109071,
+            "longitude": 11.6517992,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643991,
+            "order": 276,
+            "latitude": 48.1090694,
+            "longitude": 11.6529126,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6361389157,
+            "order": 277,
+            "latitude": 48.1090661,
+            "longitude": 11.6533477,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6361389157,
+            "order": 278,
+            "latitude": 48.1090661,
+            "longitude": 11.6533477,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643013,
+            "order": 279,
+            "latitude": 48.1090631,
+            "longitude": 11.6543301,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9152250354,
+            "order": 280,
+            "latitude": 48.1090627,
+            "longitude": 11.6544456,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271231785,
+            "order": 281,
+            "latitude": 48.109062,
+            "longitude": 11.654652,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10956863685,
+            "order": 282,
+            "latitude": 48.1090604,
+            "longitude": 11.6549351,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861260945,
+            "order": 283,
+            "latitude": 48.1090558,
+            "longitude": 11.6552759,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701785071,
+            "order": 284,
+            "latitude": 48.1090384,
+            "longitude": 11.6554156,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508227,
+            "order": 285,
+            "latitude": 48.1090168,
+            "longitude": 11.6555573,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508228,
+            "order": 286,
+            "latitude": 48.1089856,
+            "longitude": 11.6557109,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508229,
+            "order": 287,
+            "latitude": 48.1089277,
+            "longitude": 11.6558974,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508230,
+            "order": 288,
+            "latitude": 48.1088507,
+            "longitude": 11.6560721,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701785066,
+            "order": 289,
+            "latitude": 48.1087351,
+            "longitude": 11.6562764,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10296735567,
+            "order": 290,
+            "latitude": 48.1084753,
+            "longitude": 11.656676,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643993,
+            "order": 291,
+            "latitude": 48.1084076,
+            "longitude": 11.6567802,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643993,
+            "order": 292,
+            "latitude": 48.1084076,
+            "longitude": 11.6567802,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10175996128,
+            "order": 293,
+            "latitude": 48.1083565,
+            "longitude": 11.656856,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10296735563,
+            "order": 294,
+            "latitude": 48.1083022,
+            "longitude": 11.6569365,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2263102020,
+            "order": 295,
+            "latitude": 48.1073055,
+            "longitude": 11.6584163,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508231,
+            "order": 296,
+            "latitude": 48.1072429,
+            "longitude": 11.658507,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077289811,
+            "order": 297,
+            "latitude": 48.1071192,
+            "longitude": 11.6586504,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508232,
+            "order": 298,
+            "latitude": 48.1070221,
+            "longitude": 11.6587406,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077289809,
+            "order": 299,
+            "latitude": 48.1069165,
+            "longitude": 11.658816,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508233,
+            "order": 300,
+            "latitude": 48.1068431,
+            "longitude": 11.6588552,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077289807,
+            "order": 301,
+            "latitude": 48.106707,
+            "longitude": 11.6589037,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21508234,
+            "order": 302,
+            "latitude": 48.1065727,
+            "longitude": 11.658929,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643030,
+            "order": 303,
+            "latitude": 48.1062545,
+            "longitude": 11.658939,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643994,
+            "order": 304,
+            "latitude": 48.1058849,
+            "longitude": 11.6589431,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 684335867,
+            "order": 305,
+            "latitude": 48.1058859,
+            "longitude": 11.6588383,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743185,
+            "order": 306,
+            "latitude": 48.1058874,
+            "longitude": 11.6586981,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055522,
+            "order": 307,
+            "latitude": 48.1058876,
+            "longitude": 11.6586589,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6449268004,
+            "order": 308,
+            "latitude": 48.1059802,
+            "longitude": 11.6586578,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6449268004,
+            "order": 309,
+            "latitude": 48.1059802,
+            "longitude": 11.6586578,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055522,
+            "order": 310,
+            "latitude": 48.1058876,
+            "longitude": 11.6586589,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514046,
+            "order": 311,
+            "latitude": 48.1058893,
+            "longitude": 11.6584091,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6408902440,
+            "order": 312,
+            "latitude": 48.1058903,
+            "longitude": 11.6582742,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6408902445,
+            "order": 313,
+            "latitude": 48.1058933,
+            "longitude": 11.6578225,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271225796,
+            "order": 314,
+            "latitude": 48.105895,
+            "longitude": 11.6575675,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6408902458,
+            "order": 315,
+            "latitude": 48.1058944,
+            "longitude": 11.6572601,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2297476766,
+            "order": 316,
+            "latitude": 48.1058943,
+            "longitude": 11.6572179,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6408902475,
+            "order": 317,
+            "latitude": 48.1058941,
+            "longitude": 11.6569107,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2297476765,
+            "order": 318,
+            "latitude": 48.1058939,
+            "longitude": 11.6566908,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6441636285,
+            "order": 319,
+            "latitude": 48.1058932,
+            "longitude": 11.6565419,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055515,
+            "order": 320,
+            "latitude": 48.1058928,
+            "longitude": 11.6564584,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055517,
+            "order": 321,
+            "latitude": 48.1058878,
+            "longitude": 11.6563706,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6441636290,
+            "order": 322,
+            "latitude": 48.1058798,
+            "longitude": 11.6563199,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643996,
+            "order": 323,
+            "latitude": 48.1058686,
+            "longitude": 11.6562771,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6441636292,
+            "order": 324,
+            "latitude": 48.1058479,
+            "longitude": 11.6562347,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743183,
+            "order": 325,
+            "latitude": 48.1058186,
+            "longitude": 11.6562064,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6441636291,
+            "order": 326,
+            "latitude": 48.1058009,
+            "longitude": 11.6561947,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055521,
+            "order": 327,
+            "latitude": 48.1057813,
+            "longitude": 11.6561893,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6363738445,
+            "order": 328,
+            "latitude": 48.105735,
+            "longitude": 11.6561894,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1077055534,
+            "order": 329,
+            "latitude": 48.1056976,
+            "longitude": 11.656189,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743135,
+            "order": 330,
+            "latitude": 48.1051578,
+            "longitude": 11.656194,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258640,
+            "order": 331,
+            "latitude": 48.1050302,
+            "longitude": 11.6561952,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6434170196,
+            "order": 332,
+            "latitude": 48.1049789,
+            "longitude": 11.6561962,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6434170194,
+            "order": 333,
+            "latitude": 48.1048376,
+            "longitude": 11.656197,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271232943,
+            "order": 334,
+            "latitude": 48.1045873,
+            "longitude": 11.6561993,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258611,
+            "order": 335,
+            "latitude": 48.1045574,
+            "longitude": 11.6561995,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258602,
+            "order": 336,
+            "latitude": 48.1044333,
+            "longitude": 11.6562007,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258591,
+            "order": 337,
+            "latitude": 48.104133,
+            "longitude": 11.6562035,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743092,
+            "order": 338,
+            "latitude": 48.1040872,
+            "longitude": 11.6562039,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258585,
+            "order": 339,
+            "latitude": 48.1040134,
+            "longitude": 11.6562046,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281258577,
+            "order": 340,
+            "latitude": 48.1039607,
+            "longitude": 11.6562051,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6434169925,
+            "order": 341,
+            "latitude": 48.1038085,
+            "longitude": 11.6562079,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643995,
+            "order": 342,
+            "latitude": 48.1035121,
+            "longitude": 11.6562092,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 21643995,
+            "order": 343,
+            "latitude": 48.1035121,
+            "longitude": 11.6562092,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6439808436,
+            "order": 344,
+            "latitude": 48.1035118,
+            "longitude": 11.6566778,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743028,
+            "order": 345,
+            "latitude": 48.1035118,
+            "longitude": 11.656756,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514094,
+            "order": 346,
+            "latitude": 48.1035117,
+            "longitude": 11.6569514,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6439808442,
+            "order": 347,
+            "latitude": 48.1035116,
+            "longitude": 11.6571236,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6409505964,
+            "order": 348,
+            "latitude": 48.1035116,
+            "longitude": 11.6572048,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6409505965,
+            "order": 349,
+            "latitude": 48.1035123,
+            "longitude": 11.6572758,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6409505981,
+            "order": 350,
+            "latitude": 48.1035115,
+            "longitude": 11.6575235,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132939,
+            "order": 351,
+            "latitude": 48.1035115,
+            "longitude": 11.6575795,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743031,
+            "order": 352,
+            "latitude": 48.1035115,
+            "longitude": 11.657602,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132941,
+            "order": 353,
+            "latitude": 48.1035114,
+            "longitude": 11.6576729,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6439808650,
+            "order": 354,
+            "latitude": 48.1035114,
+            "longitude": 11.6577694,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 271225799,
+            "order": 355,
+            "latitude": 48.1035114,
+            "longitude": 11.6578316,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6439808467,
+            "order": 356,
+            "latitude": 48.1035113,
+            "longitude": 11.6579572,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743033,
+            "order": 357,
+            "latitude": 48.1035112,
+            "longitude": 11.6580729,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6439808459,
+            "order": 358,
+            "latitude": 48.1035106,
+            "longitude": 11.6583612,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743036,
+            "order": 359,
+            "latitude": 48.103511,
+            "longitude": 11.6585924,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387944,
+            "order": 360,
+            "latitude": 48.103511,
+            "longitude": 11.6587108,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 684335862,
+            "order": 361,
+            "latitude": 48.1035109,
+            "longitude": 11.658835,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15848407,
+            "order": 362,
+            "latitude": 48.1035109,
+            "longitude": 11.6589338,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041408,
+            "order": 363,
+            "latitude": 48.1035102,
+            "longitude": 11.6590894,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 684335864,
+            "order": 364,
+            "latitude": 48.1035107,
+            "longitude": 11.6592044,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387943,
+            "order": 365,
+            "latitude": 48.1035107,
+            "longitude": 11.6593465,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 886125810,
+            "order": 366,
+            "latitude": 48.1035105,
+            "longitude": 11.6597353,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772161,
+            "order": 367,
+            "latitude": 48.1035103,
+            "longitude": 11.6602571,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514059,
+            "order": 368,
+            "latitude": 48.103511,
+            "longitude": 11.660388,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772162,
+            "order": 369,
+            "latitude": 48.1035111,
+            "longitude": 11.6604068,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772163,
+            "order": 370,
+            "latitude": 48.1035117,
+            "longitude": 11.6605284,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 450608791,
+            "order": 371,
+            "latitude": 48.1035118,
+            "longitude": 11.6605505,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743039,
+            "order": 372,
+            "latitude": 48.1035173,
+            "longitude": 11.660617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701761207,
+            "order": 373,
+            "latitude": 48.10353,
+            "longitude": 11.6607006,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1368959157,
+            "order": 374,
+            "latitude": 48.1035459,
+            "longitude": 11.6607832,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701761208,
+            "order": 375,
+            "latitude": 48.1035708,
+            "longitude": 11.6608617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041411,
+            "order": 376,
+            "latitude": 48.1035981,
+            "longitude": 11.6609179,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1368959155,
+            "order": 377,
+            "latitude": 48.1036661,
+            "longitude": 11.6610143,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387950,
+            "order": 378,
+            "latitude": 48.1037174,
+            "longitude": 11.6610613,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15848921,
+            "order": 379,
+            "latitude": 48.1037699,
+            "longitude": 11.6610956,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743090,
+            "order": 380,
+            "latitude": 48.1039208,
+            "longitude": 11.6611745,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743090,
+            "order": 381,
+            "latitude": 48.1039208,
+            "longitude": 11.6611745,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15848921,
+            "order": 382,
+            "latitude": 48.1037699,
+            "longitude": 11.6610956,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387950,
+            "order": 383,
+            "latitude": 48.1037174,
+            "longitude": 11.6610613,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1368959155,
+            "order": 384,
+            "latitude": 48.1036661,
+            "longitude": 11.6610143,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041411,
+            "order": 385,
+            "latitude": 48.1035981,
+            "longitude": 11.6609179,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701761208,
+            "order": 386,
+            "latitude": 48.1035708,
+            "longitude": 11.6608617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1368959157,
+            "order": 387,
+            "latitude": 48.1035459,
+            "longitude": 11.6607832,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1701761207,
+            "order": 388,
+            "latitude": 48.10353,
+            "longitude": 11.6607006,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2077743039,
+            "order": 389,
+            "latitude": 48.1035173,
+            "longitude": 11.660617,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 450608791,
+            "order": 390,
+            "latitude": 48.1035118,
+            "longitude": 11.6605505,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772163,
+            "order": 391,
+            "latitude": 48.1035117,
+            "longitude": 11.6605284,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772162,
+            "order": 392,
+            "latitude": 48.1035111,
+            "longitude": 11.6604068,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514059,
+            "order": 393,
+            "latitude": 48.103511,
+            "longitude": 11.660388,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1751772161,
+            "order": 394,
+            "latitude": 48.1035103,
+            "longitude": 11.6602571,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 886125810,
+            "order": 395,
+            "latitude": 48.1035105,
+            "longitude": 11.6597353,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387943,
+            "order": 396,
+            "latitude": 48.1035107,
+            "longitude": 11.6593465,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 684335864,
+            "order": 397,
+            "latitude": 48.1035107,
+            "longitude": 11.6592044,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2041408,
+            "order": 398,
+            "latitude": 48.1035102,
+            "longitude": 11.6590894,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15848407,
+            "order": 399,
+            "latitude": 48.1035109,
+            "longitude": 11.6589338,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3834387940,
+            "order": 400,
+            "latitude": 48.1033986,
+            "longitude": 11.6589348,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861643046,
+            "order": 401,
+            "latitude": 48.1030488,
+            "longitude": 11.6589379,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514065,
+            "order": 402,
+            "latitude": 48.1027881,
+            "longitude": 11.6589352,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5869514065,
+            "order": 403,
+            "latitude": 48.1027881,
+            "longitude": 11.6589352,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 243501425,
+            "order": 404,
+            "latitude": 48.1025504,
+            "longitude": 11.6589328,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5866608826,
+            "order": 405,
+            "latitude": 48.1024231,
+            "longitude": 11.6589244,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132871,
+            "order": 406,
+            "latitude": 48.1022536,
+            "longitude": 11.6589144,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 280790742,
+            "order": 407,
+            "latitude": 48.1020465,
+            "longitude": 11.6588879,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2701576621,
+            "order": 408,
+            "latitude": 48.1019165,
+            "longitude": 11.65886,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299778,
+            "order": 409,
+            "latitude": 48.1013581,
+            "longitude": 11.6586987,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1856132838,
+            "order": 410,
+            "latitude": 48.1013266,
+            "longitude": 11.6586883,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15848408,
+            "order": 411,
+            "latitude": 48.1011274,
+            "longitude": 11.6586395,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689361,
+            "order": 412,
+            "latitude": 48.1010443,
+            "longitude": 11.6585973,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073199853,
+            "order": 413,
+            "latitude": 48.100901,
+            "longitude": 11.6585363,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689352,
+            "order": 414,
+            "latitude": 48.1006764,
+            "longitude": 11.65842,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689350,
+            "order": 415,
+            "latitude": 48.1004561,
+            "longitude": 11.6582959,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6391742982,
+            "order": 416,
+            "latitude": 48.100254,
+            "longitude": 11.6581609,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689348,
+            "order": 417,
+            "latitude": 48.1001249,
+            "longitude": 11.6580747,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689345,
+            "order": 418,
+            "latitude": 48.0998162,
+            "longitude": 11.657846,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338117,
+            "order": 419,
+            "latitude": 48.0994986,
+            "longitude": 11.6576184,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7501902670,
+            "order": 420,
+            "latitude": 48.0994758,
+            "longitude": 11.6576016,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3656718049,
+            "order": 421,
+            "latitude": 48.0991841,
+            "longitude": 11.6573882,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 7501902669,
+            "order": 422,
+            "latitude": 48.099005,
+            "longitude": 11.657257,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299775,
+            "order": 423,
+            "latitude": 48.0987428,
+            "longitude": 11.6570649,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299773,
+            "order": 424,
+            "latitude": 48.0987058,
+            "longitude": 11.6570346,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689340,
+            "order": 425,
+            "latitude": 48.098607,
+            "longitude": 11.656966,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687468,
+            "order": 426,
+            "latitude": 48.0985625,
+            "longitude": 11.6571043,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789372055,
+            "order": 427,
+            "latitude": 48.0985289,
+            "longitude": 11.6572112,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299765,
+            "order": 428,
+            "latitude": 48.0984928,
+            "longitude": 11.6573234,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687476,
+            "order": 429,
+            "latitude": 48.098456,
+            "longitude": 11.6574376,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200448,
+            "order": 430,
+            "latitude": 48.0984311,
+            "longitude": 11.6575844,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338003,
+            "order": 431,
+            "latitude": 48.098426,
+            "longitude": 11.6578047,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338005,
+            "order": 432,
+            "latitude": 48.0984262,
+            "longitude": 11.6578476,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3656718039,
+            "order": 433,
+            "latitude": 48.0984266,
+            "longitude": 11.6580216,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 410572540,
+            "order": 434,
+            "latitude": 48.0984274,
+            "longitude": 11.6583053,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5873049351,
+            "order": 435,
+            "latitude": 48.0984275,
+            "longitude": 11.6583426,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1646886875,
+            "order": 436,
+            "latitude": 48.0984297,
+            "longitude": 11.65911,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3057913258,
+            "order": 437,
+            "latitude": 48.0984302,
+            "longitude": 11.6592902,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338006,
+            "order": 438,
+            "latitude": 48.0984306,
+            "longitude": 11.6594525,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5873049339,
+            "order": 439,
+            "latitude": 48.0984311,
+            "longitude": 11.6596337,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338009,
+            "order": 440,
+            "latitude": 48.0984319,
+            "longitude": 11.6599161,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687475,
+            "order": 441,
+            "latitude": 48.0984194,
+            "longitude": 11.6600163,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687475,
+            "order": 442,
+            "latitude": 48.0984194,
+            "longitude": 11.6600163,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338009,
+            "order": 443,
+            "latitude": 48.0984319,
+            "longitude": 11.6599161,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5873049339,
+            "order": 444,
+            "latitude": 48.0984311,
+            "longitude": 11.6596337,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338006,
+            "order": 445,
+            "latitude": 48.0984306,
+            "longitude": 11.6594525,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3057913258,
+            "order": 446,
+            "latitude": 48.0984302,
+            "longitude": 11.6592902,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1646886875,
+            "order": 447,
+            "latitude": 48.0984297,
+            "longitude": 11.65911,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 5873049351,
+            "order": 448,
+            "latitude": 48.0984275,
+            "longitude": 11.6583426,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 410572540,
+            "order": 449,
+            "latitude": 48.0984274,
+            "longitude": 11.6583053,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3656718039,
+            "order": 450,
+            "latitude": 48.0984266,
+            "longitude": 11.6580216,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338005,
+            "order": 451,
+            "latitude": 48.0984262,
+            "longitude": 11.6578476,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1870338003,
+            "order": 452,
+            "latitude": 48.098426,
+            "longitude": 11.6578047,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073200448,
+            "order": 453,
+            "latitude": 48.0984311,
+            "longitude": 11.6575844,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687476,
+            "order": 454,
+            "latitude": 48.098456,
+            "longitude": 11.6574376,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299765,
+            "order": 455,
+            "latitude": 48.0984928,
+            "longitude": 11.6573234,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789372055,
+            "order": 456,
+            "latitude": 48.0985289,
+            "longitude": 11.6572112,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687468,
+            "order": 457,
+            "latitude": 48.0985625,
+            "longitude": 11.6571043,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689340,
+            "order": 458,
+            "latitude": 48.098607,
+            "longitude": 11.656966,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689340,
+            "order": 459,
+            "latitude": 48.098607,
+            "longitude": 11.656966,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 789371986,
+            "order": 460,
+            "latitude": 48.0986368,
+            "longitude": 11.6568755,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299771,
+            "order": 461,
+            "latitude": 48.0986625,
+            "longitude": 11.6567955,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3656718042,
+            "order": 462,
+            "latitude": 48.0987206,
+            "longitude": 11.6566149,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2931715849,
+            "order": 463,
+            "latitude": 48.0988253,
+            "longitude": 11.6563518,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4838236903,
+            "order": 464,
+            "latitude": 48.099112,
+            "longitude": 11.6556143,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2931715817,
+            "order": 465,
+            "latitude": 48.0992237,
+            "longitude": 11.6553121,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1753964524,
+            "order": 466,
+            "latitude": 48.0992504,
+            "longitude": 11.655247,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331551,
+            "order": 467,
+            "latitude": 48.0992646,
+            "longitude": 11.6552139,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2130951050,
+            "order": 468,
+            "latitude": 48.0992786,
+            "longitude": 11.6551783,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785226,
+            "order": 469,
+            "latitude": 48.0993929,
+            "longitude": 11.654898,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1753982580,
+            "order": 470,
+            "latitude": 48.0994131,
+            "longitude": 11.6548507,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1753964527,
+            "order": 471,
+            "latitude": 48.0994218,
+            "longitude": 11.6548352,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331550,
+            "order": 472,
+            "latitude": 48.0994418,
+            "longitude": 11.6547997,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785232,
+            "order": 473,
+            "latitude": 48.0995149,
+            "longitude": 11.6547257,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4838084056,
+            "order": 474,
+            "latitude": 48.0995709,
+            "longitude": 11.6546744,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331549,
+            "order": 475,
+            "latitude": 48.0995875,
+            "longitude": 11.6546592,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 9597927372,
+            "order": 476,
+            "latitude": 48.0996361,
+            "longitude": 11.6546179,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 8833074213,
+            "order": 477,
+            "latitude": 48.0999223,
+            "longitude": 11.654375,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331548,
+            "order": 478,
+            "latitude": 48.1000872,
+            "longitude": 11.6542349,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785261,
+            "order": 479,
+            "latitude": 48.1001389,
+            "longitude": 11.6541899,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785303,
+            "order": 480,
+            "latitude": 48.1002834,
+            "longitude": 11.654064,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1073199630,
+            "order": 481,
+            "latitude": 48.1005031,
+            "longitude": 11.6538706,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331546,
+            "order": 482,
+            "latitude": 48.1005949,
+            "longitude": 11.6537682,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785393,
+            "order": 483,
+            "latitude": 48.100635,
+            "longitude": 11.6536935,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1855994326,
+            "order": 484,
+            "latitude": 48.1006601,
+            "longitude": 11.6536314,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331545,
+            "order": 485,
+            "latitude": 48.1006853,
+            "longitude": 11.6535464,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 243531314,
+            "order": 486,
+            "latitude": 48.1006985,
+            "longitude": 11.6534306,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1855994334,
+            "order": 487,
+            "latitude": 48.100702,
+            "longitude": 11.6533501,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785398,
+            "order": 488,
+            "latitude": 48.100702,
+            "longitude": 11.6533039,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1753969132,
+            "order": 489,
+            "latitude": 48.100702,
+            "longitude": 11.6531642,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 6386861916,
+            "order": 490,
+            "latitude": 48.100702,
+            "longitude": 11.6530874,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785400,
+            "order": 491,
+            "latitude": 48.1007021,
+            "longitude": 11.6527983,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785401,
+            "order": 492,
+            "latitude": 48.1007022,
+            "longitude": 11.6521564,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331542,
+            "order": 493,
+            "latitude": 48.1007023,
+            "longitude": 11.6517977,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785403,
+            "order": 494,
+            "latitude": 48.1007023,
+            "longitude": 11.6516263,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331541,
+            "order": 495,
+            "latitude": 48.1006989,
+            "longitude": 11.6510403,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331541,
+            "order": 496,
+            "latitude": 48.1006989,
+            "longitude": 11.6510403,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785396,
+            "order": 497,
+            "latitude": 48.1006719,
+            "longitude": 11.6509083,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331537,
+            "order": 498,
+            "latitude": 48.1006258,
+            "longitude": 11.6507859,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785379,
+            "order": 499,
+            "latitude": 48.1005669,
+            "longitude": 11.6507012,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331534,
+            "order": 500,
+            "latitude": 48.1004844,
+            "longitude": 11.6506357,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785329,
+            "order": 501,
+            "latitude": 48.1003997,
+            "longitude": 11.6505937,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785321,
+            "order": 502,
+            "latitude": 48.1003382,
+            "longitude": 11.6505717,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331529,
+            "order": 503,
+            "latitude": 48.1002559,
+            "longitude": 11.6505646,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1753969130,
+            "order": 504,
+            "latitude": 48.1000123,
+            "longitude": 11.6505594,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 206331525,
+            "order": 505,
+            "latitude": 48.09994,
+            "longitude": 11.6505594,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2281232679,
+            "order": 506,
+            "latitude": 48.0998282,
+            "longitude": 11.6505581,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785224,
+            "order": 507,
+            "latitude": 48.0993559,
+            "longitude": 11.6505525,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785214,
+            "order": 508,
+            "latitude": 48.0988953,
+            "longitude": 11.6505471,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687462,
+            "order": 509,
+            "latitude": 48.0984906,
+            "longitude": 11.6505423,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999022,
+            "order": 510,
+            "latitude": 48.0984258,
+            "longitude": 11.6508284,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725998984,
+            "order": 511,
+            "latitude": 48.0983394,
+            "longitude": 11.6510793,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2931739210,
+            "order": 512,
+            "latitude": 48.0982197,
+            "longitude": 11.6513895,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 410572526,
+            "order": 513,
+            "latitude": 48.0978452,
+            "longitude": 11.6523566,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725998963,
+            "order": 514,
+            "latitude": 48.0978216,
+            "longitude": 11.6524156,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687463,
+            "order": 515,
+            "latitude": 48.0977614,
+            "longitude": 11.6525199,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687463,
+            "order": 516,
+            "latitude": 48.0977614,
+            "longitude": 11.6525199,
+            "is_compulsory_stop": false,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725998963,
+            "order": 517,
+            "latitude": 48.0978216,
+            "longitude": 11.6524156,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 410572526,
+            "order": 518,
+            "latitude": 48.0978452,
+            "longitude": 11.6523566,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2931739210,
+            "order": 519,
+            "latitude": 48.0982197,
+            "longitude": 11.6513895,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725998984,
+            "order": 520,
+            "latitude": 48.0983394,
+            "longitude": 11.6510793,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999022,
+            "order": 521,
+            "latitude": 48.0984258,
+            "longitude": 11.6508284,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687462,
+            "order": 522,
+            "latitude": 48.0984906,
+            "longitude": 11.6505423,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999066,
+            "order": 523,
+            "latitude": 48.0985184,
+            "longitude": 11.6503032,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999071,
+            "order": 524,
+            "latitude": 48.0985319,
+            "longitude": 11.6500677,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785181,
+            "order": 525,
+            "latitude": 48.0985268,
+            "longitude": 11.6497605,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785180,
+            "order": 526,
+            "latitude": 48.0985247,
+            "longitude": 11.6496297,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1749785178,
+            "order": 527,
+            "latitude": 48.0985273,
+            "longitude": 11.6495661,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15687461,
+            "order": 528,
+            "latitude": 48.0985536,
+            "longitude": 11.6494874,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1727622665,
+            "order": 529,
+            "latitude": 48.0985525,
+            "longitude": 11.6491037,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 2543206338,
+            "order": 530,
+            "latitude": 48.0985487,
+            "longitude": 11.6487933,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 637704168,
+            "order": 531,
+            "latitude": 48.0985527,
+            "longitude": 11.6486331,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999081,
+            "order": 532,
+            "latitude": 48.0985573,
+            "longitude": 11.6484474,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 3701299769,
+            "order": 533,
+            "latitude": 48.0985674,
+            "longitude": 11.6482457,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413034246,
+            "order": 534,
+            "latitude": 48.0985722,
+            "longitude": 11.6481649,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689339,
+            "order": 535,
+            "latitude": 48.0985862,
+            "longitude": 11.6479847,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1725999127,
+            "order": 536,
+            "latitude": 48.0987018,
+            "longitude": 11.6480482,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689347,
+            "order": 537,
+            "latitude": 48.0999457,
+            "longitude": 11.6488366,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4129689349,
+            "order": 538,
+            "latitude": 48.1002395,
+            "longitude": 11.6490238,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231560026,
+            "order": 539,
+            "latitude": 48.100318,
+            "longitude": 11.6490188,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231560042,
+            "order": 540,
+            "latitude": 48.100476,
+            "longitude": 11.6490914,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 298495906,
+            "order": 541,
+            "latitude": 48.1005154,
+            "longitude": 11.6490748,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 1231560010,
+            "order": 542,
+            "latitude": 48.100549,
+            "longitude": 11.6490353,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 15488641,
+            "order": 543,
+            "latitude": 48.1005713,
+            "longitude": 11.6489943,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 413032968,
+            "order": 544,
+            "latitude": 48.1005956,
+            "longitude": 11.6488912,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 10918009558,
+            "order": 545,
+            "latitude": 48.1006106,
+            "longitude": 11.6488233,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 370089176,
+            "order": 546,
+            "latitude": 48.1006506,
+            "longitude": 11.6485948,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 861734952,
+            "order": 547,
+            "latitude": 48.100736,
+            "longitude": 11.6481057,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 4158123731,
+            "order": 548,
+            "latitude": 48.1008072,
+            "longitude": 11.6476985,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 550072753,
+            "order": 549,
+            "latitude": 48.1008283,
+            "longitude": 11.6475776,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 550072769,
+            "order": 550,
+            "latitude": 48.1008919,
+            "longitude": 11.6472134,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 884456584,
+            "order": 551,
+            "latitude": 48.1009083,
+            "longitude": 11.6471196,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 822868418,
+            "order": 552,
+            "latitude": 48.1009263,
+            "longitude": 11.6470167,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 884456572,
+            "order": 553,
+            "latitude": 48.1009784,
+            "longitude": 11.6467184,
+            "is_compulsory_stop": null,
+            "name": null,
+            "earliest_time": null,
+            "latest_time": null
+        },
+        {
+            "node_id": 298495487,
+            "order": 554,
+            "latitude": 48.101001,
+            "longitude": 11.6465891,
+            "is_compulsory_stop": true,
+            "name": "Neuperlach Zentrum",
+            "earliest_time": "09:42:42",
+            "latest_time": "09:44:31",
+            "arrival_time": "09:44:31"
+        }
+    ],
+    "requests": [
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 0,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.097250424165,
+                "lon": 11.658923473241874,
+                "building_num": 0
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 0,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10788517214195,
+                "lon": 11.64386205507499,
+                "building_num": 1
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 1,
+                "assigned_stop": "Nawiaskystra\u00c3\u0178e",
+                "lat": 48.10737074485974,
+                "lon": 11.634220085075178,
+                "building_num": 2
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 1,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.10142576831468,
+                "lon": 11.647907148166716,
+                "building_num": 3
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 2,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10724725000001,
+                "lon": 11.654099050000001,
+                "building_num": 4
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 2,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108589567048774,
+                "lon": 11.650782983366163,
+                "building_num": 5
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 3,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10291473271917,
+                "lon": 11.659529908953038,
+                "building_num": 6
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 3,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108712730799326,
+                "lon": 11.644981667148135,
+                "building_num": 7
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 4,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.098813488290176,
+                "lon": 11.654838833202716,
+                "building_num": 8
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 4,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10745136091473,
+                "lon": 11.643858772666517,
+                "building_num": 9
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 5,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10454976859897,
+                "lon": 11.660977810770857,
+                "building_num": 10
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 5,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10735325246321,
+                "lon": 11.643755625134165,
+                "building_num": 11
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 6,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.0967819140525,
+                "lon": 11.654856336141867,
+                "building_num": 12
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 6,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09906824923338,
+                "lon": 11.657996049275354,
+                "building_num": 13
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 7,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.0966468460593,
+                "lon": 11.656579425484642,
+                "building_num": 14
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 7,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.1077542,
+                "lon": 11.6479881,
+                "building_num": 15
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 8,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10567244942431,
+                "lon": 11.657103860786725,
+                "building_num": 16
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 8,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.109841548170124,
+                "lon": 11.644230065617755,
+                "building_num": 17
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 9,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10134461262493,
+                "lon": 11.659454810806775,
+                "building_num": 18
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 9,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10717557710211,
+                "lon": 11.647286652566773,
+                "building_num": 19
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 10,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.105276392343335,
+                "lon": 11.662965272319298,
+                "building_num": 20
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 10,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108348888915565,
+                "lon": 11.648987074832847,
+                "building_num": 21
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 11,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.104171272643896,
+                "lon": 11.655856643348121,
+                "building_num": 22
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 11,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10887171359039,
+                "lon": 11.646656374887696,
+                "building_num": 23
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 12,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10989658987866,
+                "lon": 11.655098336533012,
+                "building_num": 24
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 12,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10782632518291,
+                "lon": 11.646900082024827,
+                "building_num": 25
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 13,
+                "assigned_stop": "Staudingerstra\u00c3\u0178e",
+                "lat": 48.108837379880434,
+                "lon": 11.638197746163575,
+                "building_num": 26
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 13,
+                "assigned_stop": "Nawiaskystra\u00c3\u0178e",
+                "lat": 48.10862058521517,
+                "lon": 11.63511495883501,
+                "building_num": 27
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 14,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09755084756091,
+                "lon": 11.658414889431782,
+                "building_num": 28
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 14,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10507886776054,
+                "lon": 11.657138011487195,
+                "building_num": 29
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 15,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10699053500941,
+                "lon": 11.659785277092327,
+                "building_num": 30
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 15,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108401333879215,
+                "lon": 11.644979094315342,
+                "building_num": 31
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 16,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09928394244636,
+                "lon": 11.65649172179212,
+                "building_num": 32
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 16,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.1067545247964,
+                "lon": 11.657713629037822,
+                "building_num": 33
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 17,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.109346849999994,
+                "lon": 11.655760650000001,
+                "building_num": 34
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 17,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10782632518291,
+                "lon": 11.646900082024827,
+                "building_num": 35
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 18,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10382174694375,
+                "lon": 11.662781118139584,
+                "building_num": 36
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 18,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.1111667763522,
+                "lon": 11.655602661966503,
+                "building_num": 37
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 19,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10883368635733,
+                "lon": 11.653962238827944,
+                "building_num": 38
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 19,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10957216101816,
+                "lon": 11.647790685957421,
+                "building_num": 39
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 20,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09800213080175,
+                "lon": 11.658047125692315,
+                "building_num": 40
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 20,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.1077542,
+                "lon": 11.6479881,
+                "building_num": 41
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 21,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09766671510664,
+                "lon": 11.653813955503688,
+                "building_num": 42
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 21,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.110599249999986,
+                "lon": 11.657493999999998,
+                "building_num": 43
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 22,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10650468259114,
+                "lon": 11.657887714356107,
+                "building_num": 44
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 22,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108504860798696,
+                "lon": 11.64804916611121,
+                "building_num": 45
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 23,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10234794802282,
+                "lon": 11.659639552685912,
+                "building_num": 46
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 23,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.1082956,
+                "lon": 11.645944499999999,
+                "building_num": 47
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 24,
+                "assigned_stop": "Nawiaskystra\u00c3\u0178e",
+                "lat": 48.10862058521517,
+                "lon": 11.63511495883501,
+                "building_num": 48
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 24,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09905486435982,
+                "lon": 11.649038778342122,
+                "building_num": 49
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 25,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10726283381261,
+                "lon": 11.645251836970761,
+                "building_num": 50
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 25,
+                "assigned_stop": "Plettstra\u00c3\u0178e",
+                "lat": 48.10848793607742,
+                "lon": 11.643771054479732,
+                "building_num": 51
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 26,
+                "assigned_stop": "Karl-Marx-Ring",
+                "lat": 48.11146535521233,
+                "lon": 11.652971780646382,
+                "building_num": 52
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 26,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.11079003316337,
+                "lon": 11.646407982558001,
+                "building_num": 53
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 27,
+                "assigned_stop": "Nawiaskystra\u00c3\u0178e",
+                "lat": 48.10761092732309,
+                "lon": 11.635756037932842,
+                "building_num": 54
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 27,
+                "assigned_stop": "Holzwiesenstra\u00c3\u0178e",
+                "lat": 48.103367440572725,
+                "lon": 11.636042618627616,
+                "building_num": 55
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 28,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.098051604074996,
+                "lon": 11.654400260207728,
+                "building_num": 56
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 28,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10272609889772,
+                "lon": 11.658649017105615,
+                "building_num": 57
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 29,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.111304849999996,
+                "lon": 11.654241200000001,
+                "building_num": 58
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 29,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.10840507479153,
+                "lon": 11.646657533779502,
+                "building_num": 59
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 30,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10955358922502,
+                "lon": 11.6579616807894,
+                "building_num": 60
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 30,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108712730799326,
+                "lon": 11.644981667148135,
+                "building_num": 61
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 31,
+                "assigned_stop": "Holzwiesenstra\u00c3\u0178e",
+                "lat": 48.104961450000005,
+                "lon": 11.640243450000002,
+                "building_num": 62
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 31,
+                "assigned_stop": "Neuperlach Zentrum",
+                "lat": 48.09972374518963,
+                "lon": 11.649251119955856,
+                "building_num": 63
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 32,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.103326750219786,
+                "lon": 11.661440332939478,
+                "building_num": 64
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 32,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108401333879215,
+                "lon": 11.644979094315342,
+                "building_num": 65
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 33,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.105002586577,
+                "lon": 11.662512548388538,
+                "building_num": 66
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 33,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10996522535828,
+                "lon": 11.65273493660815,
+                "building_num": 67
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 34,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.09872727329109,
+                "lon": 11.655147319157036,
+                "building_num": 68
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 34,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.10507051006807,
+                "lon": 11.662199896886138,
+                "building_num": 69
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 35,
+                "assigned_stop": "Sudermannallee",
+                "lat": 48.099413943909795,
+                "lon": 11.649979638358152,
+                "building_num": 70
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 35,
+                "assigned_stop": "Oskar-Maria-Graf-Ring",
+                "lat": 48.098520968843815,
+                "lon": 11.660856752664381,
+                "building_num": 71
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 36,
+                "assigned_stop": "Nawiaskystra\u00c3\u0178e",
+                "lat": 48.10654533475909,
+                "lon": 11.638966997621925,
+                "building_num": 72
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 36,
+                "assigned_stop": "Schumacherring",
+                "lat": 48.097249600336994,
+                "lon": 11.637184036515427,
+                "building_num": 73
+            },
+            "utility": 1000,
+            "is_served": false
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 37,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10827985342588,
+                "lon": 11.654243732882636,
+                "building_num": 74
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 37,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108499363193054,
+                "lon": 11.644220538030398,
+                "building_num": 75
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 38,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.1096305449502,
+                "lon": 11.645871950346462,
+                "building_num": 76
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 38,
+                "assigned_stop": "Staudingerstra\u00c3\u0178e",
+                "lat": 48.10890617022021,
+                "lon": 11.63993201007916,
+                "building_num": 77
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 39,
+                "assigned_stop": "Hugo-Lang-Bogen",
+                "lat": 48.102976411162615,
+                "lon": 11.656339707157889,
+                "building_num": 78
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 39,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108452712401856,
+                "lon": 11.646656150050552,
+                "building_num": 79
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 40,
+                "assigned_stop": "Peschelanger",
+                "lat": 48.10817189128917,
+                "lon": 11.65212884383513,
+                "building_num": 80
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 40,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.108764575244074,
+                "lon": 11.643757555549929,
+                "building_num": 81
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 41,
+                "assigned_stop": "Klinikum Neuperlach",
+                "lat": 48.09610682871933,
+                "lon": 11.65407669107797,
+                "building_num": 82
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 41,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.1096305449502,
+                "lon": 11.645871950346462,
+                "building_num": 83
+            },
+            "utility": 1000,
+            "is_served": true
+        },
+        {
+            "origin": {
+                "location": "origin",
+                "trip_id": 42,
+                "assigned_stop": "Friedrich-Engels-Bogen",
+                "lat": 48.10591633824931,
+                "lon": 11.661430544692497,
+                "building_num": 84
+            },
+            "destination": {
+                "location": "destination",
+                "trip_id": 42,
+                "assigned_stop": "Quiddestra\u00c3\u0178e",
+                "lat": 48.107889875852734,
+                "lon": 11.644813355138616,
+                "building_num": 85
+            },
+            "utility": 1000,
+            "is_served": true
+        }
+    ],
+    "kpi": {
+        "km_travel_distance": 10.5,
+        "kWh_consumption_1.5_kWh_x_km": 15.74,
+        "minutes_travel_time": 39.13,
+        "num_total_request": 43,
+        "num_served_requests": 42,
+        "meters_total_walking_distance": 11924.09
+    }
+}
