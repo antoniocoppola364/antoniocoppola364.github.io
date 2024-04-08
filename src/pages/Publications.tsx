@@ -4,6 +4,7 @@ import Typography from '@mui/material/Typography';
 export default function PublicationsPage() {
     return (
         <>
+            <h1 style={{ color: 'red', fontWeight: 'bold' }}>---!TODO!--- Please adjust this page to your needs. root/src/pages/Publications.tsx</h1>
             <Typography sx={{mt: 6, mb: 3}} color="text.primary" variant="h3">
                 Publications
             </Typography>

@@ -3,6 +3,7 @@ import * as React from 'react';
 export default function ProjectPage() {
     return (
             <>
+                <h1 style={{ color: 'red', fontWeight: 'bold' }}>---!TODO!--- Please adjust this page to your needs. root/src/pages/Project.tsx</h1>
                 <h1>Modular intelligent inductive charging systems for automomous shuttles</h1>
 
                 <p>
