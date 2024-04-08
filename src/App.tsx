@@ -1,10 +1,13 @@
+// For new routing to work:
+// locally: Delete the cache folder: 
+// Locate and delete the node_modules/.vite directory. This directory contains the cached optimized dependencies. Delete it.
 import * as React from 'react';
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import HeaderBar from './HeaderBar';
 import SiteFooter from './SiteFooter';
 import {
-    createBrowserRouter,
+    createHashRouter, // Import createHashRouter instead of createBrowserRouter
     createRoutesFromElements,
     Navigate,
     Outlet,
@@ -16,9 +19,9 @@ import ProjectPage from "./pages/Project";
 import AffiliatesPage from "./pages/Affiliates";
 import PublicationsPage from "./pages/Publications";
 import ImpressumPage from "./pages/Impressum";
-import RoutesPage from "./pages/RoutesPage"; // Import your new component
+import RoutesPage from "./pages/RoutesPage"; // Ensure you've defined this component
 
-const router = createBrowserRouter(
+const router = createHashRouter( // Use createHashRouter here
         createRoutesFromElements(
                 <Route element={<Layout/>}>
                     <Route index element={<Navigate to="/project" replace/>}/>
