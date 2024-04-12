@@ -12,7 +12,7 @@ const partner_cards = [
     },
     {
         id: "ls-fahrzeugtechnik",
-        image_source: "./data/logos/ls_logo.png", // Placeholder logo path
+        image_source: "./data/logos/tum_logo.png", // Placeholder logo path
         image_title: "LS Fahrzeugtechnik logo",
         link: "https://www.mos.ed.tum.de/ftm/startseite/",
         description_header: "LS Fahrzeugtechnik",
