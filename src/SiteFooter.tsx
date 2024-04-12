@@ -8,7 +8,7 @@ import {NavLink} from "react-router-dom";
 
 const pages = ['About', 'Publications', 'Affiliates', 'Impressum']
 const external = [['TUM', 'https://www.tum.de']]
-const affiliates = [['BMBF', 'https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/publisherlogo-en.svg?__blob=normal&v=5', 'https://www.bmbf.de/'], ['TUM', 'https://ut-um.transforms.svdcdn.com/production/media/images/network/tu-munchen/tum.png?w=800&h=418&q=82&auto=format&fit=crop&dm=1588233151&s=f9a35862b4620d199caf23d919a3e709', 'https://www.tum.de']]
+const affiliates = [['BMBF', 'https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/publisherlogo-en.svg?__blob=normal&v=5', 'https://www.bmbf.de/'], ['TUM', './data/logos/tum_logo.png', 'https://www.tum.de']]
 const disclaimer = "This project was funded by the German Federal Ministry of Education and Research (BMBF) under Grant 03ZU1105FA"
 
 
