@@ -43,6 +43,14 @@ const partner_cards = [
         description_text: ""
     },
     {
+        id: "mcube",
+        image_source: "./data/logos/mcube_logo.png", // Placeholder logo path
+        image_title: "Mcube logo",
+        link: "https://mcube-cluster.de/",
+        description_header: "Munich Cluster for the Future of Mobility in Munich",
+        description_text: ""
+    },
+    {
         id: "stanglmeier-reisebuero",
         image_source: "./data/logos/stanglmeier_logo.svg", // Placeholder logo path
         image_title: "Stanglmeier Reisebüro und Bustouristik GmbH & Co. KG logo",
