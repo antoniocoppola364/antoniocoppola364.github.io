@@ -1,106 +1,65 @@
 import * as React from 'react';
 import {Button, Card, CardActions, CardContent, CardMedia, Collapse, Grid, Typography} from "@mui/material";
-// import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-
-const funding_cards = [
-    {
-        id: "bmwk",
-        image_source: "https://www.bmwk.de/SiteGlobals/BMWI/StyleBundles/Bilder/bmwi_logo_de.svg?__blob=normal&v=1",
-        image_title: "BMWK logo",
-        link: null,
-        description_header: "",
-        description_text: ""
-    }
-]
-
-const support_cards = [
-    {
-        id: "dlr",
-        image_source: "./pt_dlr_logo_gr_d_2018_lang.jpg",
-        image_title: "DLR logo",
-        link: null,
-        description_header: "",
-        description_text: ""
-    }
-]
 
 const partner_cards = [
     {
-        id: "uni-wuppertal",
-        image_source: "./uni-wuppertal.jpg",
-        image_title: "Bergische Universität Wuppertal logo",
-        link: "https://ees.uni-wuppertal.de/",
-        description_header: "Bergische Universität Wuppertal",
+        id: "bmw-group",
+        image_source: "./data/logos/BMW_logo.png", // Placeholder logo path
+        image_title: "BMW Group logo",
+        link: "https://www.bmw.de/de/home.html",
+        description_header: "BMW Group",
         description_text: ""
     },
     {
-        id: "bad-staffelstein",
-        image_source: "./bad-staffelstein.png",
-        image_title: "Bad Staffelstein logo",
-        link: "https://www.bad-staffelstein.de/de/stadt/aktuelles/investieren_projekte.php",
-        description_header: "Stadt Bad Staffelstein",
+        id: "ls-fahrzeugtechnik",
+        image_source: "./data/logos/ls_logo.png", // Placeholder logo path
+        image_title: "LS Fahrzeugtechnik logo",
+        link: "https://www.mos.ed.tum.de/ftm/startseite/",
+        description_header: "LS Fahrzeugtechnik",
         description_text: ""
     },
     {
-        id: "ibc-solar",
-        image_source: "./ibc-solar.png",
-        image_title: "IBC Solar logo",
-        link: "https://www.ibc-solar.de/",
-        description_header: "IBC Solar AG – Bad Staffelstein",
+        id: "ls-produktentwicklung",
+        image_source: "./data/logos/tum_logo.png", // Placeholder logo path
+        image_title: "LS Produktentwicklung und Leichtbau logo",
+        link: "https://www.mec.ed.tum.de/lpl/startseite/",
+        description_header: "LS Produktentwicklung und Leichtbau",
         description_text: ""
     },
     {
-        id: "tum",
-        image_source: "./tum_logo.png",
-        image_title: "Technische Universität München logo",
+        id: "man-truck-bus",
+        image_source: "./data/logos/man_logo.svg", // Placeholder logo path
+        image_title: "MAN Truck & Bus SE logo",
+        link: "https://www.man.eu/corporate/en/homepage.html",
+        description_header: "MAN Truck & Bus SE",
+        description_text: ""
+    },
+    {
+        id: "ls-business-analytics",
+        image_source: "./data/logos/tum_logo.png", // Placeholder logo path
+        image_title: "LS Business Analytics & Intelligent Systems logo",
         link: "https://www.ot.mgt.tum.de/osm/home/",
-        description_header: "Technische Universität München",
+        description_header: "LS Business Analytics & Intelligent Systems",
         description_text: ""
     },
     {
-        id: "valeo",
-        image_source: "./valeo.png",
-        image_title: "Valeo logo",
-        link: "https://www.valeo.com/de/kronach-neuses-komfort-und-fahrassistenzsysteme/",
-        description_header: "Valeo Schalter und Sensoren GmbH – Kronach",
-        description_text: ""
-    },
-]
-
-const cooperation_partners_cards = [
-    {
-        id: "intis",
-        image_source: "./logo_intis.jpg",
-        image_title: "INTIS logo",
-        link: "https://www.intis.de/",
-        description_header: "INTIS Integrated Infrastructure Solutions GmbH",
+        id: "stanglmeier-reisebuero",
+        image_source: "./data/logos/stanglmeier_logo.svg", // Placeholder logo path
+        image_title: "Stanglmeier Reisebüro und Bustouristik GmbH & Co. KG logo",
+        link: "https://www.stanglmeier.de/",
+        description_header: "Stanglmeier Reisebüro und Bustouristik GmbH & Co. KG",
         description_text: ""
     },
     {
-        id: "huk-coburg",
-        image_source: "./huk-coburg-vector-logo-02.png",
-        image_title: "HUK-COBURG logo",
-        link: "https://www.huk.de/",
-        description_header: "HUK-COBURG Versicherungsgruppe",
+        id: "stadtwerke-muenchen",
+        image_source: "./data/logos/SWM_logo.svg", // Placeholder logo path
+        image_title: "Stadtwerke München GmbH logo",
+        link: "https://www.swm.de/",
+        description_header: "Stadtwerke München GmbH",
         description_text: ""
     }
-]
+];
 
-// from https://mui.com/material-ui/react-card/
-// interface ExpandMoreProps extends IconButtonProps {
-//     expand: boolean;
-// }
-
-// const ExpandMore = styled((props: ExpandMoreProps) => {
-//     const {expand, ...other} = props;
-//     return <IconButton {...other} />;
-// })(({theme, expand}) => ({
-//     transform: !expand ? 'rotate(0deg)' : 'rotate(180deg)',
-//     marginLeft: 'auto',
-//     transition: theme.transitions.create('transform', {
-//         duration: theme.transitions.duration.shortest,
-//     }),
-// }));
 
 function LearnMoreButton(props: { link: any }) {
     if (!props.link) {
@@ -159,86 +118,26 @@ function AffiliateCard(props: {
 
 export default function AffiliatesPage() {
     return (
-            <><Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h3">
+        <>
+            <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h3">
                 {'Affiliates'}
             </Typography>
-                <Grid container
-                      direction="row"
-                        // justifyContent="space-around"
-                      justifyContent="center"
-                      alignItems="baseline" spacing={2}>
-                    {partner_cards.map((card) => (
-                            <Grid key={`${card.id}-card`} item>
-                                <AffiliateCard
-                                        image_source={card.image_source}
-                                        image_title={card.image_title}
-                                        link={card.link}
-                                        description_header={card.description_header}
-                                        description_text="TBD"/>
-                            </Grid>
-                    ))
-                    }
-                </Grid>
-                <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h4">
-                    {'Project funding'}
-                </Typography>
-                <Grid container
-                      direction="row"
-                        // justifyContent="space-around"
-                      justifyContent="center"
-                      alignItems="baseline" spacing={2}>
-                    {funding_cards.map((card) => (
-                            <Grid key={`${card.id}-card`} item>
-                                <AffiliateCard
-                                        image_source={card.image_source}
-                                        image_title={card.image_title}
-                                        link={card.link}
-                                        description_header={card.description_header}
-                                        description_text="TBD"/>
-                            </Grid>
-                    ))
-                    }
-                </Grid>
-                <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h4">
-                    {'Project support and consultation'}
-                </Typography>
-                <Grid container
-                      direction="row"
-                        // justifyContent="space-around"
-                      justifyContent="center"
-                      alignItems="baseline" spacing={2}>
-                    {support_cards.map((card) => (
-                            <Grid key={`${card.id}-card`} item>
-                                <AffiliateCard
-                                        image_source={card.image_source}
-                                        image_title={card.image_title}
-                                        link={card.link}
-                                        description_header={card.description_header}
-                                        description_text="TBD"/>
-                            </Grid>
-                    ))
-                    }
-                </Grid>
-                <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h4">
-                    {'Cooperation Partners'}
-                </Typography>
-                <Grid container
-                      direction="row"
-                        // justifyContent="space-around"
-                      justifyContent="center"
-                      alignItems="baseline" spacing={2}>
-                    {cooperation_partners_cards.map((card) => (
-                            <Grid key={`${card.id}-card`} item>
-                                <AffiliateCard
-                                        image_source={card.image_source}
-                                        image_title={card.image_title}
-                                        link={card.link}
-                                        description_header={card.description_header}
-                                        description_text={card.description_text}/>
-                            </Grid>
-                    ))
-                    }
-                </Grid>
-            </>
+            <Grid container
+                  direction="row"
+                  justifyContent="center"
+                  alignItems="baseline" spacing={2}>
+                {partner_cards.map((card) => (
+                    <Grid key={`${card.id}-card`} item>
+                        <AffiliateCard
+                                image_source={card.image_source}
+                                image_title={card.image_title}
+                                link={card.link}
+                                description_header={card.description_header}
+                                description_text="TBD"/>
+                    </Grid>
+                ))
+                }
+            </Grid>
+        </>
     );
 }
