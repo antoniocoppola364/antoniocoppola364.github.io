@@ -6,11 +6,11 @@ import {Grid, ImageList, ImageListItem, List, ListItem} from "@mui/material";
 import Typography from "@mui/material/Typography";
 import {NavLink} from "react-router-dom";
 
-const pages = ['About', 'Publications', 'Affiliates', 'Impressum']
+const pages = ['Impressum']
 const external = [['TUM', 'https://www.tum.de']]
 const affiliates = [['BMBF', 'https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/publisherlogo-en.svg?__blob=normal&v=5', 'https://www.bmbf.de/'], ['TUM', './data/logos/tum_logo.png', 'https://www.tum.de'],
 ['MCube', './data/logos/mcube_logo.png', 'https://mcube-cluster.de/']]
-const disclaimer = "This project was funded by the German Federal Ministry of Education and Research (BMBF) under Grant 03ZU1105FA"
+const disclaimer = "[is it correct?] This project was funded by the German Federal Ministry of Education and Research (BMBF) under Grant 03ZU1105FA"
 
 
 function FooterPages() {
@@ -80,7 +80,7 @@ export default function SiteFooter() {
                             <FooterPages/>
                         </Grid>
                         <Grid key={'footer_external'} item xs={2} sm={3} md={3}>
-                            <FooterExternalLinks/>
+                            {/*<FooterExternalLinks/>*/}
                         </Grid>
                         <Grid key={'footer_affiliates'} item xs={2} sm={3} md={3}>
                             <FooterHighlightedAffiliates/>

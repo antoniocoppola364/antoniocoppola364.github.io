@@ -3,23 +3,33 @@ import Typography from '@mui/material/Typography';
 
 export default function ImpressumPage() {
     return (
-        <>
-            <Typography sx={{mt: 6, mb: 3}} color="text.secondary" variant="h3">
-                {'Impressum Page'}
-            </Typography>
-            <Typography sx={{mt: 6, mb: 3}} color="text.secondary">
-                {'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   \n' +
-                    '\n' +
-                    'Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   \n' +
-                    '\n' +
-                    'Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   \n' +
-                    '\n' +
-                    'Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   \n' +
-                    '\n' +
-                    'Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   \n' +
-                    '\n' +
-                    'At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur '}
-            </Typography>
+        <><br/>
+            <Typography variant="h4" gutterBottom>Impressum (NECESSARY??)</Typography>
+            <Typography paragraph>According to § 5 TMG:</Typography>
+
+            <Typography variant="h6" gutterBottom>Operator and Contact:</Typography>
+            <Typography>Name: [Your Full Name or Company Name]</Typography>
+            <Typography>Address: [Your Full Address]</Typography>
+            <Typography>Telephone Number: [Your Telephone Number]</Typography>
+            <Typography>Email Address: [Your Email Address]</Typography>
+            <br/>
+            <Typography variant="h6" gutterBottom>Responsible for Content:</Typography>
+            <Typography>[Name of the person responsible for content in accordance with § 55 Abs. 2 RStV, if different
+                from above]</Typography>
+            <br/>
+
+            <Typography variant="h6" gutterBottom>Register Entry:</Typography>
+            <Typography>Trade Register: [Name of the Register]</Typography>
+            <Typography>Registration Number: [Registration Number]</Typography>
+            <br/>
+
+            <Typography variant="h6" gutterBottom>VAT ID:</Typography>
+            <Typography>VAT identification number according to §27a of the VAT Act: [Your VAT ID]</Typography>
+            <br/>
+
+            <Typography variant="h6" gutterBottom>Disclaimer:</Typography>
+            <Typography>Despite careful content control, we assume no liability for the content of external links. The
+                content of linked pages is the sole responsibility of their operators.</Typography>
         </>
     );
 }

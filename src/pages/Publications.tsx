@@ -77,7 +77,7 @@ export default function PublicationsPage() {
                 This information can then be used to derive a master schedule (see Bachelor Thesis Akkaya)
                 for the entire DAS line.
                 <br/>
-                <a href="https://pubsonline.informs.org/doi/abs/10.1287/ijoc.1030.0051"
+                <a href="https://arxiv.org/abs/2311.09923"
                    target="_blank">[Link to paper]</a>
 
             </Typography>
