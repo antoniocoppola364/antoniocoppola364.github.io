@@ -19,7 +19,9 @@ import ProjectPage from "./pages/Project";
 import AffiliatesPage from "./pages/Affiliates";
 import PublicationsPage from "./pages/Publications";
 import ImpressumPage from "./pages/Impressum";
-import RoutesPage from "./pages/RoutesPage"; // Ensure you've defined this component
+import RoutesPage from "./pages/RoutesPage";
+import DatenschutzPage from "./pages/Datenschutz";
+import BarrierefreiheitPage from "./pages/Barrierefreiheit"; // Ensure you've defined this component
 
 const router = createHashRouter( // Use createHashRouter here
         createRoutesFromElements(
@@ -30,6 +32,8 @@ const router = createHashRouter( // Use createHashRouter here
                     <Route path="affiliates" element={<AffiliatesPage/>}/>
                     <Route path="publications" element={<PublicationsPage/>}/>
                     <Route path="impressum" element={<ImpressumPage/>}/>
+                    <Route path="datenschutz" element={<DatenschutzPage/>}/>
+                    <Route path="barrierefreiheit" element={<BarrierefreiheitPage/>}/>
                     <Route path="routes" element={<RoutesPage/>}/>
                     <Route path="about" element={<Navigate to="/project" replace/>}/>
                 </Route>

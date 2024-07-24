@@ -15,7 +15,7 @@ const partner_cards = [
         image_source: "./data/logos/tum_logo.png", // Placeholder logo path
         image_title: "LS Fahrzeugtechnik logo",
         link: "https://www.mos.ed.tum.de/ftm/startseite/",
-        description_header: "LS Fahrzeugtechnik",
+        description_header: "Fahrzeugtechnik",
         description_text: ""
     },
     {
@@ -23,7 +23,7 @@ const partner_cards = [
         image_source: "./data/logos/tum_logo.png", // Placeholder logo path
         image_title: "LS Produktentwicklung und Leichtbau logo",
         link: "https://www.mec.ed.tum.de/lpl/startseite/",
-        description_header: "LS Produktentwicklung und Leichtbau",
+        description_header: "Produktentwicklung und Leichtbau",
         description_text: ""
     },
     {
@@ -36,10 +36,10 @@ const partner_cards = [
     },
     {
         id: "ls-business-analytics",
-        image_source: "./data/logos/tum_logo.png", // Placeholder logo path
+        image_source: "./data/logos/bais_logo.png", // Placeholder logo path
         image_title: "LS Business Analytics & Intelligent Systems logo",
         link: "https://www.ot.mgt.tum.de/osm/home/",
-        description_header: "LS Business Analytics & Intelligent Systems",
+        description_header: "Business Analytics & Intelligent Systems",
         description_text: ""
     },
     {
@@ -55,7 +55,7 @@ const partner_cards = [
         image_source: "./data/logos/stanglmeier_logo.svg", // Placeholder logo path
         image_title: "Stanglmeier Reisebüro und Bustouristik GmbH & Co. KG logo",
         link: "https://www.stanglmeier.de/",
-        description_header: "Stanglmeier Reisebüro und Bustouristik GmbH & Co. KG",
+        description_header: "Stanglmeier Reisebüro und Bustouristik",
         description_text: ""
     },
     {
@@ -63,17 +63,24 @@ const partner_cards = [
         image_source: "./data/logos/SWM_logo.svg", // Placeholder logo path
         image_title: "Stadtwerke München GmbH logo",
         link: "https://www.swm.de/",
-        description_header: "Stadtwerke München GmbH",
+        description_header: "Stadtwerke München",
+        description_text: ""
+    },
+    {
+        id: "c4f",
+        image_source: "./data/logos/c4f_logo.png", // Placeholder logo path
+        image_title: "Clusters 4 Future",
+        link: "https://www.clusters4future.de/",
+        description_header: "Clusters 4 Future",
         description_text: ""
     }
 ];
 
-
-function LearnMoreButton(props: { link: any }) {
+function LearnMoreButton(props: { link: any, name: string }) {
     if (!props.link) {
         return null;
     }
-    return <Button size="small" href={props.link} target="_blank" rel="noopener">Learn More</Button>;
+    return <Button size="small" href={props.link} target="_blank" rel="noopener">{props.name}</Button>;
 }
 
 function AffiliateCard(props: {
@@ -88,39 +95,39 @@ function AffiliateCard(props: {
     //     setExpanded(!expanded);
     // };
     return (
-            <Card sx={{maxWidth: 300}}>
-                <CardMedia
-                        component="img"
-                        height="194"
-                        sx={{padding: "1em 1em 0 1em", objectFit: "contain"}}
-                        image={props.image_source}
-                        title={props.image_title}
-                />
-                {/*<CardContent>*/}
-                {/*</CardContent>*/}
-                <CardActions disableSpacing>
-                    <LearnMoreButton link={props.link}/>
-                    {/*<Button size="small" href={props.link} target="_blank" rel="noopener">Learn More</Button>*/}
-                    {/*<ExpandMore*/}
-                    {/*        expand={expanded}*/}
-                    {/*        onClick={handleExpandClick}*/}
-                    {/*        aria-expanded={expanded}*/}
-                    {/*        aria-label="show more"*/}
-                    {/*>*/}
-                    {/*    <ExpandMoreIcon/>*/}
-                    {/*</ExpandMore>*/}
-                </CardActions>
-                <Collapse in={expanded} timeout="auto" unmountOnExit>
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="div">
-                            {props.description_header}
-                        </Typography>
-                        <Typography variant="body2" color="text.secondary">
-                            {/*{props.description_text}*/}
-                        </Typography>
-                    </CardContent>
-                </Collapse>
-            </Card>
+        <Card sx={{maxWidth: 300}}>
+            <CardMedia
+                component="img"
+                height="194"
+                sx={{padding: "1em 1em 0 1em", objectFit: "contain"}}
+                image={props.image_source}
+                title={props.image_title}
+            />
+            {/*<CardContent>*/}
+            {/*</CardContent>*/}
+            <CardActions disableSpacing>
+                <LearnMoreButton link={props.link} name={props.description_header}/>
+                {/*<Button size="small" href={props.link} target="_blank" rel="noopener">Learn More</Button>*/}
+                {/*<ExpandMore*/}
+                {/*        expand={expanded}*/}
+                {/*        onClick={handleExpandClick}*/}
+                {/*        aria-expanded={expanded}*/}
+                {/*        aria-label="show more"*/}
+                {/*>*/}
+                {/*    <ExpandMoreIcon/>*/}
+                {/*</ExpandMore>*/}
+            </CardActions>
+            <Collapse in={expanded} timeout="auto" unmountOnExit>
+                <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        {props.description_header}
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary">
+                        {/*{props.description_text}*/}
+                    </Typography>
+                </CardContent>
+            </Collapse>
+        </Card>
     );
 }
 
@@ -137,11 +144,11 @@ export default function AffiliatesPage() {
                 {partner_cards.map((card) => (
                     <Grid key={`${card.id}-card`} item>
                         <AffiliateCard
-                                image_source={card.image_source}
-                                image_title={card.image_title}
-                                link={card.link}
-                                description_header={card.description_header}
-                                description_text="TBD"/>
+                            image_source={card.image_source}
+                            image_title={card.image_title}
+                            link={card.link}
+                            description_header={card.description_header}
+                            description_text="TBD"/>
                     </Grid>
                 ))
                 }
